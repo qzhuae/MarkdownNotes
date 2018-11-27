@@ -27,3 +27,7 @@ http://stanford.edu/~boyd/papers/pdf/network_lasso.pdf
 www.princeton.edu/~amirali/Public/Teaching/ORF523/S17/ORF523_S17_Lec17_guest.pdf
 
 http://www.statsoft.com/textbook/time-series-analysis
+
+https://web.stanford.edu/~boyd/papers/pdf/rt_cvx_sig_proc.pdf
+
+https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
