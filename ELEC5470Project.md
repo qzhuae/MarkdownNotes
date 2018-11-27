@@ -33,3 +33,5 @@ https://web.stanford.edu/~boyd/papers/pdf/rt_cvx_sig_proc.pdf
 https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
 
 http://www.optimization-online.org/DB_FILE/2007/09/1779.pdf
+
+http://www.maths.lth.se/matstat/kurser/fms110mas222/10state_space_estimation.pdf
