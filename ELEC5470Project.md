@@ -31,3 +31,5 @@ http://www.statsoft.com/textbook/time-series-analysis
 https://web.stanford.edu/~boyd/papers/pdf/rt_cvx_sig_proc.pdf
 
 https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
+
+http://www.optimization-online.org/DB_FILE/2007/09/1779.pdf
