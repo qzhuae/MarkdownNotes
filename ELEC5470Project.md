@@ -35,3 +35,9 @@ https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
 http://www.optimization-online.org/DB_FILE/2007/09/1779.pdf
 
 http://www.maths.lth.se/matstat/kurser/fms110mas222/10state_space_estimation.pdf
+
+http://www.princeton.edu/~amirali/Public/Teaching/ORF523/S16/ORF523_S16_Lec17_guest.pdf
+
+http://users.cms.caltech.edu/~venkatc/vc_phdthesis.pdf
+
+https://www.bing.com/search?q=time+series+analysis+with+convex+optimization&qs=PF&cvid=8dac0340919d40b8a3c0cb72d4c56c30&refig=4cb30562c9054461e3bdfcf8996a111b&cc=US&setlang=en-US&first=29&FORM=PORE
