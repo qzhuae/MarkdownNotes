@@ -41,3 +41,13 @@ http://www.princeton.edu/~amirali/Public/Teaching/ORF523/S16/ORF523_S16_Lec17_gu
 http://users.cms.caltech.edu/~venkatc/vc_phdthesis.pdf
 
 https://www.bing.com/search?q=time+series+analysis+with+convex+optimization&qs=PF&cvid=8dac0340919d40b8a3c0cb72d4c56c30&refig=4cb30562c9054461e3bdfcf8996a111b&cc=US&setlang=en-US&first=29&FORM=PORE
+
+Online Convex Analysis
+
+https://www.google.com.hk/search?q=convexity+in+kalman+filtering&rlz=1C1GCEB_enHK820HK820&oq=convexity+in+kalman+filtering&aqs=chrome..69i57.4080j0j7&sourceid=chrome&ie=UTF-8
+
+https://web.stanford.edu/~boyd/papers/pdf/rt_cvx_sig_proc.pdf
+
+https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
+
+http://www.statsoft.com/textbook/time-series-analysis#exponential
