@@ -1,6 +1,11 @@
-# ELEC5470 Project
+# ELEC5470 Project Notes
 
 Topic: Convexity in Time Series Analysis
+Overleaf: 
+
+## Difference between Regression and Time Series Analysis
+
+
 
 ## References
 
@@ -51,3 +56,8 @@ https://web.stanford.edu/~boyd/papers/pdf/rt_cvx_sig_proc.pdf
 https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
 
 http://www.statsoft.com/textbook/time-series-analysis#exponential
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY3Njg4Njk1XX0=
+-->
