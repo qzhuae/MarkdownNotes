@@ -25,9 +25,11 @@
 	- Pre-play communication
 
 `Strict NE`
-A strategy profile is **strict** NE if every player's strategy is a unique best response to the other play 
+A strategy profile is **strict** NE if every player's strategy is a unique best response to the other players' strategies. 
+Mixed-strategy NE is not strict; pure-strategy NE may or may not be strict
+[Example?] 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5ODQxNjU1LC02Njk4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbMjA1NDY5MDU3OCwtNjY5ODA3Nzc4XX0=
 -->
