@@ -106,7 +106,6 @@ https://www.google.com.hk/search?q=trend+and+seasonality+estimation+in+convex+op
 
 https://geography.wr.usgs.gov/InnovationCenter/2014/docs/gecco-17-hyperstl-2017-04-19.pdf
 
-
 https://www.researchgate.net/publication/303245487_Can_nuclear_norm_penalization_enhance_Prony's_method
 
 https://www.researchgate.net/post/What_is_the_relation_between_Kalman_filtering_and_Gaussian_process_regression
@@ -153,12 +152,18 @@ Convex Regression Model
 https://www.researchgate.net/project/Convex-analysis-for-time-series
 General Topic on using convex analysis technique on Time Series Estimation
 
+http://linstat2018.put.poznan.pl/Abs/Gajdos.pdf
+This is just an abstract, but it shows something I really want to do
+Involve Kriging, and stochastic processes
+
 ## Some Questions to Answer
 - What is the difference between Time Series Analysis and Time Series Estimation
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzE0OTQ5OSw3MDk5NTk5NDksMjYwNz
-E3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEy
-OSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwND
-gxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3
-MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTE4NDMwOTE4NTgsNzA5OTU5OTQ5LDI2MD
+cxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkx
+MjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1MSwxMD
+Q4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNTk2NjIz
+NzMyLDE2NzY4ODY5NV19
 -->
