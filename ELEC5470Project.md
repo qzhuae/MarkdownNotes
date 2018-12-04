@@ -57,7 +57,13 @@ https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
 
 http://www.statsoft.com/textbook/time-series-analysis#exponential
 
+## Convexity in Kalman Filtering 
+
+__Gaussian Process Regression__
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
