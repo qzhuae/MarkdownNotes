@@ -57,6 +57,8 @@ https://web.stanford.edu/~boyd/papers/pdf/sig_proc_mag.pdf
 
 http://www.statsoft.com/textbook/time-series-analysis#exponential
 
+Seasonality or Trend Estimation
+
 ## Convexity in Kalman Filtering 
 
 __Gaussian Process Regression__
@@ -74,7 +76,7 @@ With relationship to different distributions
 ## Electronic Trading
 https://signalprocessingsociety.org/blog/financial-signal-processing-and-machine-learning-electronic-trading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNTc4NzUxLDEwNDgxMjQ2MTIsLTc4ND
-I1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMTY3Njg4Njk1
-XX0=
+eyJoaXN0b3J5IjpbMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0OD
+EyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLTU5NjYyMzcz
+MiwxNjc2ODg2OTVdfQ==
 -->
