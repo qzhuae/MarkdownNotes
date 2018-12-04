@@ -63,8 +63,10 @@ __Gaussian Process Regression__
 
 ## Convexity in Gaussian Process Regression
 
+## Convexity in Value at Risk
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk1OTQ0NSwtNTk2NjIzNzMyLDE2Nz
+eyJoaXN0b3J5IjpbLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2Nz
 Y4ODY5NV19
 -->
