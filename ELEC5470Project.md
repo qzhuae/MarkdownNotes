@@ -144,16 +144,16 @@ Shows one example of time series regression auto-regressive, with tilted l1 loss
 
 https://cs.nyu.edu/~mohri/talks/MIT2017.pdf
 Online Learning for Time Series Prediction
-No distributional assumptions
+No distributional assumptions, Regret Minimization
 
 https://dzone.com/articles/convex-regression-model
 Convex Regression Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5OTU5OTQ5LDI2MDcxNzgwOCw3NTI1MD
-g1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIz
-OCwxNTg1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0NjEyLC03OD
-QyNTA0ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2NzY4ODY5
-NV19
+eyJoaXN0b3J5IjpbMTE0ODU0MTA5OCw3MDk5NTk5NDksMjYwNz
+E3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEy
+OSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwND
+gxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3
+MzIsMTY3Njg4Njk1XX0=
 -->
