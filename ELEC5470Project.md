@@ -1,10 +1,9 @@
 # ELEC5470 Project Notes
 
 Topic: Convexity in Time Series Analysis
-Overleaf: 
+Overleaf: https://www.overleaf.com/project/5c05360907ab3829aff61451
 
 ## Difference between Regression and Time Series Analysis
-
 
 
 ## References
@@ -78,7 +77,7 @@ https://signalprocessingsociety.org/blog/financial-signal-processing-and-machine
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1Mz
-U3ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2
-NiwtNTk2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbLTEzMDg5NTkxMjksLTEyNDkxNjIzOCwxNT
+g1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0
+ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2NzY4ODY5NV19
 -->
