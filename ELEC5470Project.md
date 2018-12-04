@@ -142,11 +142,14 @@ Shows one example of time series regression auto-regressive, with tilted l1 loss
 
 https://cs.nyu.edu/~mohri/talks/MIT2017.pdf
 Online Learning for Time Series Prediction
+No distributional assumptions
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MD
-IyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODEx
-MTAsNjUzNTc4NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNz
-U4MTYwMTY2LC01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbNjMxMTk1NjIyLDI2MDcxNzgwOCw3NTI1MD
+g1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIz
+OCwxNTg1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0NjEyLC03OD
+QyNTA0ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2NzY4ODY5
+NV19
 -->
