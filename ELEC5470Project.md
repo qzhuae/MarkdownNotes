@@ -69,7 +69,12 @@ Looks pretty difficult and I'm not really interested in.
 With relationship to different distributions
 
 ## Convexity in Gaussian Process Regression
+
+
+## Electronic Trading
+https://signalprocessingsociety.org/blog/financial-signal-processing-and-machine-learning-electronic-trading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NT
-gxNjAxNjYsLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbNjUzNTc4NzUxLDEwNDgxMjQ2MTIsLTc4ND
+I1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMTY3Njg4Njk1
+XX0=
 -->
