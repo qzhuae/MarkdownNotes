@@ -149,11 +149,12 @@ No distributional assumptions, Regret Minimization
 https://dzone.com/articles/convex-regression-model
 Convex Regression Model
 
-
+https://www.researchgate.net/project/Convex-analysis-for-time-series
+General Topic on using convex analysis technique on Time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODU0MTA5OCw3MDk5NTk5NDksMjYwNz
-E3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEy
-OSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwND
-gxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3
-MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTExNjU3NzE2MjEsNzA5OTU5OTQ5LDI2MD
+cxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkx
+MjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1MSwxMD
+Q4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNTk2NjIz
+NzMyLDE2NzY4ODY5NV19
 -->
