@@ -75,8 +75,10 @@ With relationship to different distributions
 
 ## Electronic Trading
 https://signalprocessingsociety.org/blog/financial-signal-processing-and-machine-learning-electronic-trading
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0OD
-EyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLTU5NjYyMzcz
-MiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1Mz
+U3ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2
+NiwtNTk2NjIzNzMyLDE2NzY4ODY5NV19
 -->
