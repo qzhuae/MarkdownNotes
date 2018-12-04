@@ -38,6 +38,8 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 
 [Ask for course example solution]
 
+[Informal ]
+
 `Proper Equilibrium`
 - refinement based on THP
 - a player is more likely to tremble in directions that are least harmful to him.
@@ -52,6 +54,6 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzQ4MTUxMCwyMzkzOTEzMTgsMTg4Mz
-A2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbLTEyNTg0NTgwLDIzOTM5MTMxOCwxODgzMD
+Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
 -->
