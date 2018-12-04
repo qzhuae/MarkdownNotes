@@ -140,10 +140,13 @@ https://www.cs.toronto.edu/~duvenaud/talks/intro_bq.pdf
 https://web.stanford.edu/~boyd/papers/pdf/cvx_applications.pdf
 Shows one example of time series regression auto-regressive, with tilted l1 loss
 
+https://cs.nyu.edu/~mohri/talks/MIT2017.pdf
+Online Learning for Time Series Prediction
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk5Nzg2NDcsNzUyNTA4NTE0LC0xNT
-cwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4
-MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC
-03NTgxNjAxNjYsLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MD
+IyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODEx
+MTAsNjUzNTc4NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNz
+U4MTYwMTY2LC01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
