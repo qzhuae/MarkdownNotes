@@ -19,8 +19,8 @@
  - [ ] Lecture Note 8
  - [ ] Lecture Note 9
 
-
-
+## Lecture 6
+Sy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbLTIwNjQyNzg4MTIsLTY2OTgwNzc3OF19
 -->
