@@ -65,8 +65,10 @@ __Gaussian Process Regression__
 
 ## Convexity in Value at Risk
 
+## Convexity in Bayesian Optimization
 
+With relationship to different distributions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2Nz
-Y4ODY5NV19
+eyJoaXN0b3J5IjpbLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OT
+Y2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
