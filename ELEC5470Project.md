@@ -61,10 +61,10 @@ http://www.statsoft.com/textbook/time-series-analysis#exponential
 
 __Gaussian Process Regression__
 
-##
+## Convexity in Gaussian Process Regression
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUwODAwMjAsLTU5NjYyMzczMiwxNj
-c2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk1OTQ0NSwtNTk2NjIzNzMyLDE2Nz
+Y4ODY5NV19
 -->
