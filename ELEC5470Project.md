@@ -116,11 +116,31 @@ https://www.researchgate.net/post/What_are_other_modern_alternatives_to_Markov_C
 
 https://www.semanticscholar.org/paper/The-Kernel-Kalman-Rule-Efficient-Nonparametric-with-Gebhardt-Kupcsik/2b85c85b3b72220b178cc62fa07a35afad28798c
 
+https://arxiv.org/pdf/1504.05994.pdf
+
+https://www.google.com.hk/search?q=convex+regression+models&rlz=1C1GCEB_enHK820HK820&oq=convex+regression+models&aqs=chrome..69i57.2719j0j7&sourceid=chrome&ie=UTF-8
+
+https://arxiv.org/pdf/1105.1924.pdf
+
+http://www.stat.columbia.edu/~bodhi/Talks/NPCvxReg.pdf
+
+https://www.google.com.hk/search?q=Convex+and+Non-convex+regression&rlz=1C1GCEB_enHK820HK820&oq=Convex+and+Non-convex+regression&aqs=chrome..69i57.5263j1j7&sourceid=chrome&ie=UTF-8
+
+https://trimestres-lmb.univ-fcomte.fr/IMG/pdf/s_chretien_6_mai_2014.pdf
+
+http://www.ee.umn.edu/users/georgiou/papers/GL3.pdf
+
+http://www.jmlr.org/papers/volume12/hannah11a/hannah11a.pdf
+
+https://en.wikipedia.org/wiki/Kriging
+
+https://www.cs.toronto.edu/~duvenaud/talks/intro_bq.pdf
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE1ODk0MzcsLTE1NzAyMjIxOTQsLT
-EzMDg5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3
-ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2Ni
-wtNTk2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
+A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
+NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
+U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
