@@ -36,7 +36,7 @@ THP, each player i's strategy is not only a best response to other players' stra
 
 Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totally mixed strategy profile $\sigma^n \rightarrow \sigma$ such that for all $i$, $u_i(\sigma, \sigma_{-i}^n) \geq  u_i(s_i, \sigma^n_{-i})$ for all $s_i$.
 
-
+[Ask for course example solution]
 
 `Proper Equilibrium`
 - refinement based on THP
@@ -52,6 +52,6 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDYxMDkwMiwyMzkzOTEzMTgsMTg4Mz
+eyJoaXN0b3J5IjpbMTgzMzQ4MTUxMCwyMzkzOTEzMTgsMTg4Mz
 A2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
