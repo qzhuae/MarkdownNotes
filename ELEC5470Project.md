@@ -137,6 +137,8 @@ https://en.wikipedia.org/wiki/Kriging
 https://www.cs.toronto.edu/~duvenaud/talks/intro_bq.pdf
 
 
+## Summary of Finished Readings
+
 https://web.stanford.edu/~boyd/papers/pdf/cvx_applications.pdf
 Shows one example of time series regression auto-regressive, with tilted l1 loss
 
@@ -147,10 +149,11 @@ No distributional assumptions
 https://dzone.com/articles/convex-regression-model
 Convex Regression Model
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTE0ODkwMSwyNjA3MTc4MDgsNzUyNT
-A4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMjQ5MTYy
-MzgsMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYxMiwtNz
-g0MjUwNDg4LC03NTgxNjAxNjYsLTU5NjYyMzczMiwxNjc2ODg2
-OTVdfQ==
+eyJoaXN0b3J5IjpbNzA5OTU5OTQ5LDI2MDcxNzgwOCw3NTI1MD
+g1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIz
+OCwxNTg1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0NjEyLC03OD
+QyNTA0ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2NzY4ODY5
+NV19
 -->
