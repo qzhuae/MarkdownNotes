@@ -159,14 +159,16 @@ Involve Kriging, and stochastic processes
 http://www.math.ucla.edu/~eryu/papers/ryu_thesis_page_removed-augmented.pdf
 This is really fun stuff about stochastic optimization
 
+
+
 ## Some Questions to Answer
 - What is the difference between Time Series Analysis and Time Series Estimation
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOT
-k1OTk0OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0
-LC0xMzA4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NT
-M1Nzg3NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAx
-NjYsLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbMTA0NjMwNTA4NSwxMzQ4NDMwMzMsLTE4ND
+MwOTE4NTgsNzA5OTU5OTQ5LDI2MDcxNzgwOCw3NTI1MDg1MTQs
+LTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIzOCwxNT
+g1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0
+ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2NzY4ODY5NV19
 -->
