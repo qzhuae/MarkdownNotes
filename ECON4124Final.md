@@ -40,9 +40,10 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 - refinement based on THP
 - a player is more likely to tremble in directions that are least harmful to him.
 
-Strategy profile $\sigma$ is an $\epsilon$-proper equilibrium iff 
+
+DStrategy profile $\sigma$ is an $\epsilon$-proper equilibrium iff 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTA1NTA0NSwxODgzMDY0OTkzLDIwNT
+eyJoaXN0b3J5IjpbMTM4MTYyNDk2NywxODgzMDY0OTkzLDIwNT
 Q2OTA1NzgsLTY2OTgwNzc3OF19
 -->
