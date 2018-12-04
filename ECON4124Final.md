@@ -36,6 +36,8 @@ THP, each player i's strategy is not only a best response to other players' stra
 
 Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totally mixed strategy profile $\sigma^n \rightarrow \sigma$ such that for all $i$, $u_i(\sigma, \sigma_{-i}^n) \geq  u_i(s_i, \sigma^n_{-i})$ for all $s_i$.
 
+
+
 `Proper Equilibrium`
 - refinement based on THP
 - a player is more likely to tremble in directions that are least harmful to him.
@@ -47,7 +49,9 @@ Strategy profile $\sigma$ is an $\epsilon-$proper equilibrium iff
 $u_i(s_i,\sigma_{-i}) > u_i(\hat s_i, \sigma_{-i}) \Rightarrow \sigma_i(s_i) > \sigma_i(\hat s_i)/\epsilon$
 
 $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each $\sigma_\epsilon$ is an $\epsilon-$proper eqm
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1ND
-Y5MDU3OCwtNjY5ODA3Nzc4XX0=
+eyJoaXN0b3J5IjpbMjA4NDYxMDkwMiwyMzkzOTEzMTgsMTg4Mz
+A2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
