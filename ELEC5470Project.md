@@ -87,12 +87,40 @@ https://en.wikipedia.org/wiki/Kalman_filter
 
 https://www.google.com.hk/search?q=dirichlet+process+regression&rlz=1C1GCEB_enHK820HK820&oq=dirichlet+process+regression&aqs=chrome..69i57j0l5.3135j0j7&sourceid=chrome&ie=UTF-8
 
+https://www.google.com.hk/search?q=Convex+optimization+in+gaussian+process+regression&rlz=1C1GCEB_enHK820HK820&oq=Convex+optimization+in+gaussian+process+regression&aqs=chrome..69i57.9615j1j7&sourceid=chrome&ie=UTF-8
+
+http://www.robots.ox.ac.uk/~mosb/public/pdf/115/Osborne%20et%20al.%20-%202009%20-%20Gaussian%20processes%20for%20global%20optimization.pdf
+
+https://cs.stanford.edu/~quocle/LeSmoCan05.pdf
+
+https://stats.stackexchange.com/questions/342287/is-the-mle-problem-for-gaussian-process-regression-convex
+
+http://www.gaussianprocess.org/gpml/chapters/RW2.pdf
+
+
+https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf
+
+
+https://www.google.com.hk/search?q=trend+and+seasonality+estimation+in+convex+optimization&rlz=1C1GCEB_enHK820HK820&oq=trend+and+seasonality+estimation+in+convex+optimization&aqs=chrome..69i57.7903j0j7&sourceid=chrome&ie=UTF-8
+
+https://geography.wr.usgs.gov/InnovationCenter/2014/docs/gecco-17-hyperstl-2017-04-19.pdf
+
+
+https://www.researchgate.net/publication/303245487_Can_nuclear_norm_penalization_enhance_Prony's_method
+
+https://www.researchgate.net/post/What_is_the_relation_between_Kalman_filtering_and_Gaussian_process_regression
+
+https://www.researchgate.net/post/What_is_the_relation_between_Kalman_filtering_and_Gaussian_process_regression
+
+https://www.researchgate.net/post/What_are_other_modern_alternatives_to_Markov_Chain_models
+
+https://www.semanticscholar.org/paper/The-Kernel-Kalman-Rule-Efficient-Nonparametric-with-Gebhardt-Kupcsik/2b85c85b3b72220b178cc62fa07a35afad28798c
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTIxODMyOCwtMTU3MDIyMjE5NCwtMT
-MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
-NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
-01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTEwNzE1ODk0MzcsLTE1NzAyMjIxOTQsLT
+EzMDg5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3
+ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2Ni
+wtNTk2NjIzNzMyLDE2NzY4ODY5NV19
 -->
