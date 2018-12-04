@@ -40,6 +40,14 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 
 [Ask about correction on THP on the course note]
 
+1. If every player has two pure strategies in a game, then THP = Proper.
+
+2. THP gets rid of an NE (Nash equilibrium) with a weakly dominated strategy.
+
+3. But THP does more than getting rid of a weakly dominated strategy.
+
+4. Any NE in which both players are using totally mixed strategies is THP.
+
 `Proper Equilibrium`
 - refinement based on THP
 - a player is more likely to tremble in directions that are least harmful to him.
@@ -56,7 +64,7 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 `Subgame` consists of the game tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzA3NzQzMiwyNzY1MjUxMTAsMjM5Mz
-kxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3OCwtNjY5ODA3Nzc4
-XX0=
+eyJoaXN0b3J5IjpbMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NT
+I1MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1Nzgs
+LTY2OTgwNzc3OF19
 -->
