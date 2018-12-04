@@ -47,6 +47,7 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 3. But THP does more than getting rid of a weakly dominated strategy.
 
 4. Any NE in which both players are using totally mixed strategies is THP.
+5.
 
 `Proper Equilibrium`
 - refinement based on THP
@@ -64,7 +65,7 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 `Subgame` consists of the game tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NT
-I1MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1Nzgs
-LTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbNDQ3NjUyODAyLDE5MzAzMDQ3NywxMTQzMD
+c3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4MzA2NDk5Mywy
+MDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
