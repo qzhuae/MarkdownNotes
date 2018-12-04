@@ -61,9 +61,10 @@ http://www.statsoft.com/textbook/time-series-analysis#exponential
 
 __Gaussian Process Regression__
 
-
+##
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbLTEzOTUwODAwMjAsLTU5NjYyMzczMiwxNj
+c2ODg2OTVdfQ==
 -->
