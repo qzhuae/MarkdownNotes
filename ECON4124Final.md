@@ -38,6 +38,8 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 
 [Ask for course example solution]
 
+[Ask about correction on THP on the course note]
+
 `Proper Equilibrium`
 - refinement based on THP
 - a player is more likely to tremble in directions that are least harmful to him.
@@ -51,7 +53,10 @@ $u_i(s_i,\sigma_{-i}) > u_i(\hat s_i, \sigma_{-i}) \Rightarrow \sigma_i(s_i) > \
 $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each $\sigma_\epsilon$ is an $\epsilon-$proper eqm
 
 [Informal Argument for proper equilibrium]
+
+`Subgame` consists of the game tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMD
-Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbMTE0MzA3NzQzMiwyNzY1MjUxMTAsMjM5Mz
+kxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3OCwtNjY5ODA3Nzc4
+XX0=
 -->
