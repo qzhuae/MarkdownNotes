@@ -77,10 +77,22 @@ https://signalprocessingsociety.org/blog/financial-signal-processing-and-machine
 
 https://era.library.ualberta.ca/items/4a6607d9-516e-4580-8b64-0ef18f47f1c4/view/7d7bc015-e452-4ce3-9405-0dedcfc78587/Balazs_Gabor_201609_PhD.pdf
 
+## Dec 4
+
+http://www.ece.ust.hk/~palomar/MAFS6010R_lectures/week%2007/slides_times_series_modeling.pdf
+
+https://www.google.com.hk/search?q=Gaussian+Process+Regression&rlz=1C1GCEB_enHK820HK820&oq=Gaussian+Process+Regression&aqs=chrome..69i57j0l5.4079j0j7&sourceid=chrome&ie=UTF-8
+
+https://en.wikipedia.org/wiki/Kalman_filter
+
+https://www.google.com.hk/search?q=dirichlet+process+regression&rlz=1C1GCEB_enHK820HK820&oq=dirichlet+process+regression&aqs=chrome..69i57j0l5.3135j0j7&sourceid=chrome&ie=UTF-8
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLT
-EyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0
-NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLD
-E2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbMjA1NTIxODMyOCwtMTU3MDIyMjE5NCwtMT
+MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
+NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
+01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
