@@ -44,8 +44,10 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 Strategy profile $\sigma$ is an $\epsilon-$proper equilibrium iff 
 - it is a totally mixed strategy profile
 - for any $i$ and pure strategies $s_i$ and $\hat s_i$, 
-u_i(s_i,\sigma_{-i}) > u_i(\hat s_i, \sigma_{-i}) \Rightarrow \sigma_i(s_i) > \sigma_i(\h)
+$u_i(s_i,\sigma_{-i}) > u_i(\hat s_i, \sigma_{-i}) \Rightarrow \sigma_i(s_i) > \sigma_i(\hat s_i)/\epsilon$
+
+$\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each $\sigma_\epsilon$ is an $\epsilon-$proper eqm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTk3OTEzMSwxODgzMDY0OTkzLDIwNT
-Q2OTA1NzgsLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1ND
+Y5MDU3OCwtNjY5ODA3Nzc4XX0=
 -->
