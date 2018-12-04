@@ -61,14 +61,15 @@ http://www.statsoft.com/textbook/time-series-analysis#exponential
 
 __Gaussian Process Regression__
 
-## Convexity in Gaussian Process Regression
-
 ## Convexity in Value at Risk
+Looks pretty difficult and I'm not really interested in.
 
 ## Convexity in Bayesian Optimization
 
 With relationship to different distributions
+
+## Convexity in Gaussian Process Regression
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OT
-Y2MjM3MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NT
+gxNjAxNjYsLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
