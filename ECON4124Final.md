@@ -29,7 +29,10 @@ A strategy profile is **strict** NE if every player's strategy is a unique best 
 Mixed-strategy NE is not strict; pure-strategy NE may or may not be strict
 [Example?] 
 
+Informal Arguments for Unique Strict NE
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDY5MDU3OCwtNjY5ODA3Nzc4XX0=
+eyJoaXN0b3J5IjpbNTAyODA0NjU4LDIwNTQ2OTA1NzgsLTY2OT
+gwNzc3OF19
 -->
