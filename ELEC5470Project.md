@@ -137,10 +137,13 @@ https://en.wikipedia.org/wiki/Kriging
 https://www.cs.toronto.edu/~duvenaud/talks/intro_bq.pdf
 
 
+https://web.stanford.edu/~boyd/papers/pdf/cvx_applications.pdf
+Shows one example of time series regression auto-regressive, with tilted l1 loss
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
-A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
-NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
-U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjk5Nzg2NDcsNzUyNTA4NTE0LC0xNT
+cwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4
+MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC
+03NTgxNjAxNjYsLTU5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
