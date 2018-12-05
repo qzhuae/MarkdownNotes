@@ -261,6 +261,13 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 - Many criteria which are described in standard textbooks are non-convex and the optimization routines are thus not guaranteed to provide the desired global optimum. 
 - Model order selection is a combinatorial optimization when addressed using penalization approaches such as AIC or BIC.
 
+Equivalent Criteria by Van Overschee and DeMoor
+- Canonical variate analysis in identification filtering and adaptive control
+- N4SID: Subspace algorithms for the identification of combined deterministic-stochastic systems
+- A unifying theorem for three subspace system identification algorithms, Van Overschee and B. De Moor
+
+
+
 
 
 
@@ -274,7 +281,7 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NjMzOTU5LC04ODE5NDAwNzUsMTA0Nj
+eyJoaXN0b3J5IjpbODc4NzA0NDQzLC04ODE5NDAwNzUsMTA0Nj
 gyMDI2LDE2MzYxMTY0NTUsMTA0NjMwNTA4NSwxMzQ4NDMwMzMs
 LTE4NDMwOTE4NTgsNzA5OTU5OTQ5LDI2MDcxNzgwOCw3NTI1MD
 g1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIz
