@@ -241,8 +241,13 @@ It was possible to prove that exact recovery of support and sign pattern of \bet
 
 Main assumptions on the `design matrix` are 
 - incoherence: some condition on $\mu(X) = \max |X_j^tX_{j'}| \leq \frac{C_\mu}{\log(p)}$
-- Restricted Isometry: $\forall T, |T| \leq 2s$, $1 - \delta \leq \sigma_\min{} \leq \sigma_\max{} \leq 1 + \delta$.
+- Restricted Isometry: $\forall T, |T| \leq 2s$, $1 - \delta \leq \sigma_{min} \leq \sigma_{max} \leq 1 + \delta$.
 
+Incoherence implies a sort of relaxed restricted isometry property (I don't get this)
+
+Sparsity => Low-rank matrix 
+
+Convex surrogate nuclear norm, [Remember something in class about, this solution being the same as low rank solution]
 
 
 
@@ -256,10 +261,10 @@ Main assumptions on the `design matrix` are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA5OTE4MjksMTYzNjExNjQ1NSwxMD
-Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
-NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
-MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
-NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
-01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTk2NTcxMjkwLDE2MzYxMTY0NTUsMTA0Nj
+MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
+LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
+g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
+MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
+k2NjIzNzMyLDE2NzY4ODY5NV19
 -->
