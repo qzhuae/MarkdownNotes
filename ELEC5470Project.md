@@ -159,7 +159,8 @@ Involve Kriging, and stochastic processes
 http://www.math.ucla.edu/~eryu/papers/ryu_thesis_page_removed-augmented.pdf
 This is really fun stuff about stochastic optimization
 
-
+https://www.quora.com/Which-is-more-useful-for-data-science-regression-or-time-series-models
+Regression vs. Time Series, TS more simple forecast, Regression more input
 
 ## Some Questions to Answer
 - What is the difference between Time Series Analysis and Time Series Estimation
@@ -173,8 +174,12 @@ possible time series forecasting models ARIMA, ARMA, Holt-Winter, Hybrid modelli
 
 In time series sequence matters but not in regression. 
 
+
+
+One difference from standard linear regression is that the data are not necessarily independent and not necessarily identically distributed. One defining characteristic of time series is that this is a list of observations where the ordering matters. Ordering is very important because there is dependency and changing the order could change the meaning of the data.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjkwNzExOCwxMDQ2MzA1MDg1LDEzND
+eyJoaXN0b3J5IjpbMTAyMDU0NjY4NCwxMDQ2MzA1MDg1LDEzND
 g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
 LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
 I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
