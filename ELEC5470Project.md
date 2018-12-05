@@ -237,6 +237,8 @@ The only known method in this case is enumeration, this might be too complex
 
 `Lasso` When one lets the relaxation parameter $\lambda$ go from a sufficiently large value to zero, the coef are shrinked and most of them are set to zero.
 
+It was possible to prove that exact recovery of support and sign pattern of \beta can be recovered with high probability in the case of gaussian noise.
+
 
 
 
@@ -250,10 +252,10 @@ The only known method in this case is enumeration, this might be too complex
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjE1NDg3NywxNjM2MTE2NDU1LDEwND
-YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
-OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
-A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
-NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
-U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTIxMDYxMTAsMTYzNjExNjQ1NSwxMD
+Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
+NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
+MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
+NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
+01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
