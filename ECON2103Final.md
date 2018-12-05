@@ -13,9 +13,9 @@
 - [ ] Energy consumption
 - [ ] How to determine when a diode is on?
 - [ ] Why current, voltage is consistent in inductor/capacitor
-- [ ] 
+- [ ] Max power consumption, usually is when load = internal resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjQ3MDU5MywtMTQyMTUzMTg5MiwzNT
-QxNDYzMzgsLTEzMjczMjMwMjMsLTE4NDQ3MDc0NiwyMTM1NTgz
-Njc0LC0xNDcyNjcxNDEwXX0=
+eyJoaXN0b3J5IjpbLTE4ODQ4OTkyOTksLTE0MjE1MzE4OTIsMz
+U0MTQ2MzM4LC0xMzI3MzIzMDIzLC0xODQ0NzA3NDYsMjEzNTU4
+MzY3NCwtMTQ3MjY3MTQxMF19
 -->
