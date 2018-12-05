@@ -177,6 +177,15 @@ In time series sequence matters but not in regression.
 * Cyclical Movements
 * Irregular Fluctuations
 
+way of looking at the trend is to draw mean production line and then check if new data points are trying to come near the mean? If yes, there is no trend. 
+
+Suppose that the observed series is  _x__(t)_, for  _t_=1,2,…,_n_
+
+-   For a linear trend, use  _t_  (the time index) as a predictor variable in a regression.
+    
+-   For a quadratic trend, we might consider using both  _t_  and  _t_2.
+    
+-   For quarterly data, with possible seasonal (quarterly) effects, we can define indicator variables such as  $S_j  = 1$ if observation is in quarter  _j_  of a year and 0 otherwise. There are 4 such indicators.
 
 
 
@@ -190,7 +199,7 @@ One difference from standard linear regression is that the data are not necessar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2Njk5MTUzLDEwNDYzMDUwODUsMTM0OD
+eyJoaXN0b3J5IjpbMjAyMTU3OTI5LDEwNDYzMDUwODUsMTM0OD
 QzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0OSwyNjA3MTc4MDgs
 NzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMj
 Q5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYx
