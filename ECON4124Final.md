@@ -65,8 +65,10 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 `Subgame` consists of the game tree
 
 [Tutorial Note 5 and 9]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNzA3MjQ0LDE5MzAzMDQ3NywxMTQzMD
-c3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4MzA2NDk5Mywy
-MDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMD
+MwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwx
+ODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
 -->
