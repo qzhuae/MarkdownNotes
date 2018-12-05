@@ -239,7 +239,8 @@ The only known method in this case is enumeration, this might be too complex
 
 It was possible to prove that exact recovery of support and sign pattern of \beta can be recovered with high probability in the case of gaussian noise.
 
-
+Main assumptions on the `design matrix` are 
+- incoherence: some condition on $\mu(X) = \max |X_j^tX_{j'}| \leq \$
 
 
 
@@ -252,7 +253,7 @@ It was possible to prove that exact recovery of support and sign pattern of \bet
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIxMDYxMTAsMTYzNjExNjQ1NSwxMD
+eyJoaXN0b3J5IjpbLTEzOTk0NTc0OTcsMTYzNjExNjQ1NSwxMD
 Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
 NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
 MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
