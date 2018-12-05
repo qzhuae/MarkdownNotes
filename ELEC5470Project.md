@@ -258,7 +258,9 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
 
 **ARMA Estimation**
-- Many criteria which are described in standard textbooks are non-convex and the o
+- Many criteria which are described in standard textbooks are non-convex and the optimization routines are thus not guaranteed to provide the desired global optimum. 
+- Model order selection is a combinatorial optimization when addressed using penalization approaches such as AIC or BIC.
+
 
 
 
@@ -271,7 +273,7 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTM2ODM0MCwxMDQ2ODIwMjYsMTYzNj
+eyJoaXN0b3J5IjpbLTg4MTk0MDA3NSwxMDQ2ODIwMjYsMTYzNj
 ExNjQ1NSwxMDQ2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1
 OCw3MDk5NTk5NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MD
 IyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODEx
