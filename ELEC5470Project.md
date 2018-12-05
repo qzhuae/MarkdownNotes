@@ -187,6 +187,13 @@ Suppose that the observed series is  _x__(t)_, for  _t_=1,2,…,_n_
     
 -   For quarterly data, with possible seasonal (quarterly) effects, we can define indicator variables such as  $S_j  = 1$ if observation is in quarter  _j_  of a year and 0 otherwise. There are 4 such indicators.
 
+RMSE or R Square can be used for model validation. I would also like to mention that R square is a comparison parameter to know 'how better regression is fitting data points compare to simple average”.
+
+https://machinelearningstories.blogspot.com/2018/07/anomaly-detection-anomaly-detection-by.html
+
+
+http://machinelearningstories.blogspot.com/2016_11_01_archive.html 
+[Market Basket Analysis]
 
 
 http://machinelearningstories.blogspot.com/2016/08/time-series-and-fitting-regression-on.html
@@ -199,10 +206,10 @@ One difference from standard linear regression is that the data are not necessar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTU3OTI5LDEwNDYzMDUwODUsMTM0OD
-QzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0OSwyNjA3MTc4MDgs
-NzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMj
-Q5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYx
-MiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLTU5NjYyMzczMiwxNj
-c2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbMTM4NjQ0NDY1NiwxMDQ2MzA1MDg1LDEzND
+g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
+LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
+I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
+MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMT
+Y3Njg4Njk1XX0=
 -->
