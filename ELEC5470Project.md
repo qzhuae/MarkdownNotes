@@ -215,6 +215,8 @@ Difficult because:
 - Estimating a sum of damped exponentials via least-squares is a non-convex optimization problem, and the same problem holds for model order selection (number of exponential)
 - Trends are sometimes subject to abrupt changes in the 0th, 1th, 2th derivative, whose number and location are hard to estimate since they are often recast as solutions to non-convex optimization problems
 
+`Sparsity promoting penalizations of the least-square criterion  and allow simultaneous model estimation and model order selection`
+
 
 
 
@@ -224,10 +226,10 @@ Difficult because:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU3MjkwMDAsMTYzNjExNjQ1NSwxMD
-Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
-NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
-MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
-NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
-01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbMTA0NTUyNzA2NiwxNjM2MTE2NDU1LDEwND
+YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
+OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
+A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
+NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
+U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
