@@ -23,8 +23,8 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] Load, phase lag, 
 
 ## Past Papers
-- [ ] 2003 Test 1
-- [ ] 2003 Test 2
+- [x] 2003 Test 1
+- [x] 2003 Test 2
 - [ ] exampast1
 - [ ] exampast2
 - [ ] exampast3
@@ -63,5 +63,5 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU5ODExODhdfQ==
+eyJoaXN0b3J5IjpbMTE5NDMzODY4NF19
 -->
