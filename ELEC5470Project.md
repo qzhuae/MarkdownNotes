@@ -164,11 +164,20 @@ This is really fun stuff about stochastic optimization
 ## Some Questions to Answer
 - What is the difference between Time Series Analysis and Time Series Estimation
 
+## Actual Content
+
+possible time series forecasting models ARIMA, ARMA, Holt-Winter, Hybrid modelling, UCM
+
+
+## List of papers read, minimum 8
+
+In time series sequence matters but not in regression. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjMwNTA4NSwxMzQ4NDMwMzMsLTE4ND
-MwOTE4NTgsNzA5OTU5OTQ5LDI2MDcxNzgwOCw3NTI1MDg1MTQs
-LTE1NzAyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIzOCwxNT
-g1ODgxMTEwLDY1MzU3ODc1MSwxMDQ4MTI0NjEyLC03ODQyNTA0
-ODgsLTc1ODE2MDE2NiwtNTk2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbMTYwNjkwNzExOCwxMDQ2MzA1MDg1LDEzND
+g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
+LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
+I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
+MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMT
+Y3Njg4Njk1XX0=
 -->
