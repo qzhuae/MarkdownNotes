@@ -13,8 +13,9 @@
 - [ ] Energy consumption
 - [ ] How to determine when a diode is on?
 - [ ] Why current, voltage is consistent in inductor/capacitor
+- [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE1MzE4OTIsMzU0MTQ2MzM4LC0xMz
-I3MzIzMDIzLC0xODQ0NzA3NDYsMjEzNTU4MzY3NCwtMTQ3MjY3
-MTQxMF19
+eyJoaXN0b3J5IjpbLTU5MjQ3MDU5MywtMTQyMTUzMTg5MiwzNT
+QxNDYzMzgsLTEzMjczMjMwMjMsLTE4NDQ3MDc0NiwyMTM1NTgz
+Njc0LC0xNDcyNjcxNDEwXX0=
 -->
