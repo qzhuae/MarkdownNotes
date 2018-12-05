@@ -25,7 +25,7 @@ For capacitor, i leads v. For inductor, v leads i.
 ## Past Papers
 - [x] 2003 Test 1
 - [x] 2003 Test 2
-- [ ] exampast1
+- [x] exampast1
 - [ ] exampast2
 - [ ] exampast3
 - [ ] exampast4a
@@ -63,5 +63,5 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDMzODY4NF19
+eyJoaXN0b3J5IjpbOTY2Nzk2ODM2XX0=
 -->
