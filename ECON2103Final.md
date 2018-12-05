@@ -17,9 +17,13 @@
 - [ ] Forward Biased Zener Diode
 
 For capacitor, i leads v. For inductor, v leads i.
+
+## Possible Extra Content
+- [ ] Ripple voltage, root mean square, PIV
+- [ ] Load, phase lag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDYyODcyLDE2MDE1NDQyOTEsLTE4OD
-Q4OTkyOTksLTE0MjE1MzE4OTIsMzU0MTQ2MzM4LC0xMzI3MzIz
-MDIzLC0xODQ0NzA3NDYsMjEzNTU4MzY3NCwtMTQ3MjY3MTQxMF
-19
+eyJoaXN0b3J5IjpbLTYwMjMwMjk5MiwxNjAxNTQ0MjkxLC0xOD
+g0ODk5Mjk5LC0xNDIxNTMxODkyLDM1NDE0NjMzOCwtMTMyNzMy
+MzAyMywtMTg0NDcwNzQ2LDIxMzU1ODM2NzQsLTE0NzI2NzE0MT
+BdfQ==
 -->
