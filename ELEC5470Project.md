@@ -172,6 +172,12 @@ possible time series forecasting models ARIMA, ARMA, Holt-Winter, Hybrid modelli
 In time series sequence matters but not in regression. 
 
 `univariate time series`
+* Secular Trend or General Trend
+* Seasonal Movements
+* Cyclical Movements
+* Irregular Fluctuations
+
+
 
 
 http://machinelearningstories.blogspot.com/2016/08/time-series-and-fitting-regression-on.html
@@ -184,10 +190,10 @@ One difference from standard linear regression is that the data are not necessar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDI1ODcyMSwxMDQ2MzA1MDg1LDEzND
-g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
-LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
-I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
-MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMT
-Y3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbMjY2Njk5MTUzLDEwNDYzMDUwODUsMTM0OD
+QzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0OSwyNjA3MTc4MDgs
+NzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMj
+Q5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYx
+MiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLTU5NjYyMzczMiwxNj
+c2ODg2OTVdfQ==
 -->
