@@ -203,6 +203,9 @@ One difference from standard linear regression is that the data are not necessar
 
 > From Stan, Look at Stationarity, Autocorrelation, AR process
 
+[Most Important Source So Far] https://trimestres-lmb.univ-fcomte.fr/IMG/pdf/s_chretien_6_mai_2014.pdf
+
+
 
 ## List of papers read, minimum 8
 
@@ -210,10 +213,10 @@ One difference from standard linear regression is that the data are not necessar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NTU4NzcxLDE2MzYxMTY0NTUsMTA0Nj
-MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
-LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
-g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
-MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
-k2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbLTE5NDY3OTIyNTUsMTYzNjExNjQ1NSwxMD
+Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
+NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
+MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
+NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
+01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
