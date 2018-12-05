@@ -15,8 +15,9 @@
 - [ ] Why current, voltage is consistent in inductor/capacitor
 - [ ] Max power consumption, usually is when load = internal resistance
 
+For capacitor, i leads v. For inductor, v leads i.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM0MDkwMTMsLTE4ODQ4OTkyOTksLT
-E0MjE1MzE4OTIsMzU0MTQ2MzM4LC0xMzI3MzIzMDIzLC0xODQ0
-NzA3NDYsMjEzNTU4MzY3NCwtMTQ3MjY3MTQxMF19
+eyJoaXN0b3J5IjpbMTYwMTU0NDI5MSwtMTg4NDg5OTI5OSwtMT
+QyMTUzMTg5MiwzNTQxNDYzMzgsLTEzMjczMjMwMjMsLTE4NDQ3
+MDc0NiwyMTM1NTgzNjc0LC0xNDcyNjcxNDEwXX0=
 -->
