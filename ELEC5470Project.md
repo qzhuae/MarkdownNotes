@@ -196,6 +196,8 @@ http://machinelearningstories.blogspot.com/2016_11_01_archive.html
 [Market Basket Analysis]
 
 
+https://arxiv.org/pdf/1302.6613.pdf [An Introductory Study on Time Series]
+
 http://machinelearningstories.blogspot.com/2016/08/time-series-and-fitting-regression-on.html
 One difference from standard linear regression is that the data are not necessarily independent and not necessarily identically distributed. One defining characteristic of time series is that this is a list of observations where the ordering matters. Ordering is very important because there is dependency and changing the order could change the meaning of the data.
 
@@ -206,10 +208,10 @@ One difference from standard linear regression is that the data are not necessar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjQ0NDY1NiwxMDQ2MzA1MDg1LDEzND
-g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
-LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
-I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
-MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMT
-Y3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTY4OTIwNDk4LDEwNDYzMDUwODUsMTM0OD
+QzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0OSwyNjA3MTc4MDgs
+NzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMj
+Q5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYx
+MiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLTU5NjYyMzczMiwxNj
+c2ODg2OTVdfQ==
 -->
