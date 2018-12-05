@@ -203,7 +203,8 @@ One difference from standard linear regression is that the data are not necessar
 
 > From Stan, Look at Stationarity, Autocorrelation, AR process
 
-[Most Important Source So Far] https://trimestres-lmb.univ-fcomte.fr/IMG/pdf/s_chretien_6_mai_2014.pdf
+### [Most Important Source So Far] 
+https://trimestres-lmb.univ-fcomte.fr/IMG/pdf/s_chretien_6_mai_2014.pdf
 
 Most standard case of ARMA fluctuations
 - estimate `trend`
@@ -217,6 +218,13 @@ Difficult because:
 
 `Sparsity promoting penalizations of the least-square criterion  and allow simultaneous model estimation and model order selection`
 
+Trend estimation problem: `l1-trend filtering`, by S.-J. Kim, K. Koh, S. Boyd, and D. Gorinevsky, SIAM Review, problems and techniques section, 51(2):339360, May 2009.,
+
+Seasonality estimation problem: `Prony's method and its recent enhanced versions`
+
+
+AThe subspace method approach via the state space model for ARMA estimation, Larimore, Proceedings of the 1983 American Control Conference 2.
+
 
 
 
@@ -226,10 +234,10 @@ Difficult because:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTUyNzA2NiwxNjM2MTE2NDU1LDEwND
-YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
-OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
-A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
-NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
-U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbOTA4NzAxNzQwLDE2MzYxMTY0NTUsMTA0Nj
+MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
+LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
+g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
+MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
+k2NjIzNzMyLDE2NzY4ODY5NV19
 -->
