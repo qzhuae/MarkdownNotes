@@ -257,6 +257,9 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 **Seasonality Estimation**
 
 
+**ARMA Estimation**
+- Many criteria which are described in standard textbooks are non-convex and the o
+
 
 
 
@@ -268,10 +271,10 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjgyMDI2LDE2MzYxMTY0NTUsMTA0Nj
-MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
-LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
-g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
-MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
-k2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbMjExNTM2ODM0MCwxMDQ2ODIwMjYsMTYzNj
+ExNjQ1NSwxMDQ2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1
+OCw3MDk5NTk5NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MD
+IyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODEx
+MTAsNjUzNTc4NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNz
+U4MTYwMTY2LC01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
