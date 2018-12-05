@@ -15,7 +15,7 @@
 - [ ] Why current, voltage is consistent in inductor/capacitor
 - [ ] Max power consumption, usually is when load = internal resistance
 - [ ] Forward Biased Zener Diode
-- [ ] Reso
+- [ ] Resonance
 
 For capacitor, i leads v. For inductor, v leads i.
 
@@ -65,6 +65,6 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjAzNzc5MSwxMzY1ODEwMzA5LDk2Nj
-c5NjgzNl19
+eyJoaXN0b3J5IjpbLTE0MDAxNjEwNTgsMTM2NTgxMDMwOSw5Nj
+Y3OTY4MzZdfQ==
 -->
