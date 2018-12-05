@@ -223,8 +223,11 @@ Trend estimation problem: `l1-trend filtering`, by S.-J. Kim, K. Koh, S. Boyd, a
 Seasonality estimation problem: `Prony's method and its recent enhanced versions`
 
 
-AThe subspace method approach via the state space model for ARMA estimation, Larimore, Proceedings of the 1983 American Control Conference 2.
+ARMA estimation problem: `The subspace method approach via the state space model for ARMA estimation`, Larimore, Proceedings of the 1983 American Control Conference 2.
 
+**Background on sparsity-promoting penalized least-squares**
+
+$y = X\beta + \epsilon$, this ha
 
 
 
@@ -234,10 +237,10 @@ AThe subspace method approach via the state space model for ARMA estimation, Lar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NzAxNzQwLDE2MzYxMTY0NTUsMTA0Nj
-MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
-LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
-g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
-MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
-k2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbMTY3MzMwMzc2OCwxNjM2MTE2NDU1LDEwND
+YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
+OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
+A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
+NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
+U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
