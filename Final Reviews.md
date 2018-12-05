@@ -23,6 +23,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] Ripple voltage, root mean square, PIV peak inverse voltage
 - [ ] Load, phase lag, 
 - [ ] Diode capacitor circuit
+- [ ] Bode Plots to \omega plot and frequency cut-off
 
 ## Past Papers
 - [x] 2003 Test 1
@@ -65,6 +66,6 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDMxMjMzNCwtMTQwMDE2MTA1OCwxMz
-Y1ODEwMzA5LDk2Njc5NjgzNl19
+eyJoaXN0b3J5IjpbOTQzMzI3NTU3LDEyMDQzMTIzMzQsLTE0MD
+AxNjEwNTgsMTM2NTgxMDMwOSw5NjY3OTY4MzZdfQ==
 -->
