@@ -227,7 +227,14 @@ ARMA estimation problem: `The subspace method approach via the state space model
 
 **Background on sparsity-promoting penalized least-squares**
 
-$y = X\beta + \epsilon$, this ha
+$y = X\beta + \epsilon$, this has huge number of covariates.
+
+with p >> n, p dimension of  $\beta$.  In the case, in gene expression analysis, image de-noisng with dictionaries, graphical models.
+
+To solve estimation problem:
+Compare 
+
+
 
 
 
@@ -237,10 +244,10 @@ $y = X\beta + \epsilon$, this ha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzMwMzc2OCwxNjM2MTE2NDU1LDEwND
-YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
-OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
-A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
-NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
-U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjcwNTY1MjMsMTYzNjExNjQ1NSwxMD
+Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
+NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
+MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
+NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
+01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
