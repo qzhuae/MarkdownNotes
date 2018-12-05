@@ -202,16 +202,18 @@ http://machinelearningstories.blogspot.com/2016/08/time-series-and-fitting-regre
 One difference from standard linear regression is that the data are not necessarily independent and not necessarily identically distributed. One defining characteristic of time series is that this is a list of observations where the ordering matters. Ordering is very important because there is dependency and changing the order could change the meaning of the data.
 
 
+
+
 ## List of papers read, minimum 8
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjExNjQ1NSwxMDQ2MzA1MDg1LDEzND
-g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
-LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
-I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
-MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC01OTY2MjM3MzIsMT
-Y3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbLTEzNTg0MTQ4MzcsMTYzNjExNjQ1NSwxMD
+Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
+NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
+MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
+NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
+01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
 -->
