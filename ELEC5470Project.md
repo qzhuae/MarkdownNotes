@@ -254,6 +254,8 @@ Trend can be locally estimated using polynomial. This polynomial is sometimes su
 
 Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
+**Seasonality Estimation**
+
 
 
 
@@ -266,10 +268,10 @@ Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDgyODI5MywxNjM2MTE2NDU1LDEwND
-YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
-OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
-A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
-NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
-U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
+eyJoaXN0b3J5IjpbMTA0NjgyMDI2LDE2MzYxMTY0NTUsMTA0Nj
+MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
+LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
+g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
+MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
+k2NjIzNzMyLDE2NzY4ODY5NV19
 -->
