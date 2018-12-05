@@ -8,7 +8,10 @@
 
 - [ ] check photos taken in class
 
+# ELEC2400
+- [ ] Sketch of exponential
+- [ ] Energy consumption
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ3MDc0NiwyMTM1NTgzNjc0LC0xND
-cyNjcxNDEwXX0=
+eyJoaXN0b3J5IjpbLTEzMjczMjMwMjMsLTE4NDQ3MDc0NiwyMT
+M1NTgzNjc0LC0xNDcyNjcxNDEwXX0=
 -->
