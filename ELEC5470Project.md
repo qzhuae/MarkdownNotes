@@ -205,6 +205,14 @@ One difference from standard linear regression is that the data are not necessar
 
 [Most Important Source So Far] https://trimestres-lmb.univ-fcomte.fr/IMG/pdf/s_chretien_6_mai_2014.pdf
 
+Most standard case of ARMA fluctuations
+- estimate `trend`
+- estimate `seasonality`
+- estimate `ARAM model`
+
+Difficult because:
+- ARMA(p,q) model estimation via log-likelihood is non-convex optimization problem, not to speak about model selection
+- 
 
 
 ## List of papers read, minimum 8
@@ -213,7 +221,7 @@ One difference from standard linear regression is that the data are not necessar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY3OTIyNTUsMTYzNjExNjQ1NSwxMD
+eyJoaXN0b3J5IjpbLTE0MTc1MTAwODksMTYzNjExNjQ1NSwxMD
 Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
 NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
 MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
