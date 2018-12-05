@@ -247,7 +247,12 @@ Incoherence implies a sort of relaxed restricted isometry property (I don't get 
 
 Sparsity => Low-rank matrix 
 
-Convex surrogate nuclear norm, [Remember something in class about, this solution being the same as low rank solution]
+Convex surrogate nuclear norm, [Remember something in class about, this relaxed solution being the same as low rank solution, I think it is proved by duality]
+
+**Trend Estimation**
+Trend can be locally estimated using polynomial. This polynomial is sometimes subject to abrupt changes over a longer period of observations. 
+
+Based on Lasso, KIM, Koh, Boyd proposed l-1 trend filtering
 
 
 
@@ -261,10 +266,10 @@ Convex surrogate nuclear norm, [Remember something in class about, this solution
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTcxMjkwLDE2MzYxMTY0NTUsMTA0Nj
-MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
-LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
-g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
-MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
-k2NjIzNzMyLDE2NzY4ODY5NV19
+eyJoaXN0b3J5IjpbLTUyNDgyODI5MywxNjM2MTE2NDU1LDEwND
+YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
+OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
+A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
+NTEsMTA0ODEyNDYxMiwtNzg0MjUwNDg4LC03NTgxNjAxNjYsLT
+U5NjYyMzczMiwxNjc2ODg2OTVdfQ==
 -->
