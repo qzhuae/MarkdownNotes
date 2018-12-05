@@ -169,17 +169,22 @@ Regression vs. Time Series, TS more simple forecast, Regression more input
 
 possible time series forecasting models ARIMA, ARMA, Holt-Winter, Hybrid modelling, UCM
 
+In time series sequence matters but not in regression. 
+
+`univariate time series`
+
+
+http://machinelearningstories.blogspot.com/2016/08/time-series-and-fitting-regression-on.html
+One difference from standard linear regression is that the data are not necessarily independent and not necessarily identically distributed. One defining characteristic of time series is that this is a list of observations where the ordering matters. Ordering is very important because there is dependency and changing the order could change the meaning of the data.
+
 
 ## List of papers read, minimum 8
 
-In time series sequence matters but not in regression. 
 
 
-
-One difference from standard linear regression is that the data are not necessarily independent and not necessarily identically distributed. One defining characteristic of time series is that this is a list of observations where the ordering matters. Ordering is very important because there is dependency and changing the order could change the meaning of the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDU0NjY4NCwxMDQ2MzA1MDg1LDEzND
+eyJoaXN0b3J5IjpbMTQyNDI1ODcyMSwxMDQ2MzA1MDg1LDEzND
 g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
 LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
 I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
