@@ -19,11 +19,11 @@
 For capacitor, i leads v. For inductor, v leads i.
 
 ## Possible Extra Content
-- [ ] Ripple voltage, root mean square, PIV
-- [ ] Load, phase lag
+- [ ] Ripple voltage, root mean square, PIV peak inverse voltage
+- [ ] Load, phase lag, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjMwMjk5MiwxNjAxNTQ0MjkxLC0xOD
-g0ODk5Mjk5LC0xNDIxNTMxODkyLDM1NDE0NjMzOCwtMTMyNzMy
-MzAyMywtMTg0NDcwNzQ2LDIxMzU1ODM2NzQsLTE0NzI2NzE0MT
-BdfQ==
+eyJoaXN0b3J5IjpbODAzNzIwNTYxLC02MDIzMDI5OTIsMTYwMT
+U0NDI5MSwtMTg4NDg5OTI5OSwtMTQyMTUzMTg5MiwzNTQxNDYz
+MzgsLTEzMjczMjMwMjMsLTE4NDQ3MDc0NiwyMTM1NTgzNjc0LC
+0xNDcyNjcxNDEwXX0=
 -->
