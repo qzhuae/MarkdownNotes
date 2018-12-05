@@ -212,6 +212,7 @@ Most standard case of ARMA fluctuations
 
 Difficult because:
 - ARMA(p,q) model estimation via log-likelihood is non-convex optimization problem, not to speak about model selection
+- Estimating a sum of damped exponentials via least-squares is a non-convex optimization problem, and the same problem holds for model order selection (number of exponential)
 - 
 
 
@@ -221,10 +222,10 @@ Difficult because:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc1MTAwODksMTYzNjExNjQ1NSwxMD
-Q2MzA1MDg1LDEzNDg0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5
-NDksMjYwNzE3ODA4LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMT
-MwODk1OTEyOSwtMTI0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4
-NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4OCwtNzU4MTYwMTY2LC
-01OTY2MjM3MzIsMTY3Njg4Njk1XX0=
+eyJoaXN0b3J5IjpbODM2OTE0NDA2LDE2MzYxMTY0NTUsMTA0Nj
+MwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5
+LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMD
+g5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgxMTEwLDY1MzU3ODc1
+MSwxMDQ4MTI0NjEyLC03ODQyNTA0ODgsLTc1ODE2MDE2NiwtNT
+k2NjIzNzMyLDE2NzY4ODY5NV19
 -->
