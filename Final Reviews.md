@@ -25,7 +25,9 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] Diode capacitor circuit
 - [ ] Bode Plots to \omega plot and frequency cut-off
 
-## High Priority T
+## High Priority To-Dos
+- [ ] Root Mean Square and Max Power
+- [ ] Cut-off frequency in rad/s for band-pass filter
 
 ## Past Papers
 - [x] 2003 Test 1
@@ -68,7 +70,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTEwMDgzOSw5NDMzMjc1NTcsMTIwND
-MxMjMzNCwtMTQwMDE2MTA1OCwxMzY1ODEwMzA5LDk2Njc5Njgz
-Nl19
+eyJoaXN0b3J5IjpbNzUyMzUwODYzLDk0MzMyNzU1NywxMjA0Mz
+EyMzM0LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOTY2Nzk2ODM2
+XX0=
 -->
