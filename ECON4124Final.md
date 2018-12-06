@@ -75,6 +75,9 @@ SPE cannot prevent a strictly dominated strategy from being used.
 
 Anything condition about when a subgame can be written into matrix form?
 
+Why is (Stay Out, L) an SPE?
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -88,9 +91,9 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNj
-IwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcy
-NDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOT
-M5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3
-OF19
+eyJoaXN0b3J5IjpbMTIxNzIyMzg1OSwtMTg4OTYxNjE3NSw0OD
+MwODkyNDQsLTM2MjAxOTY4MywtMTIyNjUzNzYxNywxMjAzMDAw
+MjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNz
+Y1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3
+OCwtNjY5ODA3Nzc4XX0=
 -->
