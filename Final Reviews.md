@@ -3,6 +3,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
+
+
 # ECON2103
 [A couple of curves] The cost of production
 
@@ -70,7 +72,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyMzUwODYzLDk0MzMyNzU1NywxMjA0Mz
-EyMzM0LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOTY2Nzk2ODM2
-XX0=
+eyJoaXN0b3J5IjpbODIzNTYyMDkxLDc1MjM1MDg2Myw5NDMzMj
+c1NTcsMTIwNDMxMjMzNCwtMTQwMDE2MTA1OCwxMzY1ODEwMzA5
+LDk2Njc5NjgzNl19
 -->
