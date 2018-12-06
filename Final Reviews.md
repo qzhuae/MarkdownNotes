@@ -34,6 +34,7 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 - [ ] Root Mean Square and Max Power
 - [ ] Cut-off frequency in rad/s for band-pass filter
 - [ ] type of filter from bode plots
+- [ ] RC and RL circuit under square wave
 
 ## Past Papers
 - [x] 2003 Test 1
@@ -78,9 +79,9 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxMTYxODYsLTE2Mzg0MjEwNjMsMT
-k4NDIzOTM3NywtMTMyNTMzMjY2NSwyMDgwNDc0MTIxLC0xNjg4
-MTAwNjk3LDgyMzU2MjA5MSw3NTIzNTA4NjMsOTQzMzI3NTU3LD
-EyMDQzMTIzMzQsLTE0MDAxNjEwNTgsMTM2NTgxMDMwOSw5NjY3
-OTY4MzZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjUxMTM5OTgsLTE2OTMxMTYxODYsLT
+E2Mzg0MjEwNjMsMTk4NDIzOTM3NywtMTMyNTMzMjY2NSwyMDgw
+NDc0MTIxLC0xNjg4MTAwNjk3LDgyMzU2MjA5MSw3NTIzNTA4Nj
+MsOTQzMzI3NTU3LDEyMDQzMTIzMzQsLTE0MDAxNjEwNTgsMTM2
+NTgxMDMwOSw5NjY3OTY4MzZdfQ==
 -->
