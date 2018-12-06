@@ -66,9 +66,13 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 [Tutorial Note 5 and 9]
 
+## Some Stuff from Jiang Wenda
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMD
-MwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwx
-ODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbLTQ3ODI5NjI2NCwxMjAzMDAwMjAwLDI4MD
+cwNzI0NCwxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNzY1MjUxMTAs
+MjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3OCwtNjY5OD
+A3Nzc4XX0=
 -->
