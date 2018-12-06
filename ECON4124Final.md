@@ -82,6 +82,11 @@ a strategy-belief pair (\sigma, \mu) is a PBE iff
 - $\sigma$ is sequentially rational, optimal in every information set given \mu
 - $\mu$ is derived by Bayes' rule at every information set that is reached with positive probability under $\mu$
 
+`Sequential Equilibrium`
+
+`Consistency` A strategy-belief pair is `consistent` if there exists a sequence of totally mixed strategies $\sigma_n$ and corresponding beliefs $\mu_n$ such that
+- $\mu_n$ is derived from Bayes' rule and
+- $\lim_{n\rightarrow \infty}
 
 ## Some Stuff from Jiang Wenda
 
@@ -95,9 +100,9 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc1NTQ2MzMsMTIxNzIyMzg1OSwtMT
-g4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIyNjUz
-NzYxNywxMjAzMDAwMjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMT
-E0MzA3NzQzMiwyNzY1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5
-OTMsMjA1NDY5MDU3OCwtNjY5ODA3Nzc4XX0=
+eyJoaXN0b3J5IjpbLTExMDgwMDEyMCwxMjE3MjIzODU5LC0xOD
+g5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0xMjI2NTM3
+NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAzMDQ3NywxMT
+QzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4MzA2NDk5
+MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
