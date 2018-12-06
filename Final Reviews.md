@@ -27,6 +27,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] Diode capacitor circuit
 - [ ] Bode Plots to \omega plot and frequency cut-off
 - [ ] Bode Plots of Various types of filters
+- [ ] Why is amplitude at cutoff frequency 17
 
 ## High Priority To-Dos
 - [ ] Root Mean Square and Max Power
@@ -74,7 +75,8 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDQ3NDEyMSwtMTY4ODEwMDY5Nyw4Mj
-M1NjIwOTEsNzUyMzUwODYzLDk0MzMyNzU1NywxMjA0MzEyMzM0
-LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOTY2Nzk2ODM2XX0=
+eyJoaXN0b3J5IjpbLTEzMjUzMzI2NjUsMjA4MDQ3NDEyMSwtMT
+Y4ODEwMDY5Nyw4MjM1NjIwOTEsNzUyMzUwODYzLDk0MzMyNzU1
+NywxMjA0MzEyMzM0LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOT
+Y2Nzk2ODM2XX0=
 -->
