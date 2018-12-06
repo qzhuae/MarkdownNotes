@@ -72,10 +72,14 @@ possible midterm problems
 
 Sequential, Bayesian 
 
+payoff integral
+
+Information set, principal agent problem 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODQ2OTUwLDEyMDMwMDAyMDAsMjgwNz
-A3MjQ0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMCwy
-MzkzOTEzMTgsMTg4MzA2NDk5MywyMDU0NjkwNTc4LC02Njk4MD
-c3NzhdfQ==
+eyJoaXN0b3J5IjpbLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyOD
+A3MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEw
+LDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OT
+gwNzc3OF19
 -->
