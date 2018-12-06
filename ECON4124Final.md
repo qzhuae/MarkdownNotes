@@ -68,6 +68,7 @@ Definition: A Nash Equilibrium in the original game is `subgame perfect` if it s
 
 Theorem: **Given a finite extensive-form game, there exists a sub-game-perfect NE**. 
 
+SPE cannot prevent a strictly dominated strategy from being used. 
 
 
 [Obtain Tutorial Note 5 and 9]
@@ -86,8 +87,8 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjUwMDI3NiwtMzYyMDE5NjgzLC0xMj
-I2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAzMDQ3
-NywxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4Mz
-A2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEyMj
+Y1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3
+LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMD
+Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
 -->
