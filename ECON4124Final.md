@@ -62,7 +62,7 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 [Informal Argument for proper equilibrium]
 
-`Subgame` consists of the game tree
+`Subgame` consists of the game tree following a singleton information set, provided the resulting subtree does not cut any information sets.
 
 [Obtain Tutorial Note 5 and 9]
 
@@ -80,7 +80,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjQzOTYwLC0zNjIwMTk2ODMsLTEyMj
+eyJoaXN0b3J5IjpbMzgwMzAzMDM1LC0zNjIwMTk2ODMsLTEyMj
 Y1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3
 LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMD
 Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
