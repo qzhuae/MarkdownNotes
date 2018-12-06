@@ -45,7 +45,7 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 - [x] ~~exampast4a~~
 - [x] ~~exampast5~~
 - [x] exampast9a
-- [ ] final pasta
+- [x] final pasta
 - [ ] final pastb
 - [ ] final pastc
 - [ ] final pastd
@@ -79,9 +79,9 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUxMTM5OTgsLTE2OTMxMTYxODYsLT
-E2Mzg0MjEwNjMsMTk4NDIzOTM3NywtMTMyNTMzMjY2NSwyMDgw
-NDc0MTIxLC0xNjg4MTAwNjk3LDgyMzU2MjA5MSw3NTIzNTA4Nj
-MsOTQzMzI3NTU3LDEyMDQzMTIzMzQsLTE0MDAxNjEwNTgsMTM2
-NTgxMDMwOSw5NjY3OTY4MzZdfQ==
+eyJoaXN0b3J5IjpbMTU3MDEzMzI3NCwtMTI2NTExMzk5OCwtMT
+Y5MzExNjE4NiwtMTYzODQyMTA2MywxOTg0MjM5Mzc3LC0xMzI1
+MzMyNjY1LDIwODA0NzQxMjEsLTE2ODgxMDA2OTcsODIzNTYyMD
+kxLDc1MjM1MDg2Myw5NDMzMjc1NTcsMTIwNDMxMjMzNCwtMTQw
+MDE2MTA1OCwxMzY1ODEwMzA5LDk2Njc5NjgzNl19
 -->
