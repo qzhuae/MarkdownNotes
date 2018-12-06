@@ -68,11 +68,14 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 ## Some Stuff from Jiang Wenda
 
+possible midterm problems
+
+Sequential, Bayesian 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODI5NjI2NCwxMjAzMDAwMjAwLDI4MD
-cwNzI0NCwxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNzY1MjUxMTAs
-MjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3OCwtNjY5OD
-A3Nzc4XX0=
+eyJoaXN0b3J5IjpbLTMzODQ2OTUwLDEyMDMwMDAyMDAsMjgwNz
+A3MjQ0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMCwy
+MzkzOTEzMTgsMTg4MzA2NDk5MywyMDU0NjkwNTc4LC02Njk4MD
+c3NzhdfQ==
 -->
