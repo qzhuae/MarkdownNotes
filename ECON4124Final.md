@@ -77,7 +77,9 @@ Anything condition about when a subgame can be written into matrix form?
 
 Why is (Stay Out, L) an SPE?
 
-
+`Perfect Bayesian Equilibrium`
+a strategy-belief pair (\sigma, \mu) is a PBE iff
+- $\sigma$ is sequentially rational, optimal in every information
 
 ## Some Stuff from Jiang Wenda
 
@@ -91,9 +93,9 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzIyMzg1OSwtMTg4OTYxNjE3NSw0OD
-MwODkyNDQsLTM2MjAxOTY4MywtMTIyNjUzNzYxNywxMjAzMDAw
-MjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNz
-Y1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3
-OCwtNjY5ODA3Nzc4XX0=
+eyJoaXN0b3J5IjpbLTM1ODE2MTkzMywxMjE3MjIzODU5LC0xOD
+g5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0xMjI2NTM3
+NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAzMDQ3NywxMT
+QzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4MzA2NDk5
+MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
