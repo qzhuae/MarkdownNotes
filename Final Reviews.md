@@ -74,9 +74,11 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past2
 - [ ] test2past3
 - [ ] test2past5
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUzMzI2NjUsMjA4MDQ3NDEyMSwtMT
-Y4ODEwMDY5Nyw4MjM1NjIwOTEsNzUyMzUwODYzLDk0MzMyNzU1
-NywxMjA0MzEyMzM0LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOT
-Y2Nzk2ODM2XX0=
+eyJoaXN0b3J5IjpbNzQxMjk5MzYzLC0xMzI1MzMyNjY1LDIwOD
+A0NzQxMjEsLTE2ODgxMDA2OTcsODIzNTYyMDkxLDc1MjM1MDg2
+Myw5NDMzMjc1NTcsMTIwNDMxMjMzNCwtMTQwMDE2MTA1OCwxMz
+Y1ODEwMzA5LDk2Njc5NjgzNl19
 -->
