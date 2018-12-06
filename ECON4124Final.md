@@ -74,12 +74,12 @@ Sequential, Bayesian
 
 payoff integral
 
-Information set, principal agent problem 
+Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyOD
-A3MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEw
-LDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OT
-gwNzc3OF19
+eyJoaXN0b3J5IjpbLTM2MjAxOTY4MywtMTIyNjUzNzYxNywxMj
+AzMDAwMjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMTE0MzA3NzQz
+MiwyNzY1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1ND
+Y5MDU3OCwtNjY5ODA3Nzc4XX0=
 -->
