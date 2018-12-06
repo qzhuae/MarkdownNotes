@@ -64,7 +64,9 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 `Subgame` consists of the game tree
 
-[Tutorial Note 5 and 9]
+[Obtain Tutorial Note 5 and 9]
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -78,8 +80,8 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjAxOTY4MywtMTIyNjUzNzYxNywxMj
-AzMDAwMjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMTE0MzA3NzQz
-MiwyNzY1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMjA1ND
-Y5MDU3OCwtNjY5ODA3Nzc4XX0=
+eyJoaXN0b3J5IjpbLTU3MjQzOTYwLC0zNjIwMTk2ODMsLTEyMj
+Y1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3
+LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMD
+Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
 -->
