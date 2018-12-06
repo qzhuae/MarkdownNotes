@@ -26,6 +26,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] Load, phase lag, 
 - [ ] Diode capacitor circuit
 - [ ] Bode Plots to \omega plot and frequency cut-off
+- [ ] Bode Plots of Various types of filters
 
 ## High Priority To-Dos
 - [ ] Root Mean Square and Max Power
@@ -72,7 +73,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNTYyMDkxLDc1MjM1MDg2Myw5NDMzMj
-c1NTcsMTIwNDMxMjMzNCwtMTQwMDE2MTA1OCwxMzY1ODEwMzA5
-LDk2Njc5NjgzNl19
+eyJoaXN0b3J5IjpbLTE2ODgxMDA2OTcsODIzNTYyMDkxLDc1Mj
+M1MDg2Myw5NDMzMjc1NTcsMTIwNDMxMjMzNCwtMTQwMDE2MTA1
+OCwxMzY1ODEwMzA5LDk2Njc5NjgzNl19
 -->
