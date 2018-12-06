@@ -73,7 +73,7 @@ SPE cannot prevent a strictly dominated strategy from being used.
 
 [Obtain Tutorial Note 5 and 9]
 
-Anything condition about 
+Anything condition about when a subgame can be written into matrix form?
 
 
 ## Some Stuff from Jiang Wenda
@@ -88,9 +88,9 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDMzODM5MCw0ODMwODkyNDQsLTM2Mj
-AxOTY4MywtMTIyNjUzNzYxNywxMjAzMDAwMjAwLDI4MDcwNzI0
-NCwxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNzY1MjUxMTAsMjM5Mz
-kxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3OCwtNjY5ODA3Nzc4
-XX0=
+eyJoaXN0b3J5IjpbLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNj
+IwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcy
+NDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOT
+M5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3
+OF19
 -->
