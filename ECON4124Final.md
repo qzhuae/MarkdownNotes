@@ -73,6 +73,7 @@ SPE cannot prevent a strictly dominated strategy from being used.
 
 [Obtain Tutorial Note 5 and 9]
 
+Anything condition about 
 
 
 ## Some Stuff from Jiang Wenda
@@ -87,8 +88,9 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEyMj
-Y1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3
-LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMD
-Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbLTcxMDMzODM5MCw0ODMwODkyNDQsLTM2Mj
+AxOTY4MywtMTIyNjUzNzYxNywxMjAzMDAwMjAwLDI4MDcwNzI0
+NCwxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNzY1MjUxMTAsMjM5Mz
+kxMzE4LDE4ODMwNjQ5OTMsMjA1NDY5MDU3OCwtNjY5ODA3Nzc4
+XX0=
 -->
