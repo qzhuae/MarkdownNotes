@@ -62,7 +62,13 @@ $\sigma$ is `proper` equilibrium iff there is a sequence $\sigma_\epsilon$ each 
 
 [Informal Argument for proper equilibrium]
 
-`Subgame` consists of the game tree following a singleton information set, provided the resulting subtree does not cut any information sets.
+`Subgame` consists of the game tree following a singleton information set, provided *the resulting subtree does not cut any information sets*.
+
+Definition: A Nash Equilibrium in the original game is `subgame perfect` if it specifies Nash Equilibrium strategies in every sub-game. 
+
+Theorem: **Given a finite extensive-form game, there exists a sub-game-perfect NE**. 
+
+
 
 [Obtain Tutorial Note 5 and 9]
 
@@ -80,8 +86,8 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMzAzMDM1LC0zNjIwMTk2ODMsLTEyMj
-Y1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3
-LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMD
-Y0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbLTc4MjUwMDI3NiwtMzYyMDE5NjgzLC0xMj
+I2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAzMDQ3
+NywxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4Mz
+A2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
