@@ -28,6 +28,8 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] Bode Plots of Various types of filters
 - [ ] Why is amplitude at cutoff frequency 17
 
+https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for-bode-plots
+
 ## High Priority To-Dos
 - [ ] Root Mean Square and Max Power
 - [ ] Cut-off frequency in rad/s for band-pass filter
@@ -76,8 +78,9 @@ For capacitor, i leads v. For inductor, v leads i.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg0MjEwNjMsMTk4NDIzOTM3NywtMT
-MyNTMzMjY2NSwyMDgwNDc0MTIxLC0xNjg4MTAwNjk3LDgyMzU2
-MjA5MSw3NTIzNTA4NjMsOTQzMzI3NTU3LDEyMDQzMTIzMzQsLT
-E0MDAxNjEwNTgsMTM2NTgxMDMwOSw5NjY3OTY4MzZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTMxMTYxODYsLTE2Mzg0MjEwNjMsMT
+k4NDIzOTM3NywtMTMyNTMzMjY2NSwyMDgwNDc0MTIxLC0xNjg4
+MTAwNjk3LDgyMzU2MjA5MSw3NTIzNTA4NjMsOTQzMzI3NTU3LD
+EyMDQzMTIzMzQsLTE0MDAxNjEwNTgsMTM2NTgxMDMwOSw5NjY3
+OTY4MzZdfQ==
 -->
