@@ -31,6 +31,7 @@ For capacitor, i leads v. For inductor, v leads i.
 ## High Priority To-Dos
 - [ ] Root Mean Square and Max Power
 - [ ] Cut-off frequency in rad/s for band-pass filter
+- [ ] type of filter from bode plots
 
 ## Past Papers
 - [x] 2003 Test 1
@@ -73,7 +74,7 @@ For capacitor, i leads v. For inductor, v leads i.
 - [ ] test2past3
 - [ ] test2past5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxMDA2OTcsODIzNTYyMDkxLDc1Mj
-M1MDg2Myw5NDMzMjc1NTcsMTIwNDMxMjMzNCwtMTQwMDE2MTA1
-OCwxMzY1ODEwMzA5LDk2Njc5NjgzNl19
+eyJoaXN0b3J5IjpbMjA4MDQ3NDEyMSwtMTY4ODEwMDY5Nyw4Mj
+M1NjIwOTEsNzUyMzUwODYzLDk0MzMyNzU1NywxMjA0MzEyMzM0
+LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOTY2Nzk2ODM2XX0=
 -->
