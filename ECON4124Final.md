@@ -53,6 +53,9 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 - a player is more likely to tremble in directions that are least harmful to him.
 
 
+> Can you ﬁnd out any belief system (p, 1 − p) that can rationalize L?
+
+
 Strategy profile $\sigma$ is an $\epsilon-$proper equilibrium iff 
 - it is a totally mixed strategy profile
 - for any $i$ and pure strategies $s_i$ and $\hat s_i$, 
@@ -103,10 +106,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMD
-YzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIz
-ODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC
-0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAz
-MDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMT
-g4MzA2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbLTcxMjc3NDAzNSwtNDg2MzQ5MDI5LDE0Nz
+M0MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAw
+MjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC
+0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3
+MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLD
+IzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgw
+Nzc3OF19
 -->
