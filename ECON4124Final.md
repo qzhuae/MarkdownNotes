@@ -55,6 +55,7 @@ Strategy profile $\sigma$ is a THP equilibrium if $\exists$ a sequence of totall
 
 > Can you ﬁnd out any belief system (p, 1 − p) that can rationalize L?
 
+(Relationship between strict and proper eqm?)
 
 Strategy profile $\sigma$ is an $\epsilon-$proper equilibrium iff 
 - it is a totally mixed strategy profile
@@ -106,11 +107,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjc3NDAzNSwtNDg2MzQ5MDI5LDE0Nz
-M0MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAw
-MjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC
-0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3
-MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLD
-IzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgw
-Nzc3OF19
+eyJoaXN0b3J5IjpbLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxND
+czNDI0ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAw
+MDI4MSwxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NC
+wtMzYyMDE5NjgzLC0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgw
+NzA3MjQ0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMC
+wyMzkzOTEzMTgsMTg4MzA2NDk5MywyMDU0NjkwNTc4LC02Njk4
+MDc3NzhdfQ==
 -->
