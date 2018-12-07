@@ -12,10 +12,10 @@
 # ELEC2400
 - [ ] Sketch of exponential
 - [ ] Energy consumption
-- [ ] How to determine when a diode is on?
+- [x] How to determine when a diode is on?
 - [ ] Why current, voltage is consistent in inductor/capacitor
-- [ ] Max power consumption, usually is when load = internal resistance
-- [ ] Forward Biased Zener Diode
+- [x] Max power consumption, usually is when load = internal resistance
+- [x] Forward Biased Zener Diode
 - [ ] Resonance
 
 For capacitor, i leads v. For inductor, v leads i.
@@ -79,9 +79,10 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDEzMzI3NCwtMTI2NTExMzk5OCwtMT
-Y5MzExNjE4NiwtMTYzODQyMTA2MywxOTg0MjM5Mzc3LC0xMzI1
-MzMyNjY1LDIwODA0NzQxMjEsLTE2ODgxMDA2OTcsODIzNTYyMD
-kxLDc1MjM1MDg2Myw5NDMzMjc1NTcsMTIwNDMxMjMzNCwtMTQw
-MDE2MTA1OCwxMzY1ODEwMzA5LDk2Njc5NjgzNl19
+eyJoaXN0b3J5IjpbLTY5Mjc2NDc4LDE1NzAxMzMyNzQsLTEyNj
+UxMTM5OTgsLTE2OTMxMTYxODYsLTE2Mzg0MjEwNjMsMTk4NDIz
+OTM3NywtMTMyNTMzMjY2NSwyMDgwNDc0MTIxLC0xNjg4MTAwNj
+k3LDgyMzU2MjA5MSw3NTIzNTA4NjMsOTQzMzI3NTU3LDEyMDQz
+MTIzMzQsLTE0MDAxNjEwNTgsMTM2NTgxMDMwOSw5NjY3OTY4Mz
+ZdfQ==
 -->
