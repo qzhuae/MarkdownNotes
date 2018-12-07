@@ -35,7 +35,6 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 - [ ] Cut-off frequency in rad/s for band-pass filter
 - [ ] type of filter from bode plots
 - [ ] RC and RL circuit under square wave
-- [ ] 
 
 ## Past Papers
 - [x] 2003 Test 1
@@ -80,10 +79,10 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDE3NTE1NSwtMTY3MzkwODk2NiwtNj
-kyNzY0NzgsMTU3MDEzMzI3NCwtMTI2NTExMzk5OCwtMTY5MzEx
-NjE4NiwtMTYzODQyMTA2MywxOTg0MjM5Mzc3LC0xMzI1MzMyNj
-Y1LDIwODA0NzQxMjEsLTE2ODgxMDA2OTcsODIzNTYyMDkxLDc1
-MjM1MDg2Myw5NDMzMjc1NTcsMTIwNDMxMjMzNCwtMTQwMDE2MT
-A1OCwxMzY1ODEwMzA5LDk2Njc5NjgzNl19
+eyJoaXN0b3J5IjpbLTE2NzM5MDg5NjYsLTE2NzM5MDg5NjYsLT
+Y5Mjc2NDc4LDE1NzAxMzMyNzQsLTEyNjUxMTM5OTgsLTE2OTMx
+MTYxODYsLTE2Mzg0MjEwNjMsMTk4NDIzOTM3NywtMTMyNTMzMj
+Y2NSwyMDgwNDc0MTIxLC0xNjg4MTAwNjk3LDgyMzU2MjA5MSw3
+NTIzNTA4NjMsOTQzMzI3NTU3LDEyMDQzMTIzMzQsLTE0MDAxNj
+EwNTgsMTM2NTgxMDMwOSw5NjY3OTY4MzZdfQ==
 -->
