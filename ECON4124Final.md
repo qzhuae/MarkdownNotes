@@ -98,6 +98,9 @@ a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
 
 Sequential equilibrium prevents strictly dominated strategies from being used as threats off the equilibrium path: not sequentially rational for any beliefs.
 
+But has no refining power on weakly dominated strategies.
+
+Why P24? Sequential Equilibi
 
 **Similarity and Differences between SE and THP**
 both SE and THP consider a convergent sequence of totally mixed-strategy profiles.
@@ -127,11 +130,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMj
-M0Nzk4MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1
-MjMsLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC
-0xMDYzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3
-MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5Nj
-gzLC0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5
-MzAzMDQ3N119
+eyJoaXN0b3J5IjpbNTc1ODg1MzgwLDc3NzQxMjQwNywtMTgwNz
+Q0ODQyOSwxMjIzNDc5ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1
+MywxNTg0MTc5NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMT
+Q3MzQyNDgzNSwtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAw
+MDAyODEsMTIxNzIyMzg1OSwtMTg4OTYxNjE3NSw0ODMwODkyND
+QsLTM2MjAxOTY4MywtMTIyNjUzNzYxNywxMjAzMDAwMjAwLDI4
+MDcwNzI0NF19
 -->
