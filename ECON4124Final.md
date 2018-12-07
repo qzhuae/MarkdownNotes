@@ -112,7 +112,7 @@ What if SE does not work?
 - Forward Induction, Intuitive Criteria
 - Strategic Stability
 
-
+x
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -125,11 +125,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1OD
-QxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0
-ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MS
-wxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYy
-MDE5NjgzLC0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3Mj
-Q0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkz
-OTEzMThdfQ==
+eyJoaXN0b3J5IjpbMTIyMzQ3OTgwNywtMTgwNzQ0ODQyOSwxNz
+g2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5
+MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0Ny
+wtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgz
+MDg5MjQ0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMD
+IwMCwyODA3MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2
+NTI1MTEwXX0=
 -->
