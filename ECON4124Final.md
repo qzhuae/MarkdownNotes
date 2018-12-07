@@ -99,6 +99,8 @@ a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
 Sequential equilibrium prevents strictly dominated strategies from being used as threats off the equilibrium path: not sequentially rational for any beliefs.
 
 
+Si
+
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -111,7 +113,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTMxMDM5MSwxNzg2NDA4NTMsMTU4ND
+eyJoaXN0b3J5IjpbMTU4NzI5MDMzOSwxNzg2NDA4NTMsMTU4ND
 E3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4
 MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMjgxLD
 EyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIw
