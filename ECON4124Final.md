@@ -96,7 +96,7 @@ a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
 
 [There exists one sequential equilibrium, \sigma is subgame-perfect NE]
 
-
+Sequential equilibrium prevents strictly dominated strategies from being used as threats off the equilibrium path: not sequentially rational for any beliefs.
 
 
 ## Some Stuff from Jiang Wenda
@@ -111,11 +111,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0OD
-E3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3
-MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzODU5LC
-0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0xMjI2
-NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAzMDQ3Ny
-wxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4MzA2
-NDk5M119
+eyJoaXN0b3J5IjpbLTc0MTMxMDM5MSwxNzg2NDA4NTMsMTU4ND
+E3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4
+MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMjgxLD
+EyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIw
+MTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyND
+QsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5
+MTMxOF19
 -->
