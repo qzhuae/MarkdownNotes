@@ -94,6 +94,9 @@ a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
 
 **Theorem**. For every finite extensive-form game there exists at least one sequential eqm. Also, if sequential eqm then $\sigma$ is subgame-perfect NE.
 
+[There exists one sequential equilibrium, \sigma is subgame-perfect NE]
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -107,11 +110,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxND
-czNDI0ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAw
-MDI4MSwxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NC
-wtMzYyMDE5NjgzLC0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgw
-NzA3MjQ0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMC
-wyMzkzOTEzMTgsMTg4MzA2NDk5MywyMDU0NjkwNTc4LC02Njk4
-MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbMTU4NDE3OTUyMywtMTQ4MTcwNTAyMiwtND
+g2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4
+NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNz
+UsNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIw
+MzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0Mz
+IsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2
+OTA1NzhdfQ==
 -->
