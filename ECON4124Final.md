@@ -74,7 +74,7 @@ SPE cannot prevent a strictly dominated strategy from being used.
 
 Anything condition about when a sub-game can be written into matrix form?
 
-Why is (Stay Out, L) an SPE?
+Why is (Stay Out, L) an SPE? Because it is not a sub-game.
 
 `Perfect Bayesian Equilibrium`
 a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
@@ -103,10 +103,10 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3MywxMj
-YyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4OTYx
-NjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIyNjUzNzYxNy
-wxMjAzMDAwMjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMTE0MzA3
-NzQzMiwyNzY1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMj
-A1NDY5MDU3OCwtNjY5ODA3Nzc4XX0=
+eyJoaXN0b3J5IjpbLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMD
+YzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIz
+ODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC
+0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAz
+MDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMT
+g4MzA2NDk5MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
 -->
