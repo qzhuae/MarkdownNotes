@@ -99,7 +99,11 @@ a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
 Sequential equilibrium prevents strictly dominated strategies from being used as threats off the equilibrium path: not sequentially rational for any beliefs.
 
 
-Si
+**Similarity and Differences between SE and THP**
+both SE and THP consider a convergent sequence of totally mixed-strategy profiles.
+
+1. In SE, the strategy profile interacts with the belief system via Bayes' rule (by the consistency requirment)
+2. In SE, the totally mixed-strateg
 
 ## Some Stuff from Jiang Wenda
 
@@ -113,11 +117,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI5MDMzOSwxNzg2NDA4NTMsMTU4ND
-E3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4
-MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMjgxLD
-EyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIw
-MTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyND
-QsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5
-MTMxOF19
+eyJoaXN0b3J5IjpbNjAwNDExMDU3LDE3ODY0MDg1MywxNTg0MT
+c5NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgz
+NSwtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMT
+IxNzIyMzg1OSwtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAx
+OTY4MywtMTIyNjUzNzYxNywxMjAzMDAwMjAwLDI4MDcwNzI0NC
+wxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNzY1MjUxMTAsMjM5Mzkx
+MzE4XX0=
 -->
