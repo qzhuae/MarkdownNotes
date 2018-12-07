@@ -108,7 +108,11 @@ both SE and THP consider a convergent sequence of totally mixed-strategy profile
 
 What if SE does not work?
 - Structural Consistency Requirment
-- Extensive 
+- Extensive-form THP
+- Forward Induction, Intuitive Criteria
+- Strategic Stability
+
+
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -121,7 +125,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgxOTIyNzcsMTc4NjQwODUzLDE1OD
+eyJoaXN0b3J5IjpbLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1OD
 QxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0
 ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MS
 wxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYy
