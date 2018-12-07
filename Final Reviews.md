@@ -46,7 +46,7 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 - [x] ~~exampast5~~
 - [x] exampast9a
 - [x] final pasta
-- [ ] final pastb
+- [x] final pastb
 - [ ] final pastc
 - [ ] final pastd
 - [ ] final paste
@@ -79,10 +79,10 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjc2NDc4LDE1NzAxMzMyNzQsLTEyNj
-UxMTM5OTgsLTE2OTMxMTYxODYsLTE2Mzg0MjEwNjMsMTk4NDIz
-OTM3NywtMTMyNTMzMjY2NSwyMDgwNDc0MTIxLC0xNjg4MTAwNj
-k3LDgyMzU2MjA5MSw3NTIzNTA4NjMsOTQzMzI3NTU3LDEyMDQz
-MTIzMzQsLTE0MDAxNjEwNTgsMTM2NTgxMDMwOSw5NjY3OTY4Mz
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzM5MDg5NjYsLTY5Mjc2NDc4LDE1Nz
+AxMzMyNzQsLTEyNjUxMTM5OTgsLTE2OTMxMTYxODYsLTE2Mzg0
+MjEwNjMsMTk4NDIzOTM3NywtMTMyNTMzMjY2NSwyMDgwNDc0MT
+IxLC0xNjg4MTAwNjk3LDgyMzU2MjA5MSw3NTIzNTA4NjMsOTQz
+MzI3NTU3LDEyMDQzMTIzMzQsLTE0MDAxNjEwNTgsMTM2NTgxMD
+MwOSw5NjY3OTY4MzZdfQ==
 -->
