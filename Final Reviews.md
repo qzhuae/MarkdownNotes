@@ -33,7 +33,7 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 ## High Priority To-Dos
 - [ ] Root Mean Square and Max Power
 - [ ] Cut-off frequency in rad/s for band-pass filter
-- [ ] type of filter from bode plots
+- [x] type of filter from bode plots
 - [ ] RC and RL circuit under square wave
 
 ## Past Papers
@@ -79,10 +79,11 @@ https://electronics.stackexchange.com/questions/186784/why-are-decibels-used-for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM5MDg5NjYsLTE2NzM5MDg5NjYsLT
-Y5Mjc2NDc4LDE1NzAxMzMyNzQsLTEyNjUxMTM5OTgsLTE2OTMx
-MTYxODYsLTE2Mzg0MjEwNjMsMTk4NDIzOTM3NywtMTMyNTMzMj
-Y2NSwyMDgwNDc0MTIxLC0xNjg4MTAwNjk3LDgyMzU2MjA5MSw3
-NTIzNTA4NjMsOTQzMzI3NTU3LDEyMDQzMTIzMzQsLTE0MDAxNj
-EwNTgsMTM2NTgxMDMwOSw5NjY3OTY4MzZdfQ==
+eyJoaXN0b3J5IjpbODM0NTgzOTIyLC0xNjczOTA4OTY2LC0xNj
+czOTA4OTY2LC02OTI3NjQ3OCwxNTcwMTMzMjc0LC0xMjY1MTEz
+OTk4LC0xNjkzMTE2MTg2LC0xNjM4NDIxMDYzLDE5ODQyMzkzNz
+csLTEzMjUzMzI2NjUsMjA4MDQ3NDEyMSwtMTY4ODEwMDY5Nyw4
+MjM1NjIwOTEsNzUyMzUwODYzLDk0MzMyNzU1NywxMjA0MzEyMz
+M0LC0xNDAwMTYxMDU4LDEzNjU4MTAzMDksOTY2Nzk2ODM2XX0=
+
 -->
