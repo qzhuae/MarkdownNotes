@@ -70,7 +70,6 @@ Theorem: **Given a finite extensive-form game, there exists a sub-game-perfect N
 
 SPE cannot prevent a strictly dominated strategy from being used. 
 
-
 ~~[Obtain Tutorial Note 5 and 9]~~
 
 Anything condition about when a subgame can be written into matrix form?
@@ -92,7 +91,6 @@ a strategy-belief pair $(\sigma, \mu)$ is a PBE iff
 **Theorem**. For every finite extensive-form game there exists at least one sequential eqm. Also, if sequential eqm then $\sigma$ is subgame-perfect NE.
 
 
-
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -105,10 +103,10 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOT
-cwMDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5
-MjQ0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMC
-wyODA3MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1
-MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLT
-Y2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbLTE5MzU5NzcyNDEsLTEwNjM5NTcyNzMsMT
+I2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2
+MTYxNzUsNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MT
+csMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3LDExNDMw
+Nzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLD
+IwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
 -->
