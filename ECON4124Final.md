@@ -71,7 +71,7 @@ Theorem: **Given a finite extensive-form game, there exists a sub-game-perfect N
 SPE cannot prevent a strictly dominated strategy from being used. 
 
 
-[Obtain Tutorial Note 5 and 9]
+~~[Obtain Tutorial Note 5 and 9]~~
 
 Anything condition about when a subgame can be written into matrix form?
 
@@ -105,10 +105,10 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjA2NDg5LDEyNjI2ODQwNDcsLTk3MD
-AwMDI4MSwxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0
-NCwtMzYyMDE5NjgzLC0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMj
-gwNzA3MjQ0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTEx
-MCwyMzkzOTEzMTgsMTg4MzA2NDk5MywyMDU0NjkwNTc4LC02Nj
-k4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOT
+cwMDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5
+MjQ0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMC
+wyODA3MDcyNDQsMTkzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1
+MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLT
+Y2OTgwNzc3OF19
 -->
