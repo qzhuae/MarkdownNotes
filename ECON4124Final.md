@@ -8,7 +8,7 @@
  - [ ] HW1
  - [ ] HW2
  - [ ] HW3
- - [ ] Final Guide
+ - [x] ~~Final Guide~~
  - [ ] Lecture Note 1
  - [ ] Lecture Note 2
  - [ ] Lecture Note 3
@@ -105,9 +105,9 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0xOD
-g5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0xMjI2NTM3
-NjE3LDEyMDMwMDAyMDAsMjgwNzA3MjQ0LDE5MzAzMDQ3NywxMT
-QzMDc3NDMyLDI3NjUyNTExMCwyMzkzOTEzMTgsMTg4MzA2NDk5
-MywyMDU0NjkwNTc4LC02Njk4MDc3NzhdfQ==
+eyJoaXN0b3J5IjpbMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMT
+cyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIwMTk2
+ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwyODA3MDcyNDQsMT
+kzMDMwNDc3LDExNDMwNzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMx
+OCwxODgzMDY0OTkzLDIwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
 -->
