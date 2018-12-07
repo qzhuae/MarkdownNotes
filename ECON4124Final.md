@@ -100,7 +100,7 @@ Sequential equilibrium prevents strictly dominated strategies from being used as
 
 But has no refining power on weakly dominated strategies.
 
-Why P24? Sequential Equilibi
+Why P24? belief is 0, 1.
 
 **Similarity and Differences between SE and THP**
 both SE and THP consider a convergent sequence of totally mixed-strategy profiles.
@@ -114,6 +114,8 @@ What if SE does not work?
 - Extensive-form THP
 - Forward Induction, Intuitive Criteria
 - Strategic Stability
+
+## Lecture 7
 
 
 
@@ -130,11 +132,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1ODg1MzgwLDc3NzQxMjQwNywtMTgwNz
-Q0ODQyOSwxMjIzNDc5ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1
-MywxNTg0MTc5NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMT
-Q3MzQyNDgzNSwtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAw
-MDAyODEsMTIxNzIyMzg1OSwtMTg4OTYxNjE3NSw0ODMwODkyND
-QsLTM2MjAxOTY4MywtMTIyNjUzNzYxNywxMjAzMDAwMjAwLDI4
-MDcwNzI0NF19
+eyJoaXN0b3J5IjpbLTQyMTMxODI3MCw3Nzc0MTI0MDcsLTE4MD
+c0NDg0MjksMTIyMzQ3OTgwNywtMTgwNzQ0ODQyOSwxNzg2NDA4
+NTMsMTU4NDE3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5MDI5LD
+E0NzM0MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcw
+MDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5Mj
+Q0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MTcsMTIwMzAwMDIwMCwy
+ODA3MDcyNDRdfQ==
 -->
