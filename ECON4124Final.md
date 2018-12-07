@@ -103,8 +103,12 @@ Sequential equilibrium prevents strictly dominated strategies from being used as
 both SE and THP consider a convergent sequence of totally mixed-strategy profiles.
 
 1. In SE, the strategy profile interacts with the belief system via Bayes' rule (by the consistency requirment)
-2. In SE, the totally mixed-strateg
+2. In SE, the totally mixed-strategy profiles in the convergent sequence do not need to satisfy the mutual best response condition.
+3. In THP, the totally mixed-strategy profiles in the convergent sequence must be an equilibrium in the perturbed game.
 
+What if SE does not work?
+- Structural Consistency Requirment
+- Extensive 
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -117,11 +121,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNDExMDU3LDE3ODY0MDg1MywxNTg0MT
-c5NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgz
-NSwtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMT
-IxNzIyMzg1OSwtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAx
-OTY4MywtMTIyNjUzNzYxNywxMjAzMDAwMjAwLDI4MDcwNzI0NC
-wxOTMwMzA0NzcsMTE0MzA3NzQzMiwyNzY1MjUxMTAsMjM5Mzkx
-MzE4XX0=
+eyJoaXN0b3J5IjpbLTIxMTgxOTIyNzcsMTc4NjQwODUzLDE1OD
+QxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0
+ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MS
+wxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYy
+MDE5NjgzLC0xMjI2NTM3NjE3LDEyMDMwMDAyMDAsMjgwNzA3Mj
+Q0LDE5MzAzMDQ3NywxMTQzMDc3NDMyLDI3NjUyNTExMCwyMzkz
+OTEzMThdfQ==
 -->
