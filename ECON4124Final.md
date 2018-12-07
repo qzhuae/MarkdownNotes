@@ -27,7 +27,7 @@
 `Strict NE`
 A strategy profile is **strict** NE if every player's strategy is a unique best response to the other players' strategies. 
 Mixed-strategy NE is not strict; pure-strategy NE may or may not be strict
-[Example?] 
+[Example?] Because of indifference condition, you could have multiple response.
 
 Informal Arguments for Unique Strict NE [Eliminate the column player's strategy R based on weak dominance]
 
@@ -72,7 +72,7 @@ SPE cannot prevent a strictly dominated strategy from being used.
 
 ~~[Obtain Tutorial Note 5 and 9]~~
 
-Anything condition about when a subgame can be written into matrix form?
+Anything condition about when a sub-game can be written into matrix form?
 
 Why is (Stay Out, L) an SPE?
 
@@ -103,10 +103,10 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU5NzcyNDEsLTEwNjM5NTcyNzMsMT
-I2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4ODk2
-MTYxNzUsNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEyMjY1Mzc2MT
-csMTIwMzAwMDIwMCwyODA3MDcyNDQsMTkzMDMwNDc3LDExNDMw
-Nzc0MzIsMjc2NTI1MTEwLDIzOTM5MTMxOCwxODgzMDY0OTkzLD
-IwNTQ2OTA1NzgsLTY2OTgwNzc3OF19
+eyJoaXN0b3J5IjpbMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3MywxMj
+YyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4OTYx
+NjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIyNjUzNzYxNy
+wxMjAzMDAwMjAwLDI4MDcwNzI0NCwxOTMwMzA0NzcsMTE0MzA3
+NzQzMiwyNzY1MjUxMTAsMjM5MzkxMzE4LDE4ODMwNjQ5OTMsMj
+A1NDY5MDU3OCwtNjY5ODA3Nzc4XX0=
 -->
