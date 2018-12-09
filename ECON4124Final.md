@@ -135,7 +135,13 @@ Infinite Repetition
 In repeated games of any kind, the sequential nature of the relationship means that players can adopt strategies that *depend on behavior in preceding plays* of the games.
 
 `Trigger Strategies`
-A player using a trigger strategy plays cooperatively as long as her rivals do so, but any defection on their part ''triggers'' a period of `punishment`, of specified length, in whi
+A player using a trigger strategy plays cooperatively as long as her rivals do so, but any defection on their part ''triggers'' a period of `punishment`, of specified length, in which she plays non-cooperatively in response.
+
+`Grim Strategy` and `Tit-for-tat` TFT
+
+`Grim Strategy` cooperate until rival defects; and punish on every play for the rest of the game.
+
+TFT can so
 
 
 ## Some Stuff from Jiang Wenda
@@ -150,11 +156,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODQ5MTQ4NiwyODg0MjAzMTQsLTQyMT
-MxODI3MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgw
-NywtMTgwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMT
-Q4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5
-NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NT
-ksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEy
-MjY1Mzc2MTddfQ==
+eyJoaXN0b3J5IjpbODI4NDQ2MTczLDI4ODQyMDMxNCwtNDIxMz
+E4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3
+LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xND
+gxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1
+NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OS
+wtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIy
+NjUzNzYxN119
 -->
