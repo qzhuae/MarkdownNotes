@@ -205,6 +205,14 @@ Observation: the bid of $v_i$ by type $v_i$ of player $i$ weakly dominates any b
 
 **FPV with IPV, 2 bidders, uniform value distribution over [0,1]**
 
+Most plausible strategy:
+- symmetric bidding
+- monotonically increasing in $v_i$
+
+Guess $\beta(v) = kv$ where $k \in [0,1]$
+
+[Know the objective function, winning prob. multiply by payoff]
+
 
 
 ## Some Stuff from Jiang Wenda
@@ -219,7 +227,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MTkzMzcwLC01NDE3MTk5NzMsOTEyMz
+eyJoaXN0b3J5IjpbNTU2MTY2MTA3LC01NDE3MTk5NzMsOTEyMz
 gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
 LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
 A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
