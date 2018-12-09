@@ -268,10 +268,6 @@ Equivalent Criteria by Van Overschee and DeMoor
 - A unifying theorem for three subspace system identification algorithms, Van Overschee and B. De Moor
 
 
-
-
-
-
 ## List of papers read, minimum 8
 
 
@@ -282,11 +278,11 @@ Equivalent Criteria by Van Overschee and DeMoor
 - Lack of metric to measure across datasets
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDc1NzgyOSwtMjA4NjkxNTc0LDMxNT
-ExNjc4Nyw4Nzg3MDQ0NDMsLTg4MTk0MDA3NSwxMDQ2ODIwMjYs
-MTYzNjExNjQ1NSwxMDQ2MzA1MDg1LDEzNDg0MzAzMywtMTg0Mz
-A5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4LDc1MjUwODUxNCwt
-MTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2MjM4LDE1OD
-U4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2MTIsLTc4NDI1MDQ4
-OF19
+eyJoaXN0b3J5IjpbLTIxMjUxNDcyNjcsMTcxNDc1NzgyOSwtMj
+A4NjkxNTc0LDMxNTExNjc4Nyw4Nzg3MDQ0NDMsLTg4MTk0MDA3
+NSwxMDQ2ODIwMjYsMTYzNjExNjQ1NSwxMDQ2MzA1MDg1LDEzND
+g0MzAzMywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4
+LDc1MjUwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMT
+I0OTE2MjM4LDE1ODU4ODExMTAsNjUzNTc4NzUxLDEwNDgxMjQ2
+MTJdfQ==
 -->
