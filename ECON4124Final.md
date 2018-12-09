@@ -200,7 +200,12 @@ Exercise: Find a NE of a second-price sealed-bid auction in which player i wins 
 
 **First-price Auction with IPV**
 Observation: the bid of $v_i$ by type $v_i$ of player $i$ weakly dominates any bid greater, but is weakly dominated by any such lower bid.
-- If type $v_i$ bids $
+- If type $v_i$ bids $v_i$, her payoff is certainly 0
+- If she bids less than $v_i$, she may win and obtain a positive payoff.
+
+**FPV with IPV, 2 bidders, uniform value distribution over [0,1]**
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -214,11 +219,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzE1MTQ0NSwtNTQxNzE5OTczLDkxMj
-M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
-MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
-gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
-NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
-MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
-ODk2MTYxNzVdfQ==
+eyJoaXN0b3J5IjpbNTg5MTkzMzcwLC01NDE3MTk5NzMsOTEyMz
+gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
+LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
+A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
+MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3My
+wxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4
+OTYxNjE3NV19
 -->
