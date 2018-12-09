@@ -146,7 +146,9 @@ choosing the action chosen by your rival in the preceding period of play. When p
 
 TFT for both players constitutes a NE. Leads to a cooperative outcome
 
-
+Proving Strategy:
+1. Fix one player's strategy
+2. Check if it is worthw
 
 ## Some Stuff from Jiang Wenda
 
@@ -160,11 +162,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00Mj
-EzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4
-MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLT
-E0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYz
-OTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzOD
-U5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0x
-MjI2NTM3NjE3XX0=
+eyJoaXN0b3J5IjpbLTQyNjEyODk1OSwtMjEwNDQwODA0OCwyOD
+g0MjAzMTQsLTQyMTMxODI3MCw3Nzc0MTI0MDcsLTE4MDc0NDg0
+MjksMTIyMzQ3OTgwNywtMTgwNzQ0ODQyOSwxNzg2NDA4NTMsMT
+U4NDE3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0
+MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMj
+gxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0z
+NjIwMTk2ODNdfQ==
 -->
