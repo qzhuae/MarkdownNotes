@@ -117,7 +117,17 @@ What if SE does not work?
 
 ## Lecture 7
 
-The essence of the questions of whether, when and how a prisoners' dilemma can be resolved is the difficulty of achieving a cooperative (jointly
+The essence of the questions of whether, when and how a prisoners' dilemma can be resolved is the difficulty of achieving a cooperative (jointly preferred) outcome through noncooperative(individual) actions.
+
+Solutions:
+- Repetition
+- Penalties and Rewards
+- Leadership
+- Asymmetric Information
+
+Finite Repetition
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -131,11 +141,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTUwMDU4OCwyODg0MjAzMTQsLTQyMT
-MxODI3MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgw
-NywtMTgwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMT
-Q4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5
-NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NT
-ksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEy
-MjY1Mzc2MTddfQ==
+eyJoaXN0b3J5IjpbMzk3ODE2NzQ2LDI4ODQyMDMxNCwtNDIxMz
+E4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3
+LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xND
+gxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1
+NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OS
+wtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIy
+NjUzNzYxN119
 -->
