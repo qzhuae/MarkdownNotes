@@ -131,7 +131,12 @@ As long as the relationship between the two players in a prisoners' dilemma game
 
 Infinite Repetition
 
-In repeated games of any kind, the sequential nature of the relationship means 
+`Contingent Strategies`
+In repeated games of any kind, the sequential nature of the relationship means that players can adopt strategies that *depend on behavior in preceding plays* of the games.
+
+`Trigger Strategies`
+A player using a trigger strategy plays cooperatively as long as her rivals do so, but any defection on their part ''triggers'' a period of `punishment`, of specified length, in whi
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -145,11 +150,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE4NTYxNDAsMjg4NDIwMzE0LC00Mj
-EzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4
-MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLT
-E0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYz
-OTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzOD
-U5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0x
-MjI2NTM3NjE3XX0=
+eyJoaXN0b3J5IjpbMTgzODQ5MTQ4NiwyODg0MjAzMTQsLTQyMT
+MxODI3MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgw
+NywtMTgwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMT
+Q4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5
+NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NT
+ksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0zNjIwMTk2ODMsLTEy
+MjY1Mzc2MTddfQ==
 -->
