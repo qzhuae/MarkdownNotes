@@ -167,6 +167,8 @@ For any value of discount factor, the infinitely repeated game of G has a NE in 
 2. Replace PD with any two-player game with finitely many actions
 3. Replace PD with any multi-player game with finitely many actions and no players' payoff function is same as any other's.
 
+## Lecture 8
+
 
 
 ## Some Stuff from Jiang Wenda
@@ -181,11 +183,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTcxOTk3Myw5MTIzODMyNjUsLTIxMD
-Q0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgyNzAsNzc3NDEyNDA3
-LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLTE4MDc0NDg0MjksMT
-c4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0
-OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwND
-csLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4
-MzA4OTI0NF19
+eyJoaXN0b3J5IjpbLTExODAxNTk0NywtNTQxNzE5OTczLDkxMj
+M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
+MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
+gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
+NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
+MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
+ODk2MTYxNzVdfQ==
 -->
