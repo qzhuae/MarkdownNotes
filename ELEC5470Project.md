@@ -278,12 +278,14 @@ Equivalent Criteria by Van Overschee and DeMoor
 - Lack of metric to measure across datasets
 - Robustness, emsemble learning over multiple cost function and multiple models
 - Loss, sparsity to make things not overfitting
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTEzMTgxMiwxNzE0NzU3ODI5LC0yMD
-g2OTE1NzQsMzE1MTE2Nzg3LDg3ODcwNDQ0MywtODgxOTQwMDc1
-LDEwNDY4MjAyNiwxNjM2MTE2NDU1LDEwNDYzMDUwODUsMTM0OD
-QzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0OSwyNjA3MTc4MDgs
-NzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5MTI5LC0xMj
-Q5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3NTEsMTA0ODEyNDYx
-Ml19
+eyJoaXN0b3J5IjpbLTIwOTM5ODY0MzIsMjA3MTEzMTgxMiwxNz
+E0NzU3ODI5LC0yMDg2OTE1NzQsMzE1MTE2Nzg3LDg3ODcwNDQ0
+MywtODgxOTQwMDc1LDEwNDY4MjAyNiwxNjM2MTE2NDU1LDEwND
+YzMDUwODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0
+OSwyNjA3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMz
+A4OTU5MTI5LC0xMjQ5MTYyMzgsMTU4NTg4MTExMCw2NTM1Nzg3
+NTFdfQ==
 -->
