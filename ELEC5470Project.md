@@ -267,7 +267,8 @@ Equivalent Criteria by Van Overschee and DeMoor
 - N4SID: Subspace algorithms for the identification of combined deterministic-stochastic systems
 - A unifying theorem for three subspace system identification algorithms, Van Overschee and B. De Moor
 
-
+**Anomaly Detection & Anomaly detection by distance and density based clustering algorithms**
+https://machinelearningstories.blogspot.com/2018/07/anomaly-detection-anomaly-detection-by.html
 
 
 ## List of papers read, minimum 8
@@ -283,7 +284,7 @@ Equivalent Criteria by Van Overschee and DeMoor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTI3MTQ2MCwtMjA5Mzk4NjQzMiwyMD
+eyJoaXN0b3J5IjpbMTg0MjE5MTg0OSwtMjA5Mzk4NjQzMiwyMD
 cxMTMxODEyLDE3MTQ3NTc4MjksLTIwODY5MTU3NCwzMTUxMTY3
 ODcsODc4NzA0NDQzLC04ODE5NDAwNzUsMTA0NjgyMDI2LDE2Mz
 YxMTY0NTUsMTA0NjMwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4
