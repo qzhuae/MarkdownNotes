@@ -183,6 +183,12 @@ Consider all Nash equilibrium of a second-price sealed-bid auction with two bidd
 
 NEs
 - $(v_2, v_2, v_3, \cdots, v_n)$
+- In all equilibria, the winner is player 1
+
+`Revenue Equivalence`
+single Nash Equilibrium in which no player's bid is weakly dominated in a second-price auction yields the same outcome as the distinguished equilibria of a first-price auction.
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -196,11 +202,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NjU4NjQxLC01NDE3MTk5NzMsOTEyMz
-gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
-LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
-A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
-MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3My
-wxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4
-OTYxNjE3NV19
+eyJoaXN0b3J5IjpbODc0MTE3NjUsLTU0MTcxOTk3Myw5MTIzOD
+MyNjUsLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgyNzAs
+Nzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLTE4MD
+c0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3MDUw
+MjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3MjczLD
+EyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0xODg5
+NjE2MTc1XX0=
 -->
