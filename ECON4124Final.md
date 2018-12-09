@@ -174,6 +174,11 @@ For any value of discount factor, the infinitely repeated game of G has a NE in 
 NEs
 - $(v_1, 0, 0, 0, \cdots, 0)$ 
 - $(v_2, v_1, 0, 0 \cdots, 0)$
+- there is one NE in which player n obtains the object
+- $(v_1, v_2, v_3, v_4, \cdots, 0)$ Weakly Dominant Nash Equilibrium
+
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -187,11 +192,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjIzMDkwLC01NDE3MTk5NzMsOTEyMz
-gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
-LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
-A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
-MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3My
-wxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4
-OTYxNjE3NV19
+eyJoaXN0b3J5IjpbMTMwNjc0MzY0OSwtNTQxNzE5OTczLDkxMj
+M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
+MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
+gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
+NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
+MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
+ODk2MTYxNzVdfQ==
 -->
