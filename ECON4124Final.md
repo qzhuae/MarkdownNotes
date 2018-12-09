@@ -177,8 +177,12 @@ NEs
 - there is one NE in which player n obtains the object
 - $(v_1, v_2, v_3, v_4, \cdots, 0)$ Weakly Dominant Nash Equilibrium
 
+Consider all Nash equilibrium of a second-price sealed-bid auction with two bidders.
 
+**First-price sealed-bid auction with perfect information**
 
+NEs
+- $(v_2, v_2, v_3, \cdots, v_n)$
 
 ## Some Stuff from Jiang Wenda
 
@@ -192,11 +196,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjc0MzY0OSwtNTQxNzE5OTczLDkxMj
-M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
-MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
-gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
-NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
-MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
-ODk2MTYxNzVdfQ==
+eyJoaXN0b3J5IjpbMjM5NjU4NjQxLC01NDE3MTk5NzMsOTEyMz
+gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
+LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
+A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
+MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3My
+wxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4
+OTYxNjE3NV19
 -->
