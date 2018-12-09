@@ -159,7 +159,11 @@ Let G be a prisoners' Dilemma with D,D as unique NE and C,C be socially desirabl
 
 For any discount factor $\delta = \frac{1}{1+r}$, the discounted average payoff of each player i in any NE of the infinitely repeated game of G is at least $u_i(D,D)$.
 
-Let x_1,x_2 be a feasible pair of payoffs in G for which $x_i > u_i(D,D)$ for each player i. There exists $\bar\delta < 1$ such that if the discount factor exceeds $\bar\delta$,
+Let x_1,x_2 be a feasible pair of payoffs in G for which $x_i > u_i(D,D)$ for each player i. There exists $\bar\delta < 1$ such that if the discount factor exceeds $\bar\delta$, then the infinitely repeated game of G has a NE in which the discounted average payoff of each player i is $x_i$. 
+
+For any value of discount factor, the infinitely repeated game of G has a NE in which the discounted average payoff of each player is $u_i(D,D)$.
+
+Use SPE instead of NE for PD.
 
 
 ## Some Stuff from Jiang Wenda
@@ -174,7 +178,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDQwNzAyMyw5MTIzODMyNjUsLTIxMD
+eyJoaXN0b3J5IjpbMTk2NTQ1NDAxNiw5MTIzODMyNjUsLTIxMD
 Q0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgyNzAsNzc3NDEyNDA3
 LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLTE4MDc0NDg0MjksMT
 c4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0
