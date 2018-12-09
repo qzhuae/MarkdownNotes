@@ -190,10 +190,11 @@ single Nash Equilibrium in which no player's bid is weakly dominated in a second
 
 **Independent private values (IPV)**
 Values $v_i \in [v', v'']$ is i.i.d. according to F(v_i) 
-Strategies: bidding function maps interval of value to bid
+Strategies: bidding function $\beta$ maps interval of value to bid
 $P(b)$ the price paid by the winner of auction when the profile of bids is b.
 Payoffs: Player i's Bernoulli payoff is 0 if her bid b_i is not the highest bid, and $(v_i - P(b))/m$ if no bid is higher than $b_i$ and $m$ bids are equal to $b_i$.
 
+Finding: In second-price auction with perfect information and IPV, a player's bid equal to her valuation weakly dominates all her other bids. Then, there is a NE where each type of every player bids her valuation $\beta_i(v) = v$.
 
 
 ## Some Stuff from Jiang Wenda
@@ -208,7 +209,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA4NzcyNjAsLTU0MTcxOTk3Myw5MT
+eyJoaXN0b3J5IjpbLTE2MDY5MTI1MzcsLTU0MTcxOTk3Myw5MT
 IzODMyNjUsLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgy
 NzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLT
 E4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3
