@@ -153,6 +153,13 @@ Proving Strategy:
 
 $\frac{1}{1+r} + \frac{1}{(1+r)^2} + \cdots \rightarrow \frac{1}{r}$.
 
+`Folk Theorem for PD`
+
+Let G be a prisoners' Dilemma with D,D as unique NE and C,C be socially desirable outcome
+
+For any discount factor $\delta = \frac{1}{1+r}$, the dis
+
+
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -165,11 +172,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMzgzMjY1LC0yMTA0NDA4MDQ4LDI4OD
-QyMDMxNCwtNDIxMzE4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQy
-OSwxMjIzNDc5ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNT
-g0MTc5NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQy
-NDgzNSwtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyOD
-EsMTIxNzIyMzg1OSwtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2
-MjAxOTY4M119
+eyJoaXN0b3J5IjpbMTI3NTI5MjI0Miw5MTIzODMyNjUsLTIxMD
+Q0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgyNzAsNzc3NDEyNDA3
+LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLTE4MDc0NDg0MjksMT
+c4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0
+OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3MjczLDEyNjI2ODQwND
+csLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0xODg5NjE2MTc1LDQ4
+MzA4OTI0NF19
 -->
