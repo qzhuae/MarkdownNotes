@@ -142,7 +142,9 @@ A player using a trigger strategy plays cooperatively as long as her rivals do s
 `Grim Strategy` cooperate until rival defects; and punish on every play for the rest of the game.
 
 `TFT` can solve the prisoners' dilemma without requiring permanent punishment.
-choosing the action chosen by your rival in the preceding period of play. When playing TFT, you cooperate with your rival if she cooperated during the most recent play of the game and defect if your rival defected. 
+choosing the action chosen by your rival in the preceding period of play. When playing TFT, you cooperate with your rival if she cooperated during the most recent play of the game and defect if your rival defected. The punishment phase lasts only as long as your rival continues to defect; you will return to cooperation one period after your rival chooses to do so.
+
+TFT for both players constitutes a NE. Leads to a cooperative outcome
 
 
 
@@ -158,7 +160,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDcxNDAwNDAsMjg4NDIwMzE0LC00Mj
+eyJoaXN0b3J5IjpbLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00Mj
 EzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4
 MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLT
 E0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYz
