@@ -226,6 +226,8 @@ $2 \times f(v) (1 - F(v))$
 
 `Revenue Equivalence` Nash Equilibrium of second-price sealed-bid auction yields same revenue as the symmetric Nash Equilibrium of the corresponding first-price sealed-bid auction (same bidding function).
 
+Implication of `Revelation Principle`
+
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -238,11 +240,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAzNjUwMywtNTQxNzE5OTczLDkxMj
-M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
-MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
-gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
-NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
-MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
-ODk2MTYxNzVdfQ==
+eyJoaXN0b3J5IjpbLTYzOTU0MDM3MCwtMTQxMDM2NTAzLC01ND
+E3MTk5NzMsOTEyMzgzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMx
+NCwtNDIxMzE4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMj
+IzNDc5ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5
+NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNS
+wtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIx
+NzIyMzg1OV19
 -->
