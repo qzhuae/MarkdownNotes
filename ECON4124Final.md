@@ -127,7 +127,11 @@ Solutions:
 
 Finite Repetition
 
+As long as the relationship between the two players in a prisoners' dilemma game lasts a fixed and known length of time, the dominant-strategy *equilibrium with defecting should prevail* in the last period of play.
 
+Infinite Repetition
+
+In repeated games of any kind, the sequential nature of the relationship means 
 
 ## Some Stuff from Jiang Wenda
 
@@ -141,11 +145,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3ODE2NzQ2LDI4ODQyMDMxNCwtNDIxMz
-E4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3
-LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xND
-gxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1
-NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OS
-wtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIy
-NjUzNzYxN119
+eyJoaXN0b3J5IjpbLTIwNDE4NTYxNDAsMjg4NDIwMzE0LC00Mj
+EzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4
+MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLT
+E0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYz
+OTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzOD
+U5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0x
+MjI2NTM3NjE3XX0=
 -->
