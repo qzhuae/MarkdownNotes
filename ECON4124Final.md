@@ -163,7 +163,10 @@ Let x_1,x_2 be a feasible pair of payoffs in G for which $x_i > u_i(D,D)$ for ea
 
 For any value of discount factor, the infinitely repeated game of G has a NE in which the discounted average payoff of each player is $u_i(D,D)$.
 
-Use SPE instead of NE for PD.
+1. Use SPE instead of NE for PD
+2. Replace PD with any two-player game with finitely many actions
+3. Replace PD with any multi-player game with finitely many actions and no players' payoff function is same as any other's.
+
 
 
 ## Some Stuff from Jiang Wenda
@@ -178,7 +181,7 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTQ1NDAxNiw5MTIzODMyNjUsLTIxMD
+eyJoaXN0b3J5IjpbLTU0MTcxOTk3Myw5MTIzODMyNjUsLTIxMD
 Q0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgyNzAsNzc3NDEyNDA3
 LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLTE4MDc0NDg0MjksMT
 c4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0
