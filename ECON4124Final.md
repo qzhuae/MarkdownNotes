@@ -188,7 +188,9 @@ NEs
 `Revenue Equivalence`
 single Nash Equilibrium in which no player's bid is weakly dominated in a second-price auction yields the same outcome as the distinguished equilibria of a first-price auction.
 
-
+**Independent private values (IPV)**
+Values $v_i \in [v', v'']$ is i.i.d. according to F(v_i) 
+Strategies 
 
 ## Some Stuff from Jiang Wenda
 
@@ -202,11 +204,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MTE3NjUsLTU0MTcxOTk3Myw5MTIzOD
-MyNjUsLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgyNzAs
-Nzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLTE4MD
-c0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3MDUw
-MjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3MjczLD
-EyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0xODg5
-NjE2MTc1XX0=
+eyJoaXN0b3J5IjpbMTI5NzcyMzczOSwtNTQxNzE5OTczLDkxMj
+M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
+MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
+gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
+NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
+MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
+ODk2MTYxNzVdfQ==
 -->
