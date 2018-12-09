@@ -141,7 +141,9 @@ A player using a trigger strategy plays cooperatively as long as her rivals do s
 
 `Grim Strategy` cooperate until rival defects; and punish on every play for the rest of the game.
 
-TFT can so
+`TFT` can solve the prisoners' dilemma without requiring permanent punishment.
+choosing the action chosen by your rival in the preceding period of play. When playing TFT, you cooperate with your rival if she cooperated during the most recent play of the game and defect if your rival defected. 
+
 
 
 ## Some Stuff from Jiang Wenda
@@ -156,11 +158,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NDQ2MTczLDI4ODQyMDMxNCwtNDIxMz
-E4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3
-LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xND
-gxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1
-NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OS
-wtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2MjAxOTY4MywtMTIy
-NjUzNzYxN119
+eyJoaXN0b3J5IjpbLTE5MDcxNDAwNDAsMjg4NDIwMzE0LC00Mj
+EzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4
+MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLT
+E0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYz
+OTU3MjczLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzOD
+U5LC0xODg5NjE2MTc1LDQ4MzA4OTI0NCwtMzYyMDE5NjgzLC0x
+MjI2NTM3NjE3XX0=
 -->
