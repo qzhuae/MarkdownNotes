@@ -217,9 +217,14 @@ For more than two bidder, $\beta_i(v) = (1- \frac{1}{n})v$
 
 First assume $\beta_{-i} = kv$, objective is still winning prob. multiply by payoff.
 
-Probability of $\beta(v)$ being the highest bid:
-2 \times f(v)F()
+- Probability of $\beta(v)$ being the highest bid:
+$2 \times f(v)F(v) = 2\times v$
 
+- Probability of $\beta(v)$ being the second highest bid:
+$2 \times f(v) (1 - F(v))$
+(One player has value $v$ and second player has value higher than or equal to $v$)
+
+`Revenue Equivalenced
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -232,11 +237,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NDQyMzY5LC01NDE3MTk5NzMsOTEyMz
-gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
-LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
-A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
-MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3My
-wxMjYyNjg0MDQ3LC05NzAwMDAyODEsMTIxNzIyMzg1OSwtMTg4
-OTYxNjE3NV19
+eyJoaXN0b3J5IjpbLTE4NjMxOTUxMDksLTU0MTcxOTk3Myw5MT
+IzODMyNjUsLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgy
+NzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLT
+E4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3
+MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3Mj
+czLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0x
+ODg5NjE2MTc1XX0=
 -->
