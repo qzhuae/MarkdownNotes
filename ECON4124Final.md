@@ -190,7 +190,11 @@ single Nash Equilibrium in which no player's bid is weakly dominated in a second
 
 **Independent private values (IPV)**
 Values $v_i \in [v', v'']$ is i.i.d. according to F(v_i) 
-Strategies 
+Strategies: bidding function maps interval of value to bid
+$P(b)$ the price paid by the winner of auction when the profile of bids is b.
+Payoffs: Player i's Bernoulli payoff is 0 if her bid b_i is not the highest bid, and $(v_i - P(b))/m$ if no bid is higher than $b_i$ and $m$ bids are equal to $b_i$.
+
+
 
 ## Some Stuff from Jiang Wenda
 
@@ -204,11 +208,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzcyMzczOSwtNTQxNzE5OTczLDkxMj
-M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
-MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
-gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
-NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
-MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
-ODk2MTYxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE4NzA4NzcyNjAsLTU0MTcxOTk3Myw5MT
+IzODMyNjUsLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgy
+NzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLT
+E4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3
+MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3Mj
+czLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0x
+ODg5NjE2MTc1XX0=
 -->
