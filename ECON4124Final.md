@@ -224,7 +224,8 @@ $2 \times f(v)F(v) = 2\times v$
 $2 \times f(v) (1 - F(v))$
 (One player has value $v$ and second player has value higher than or equal to $v$)
 
-`Revenue Equivalenced
+`Revenue Equivalence` Nash Equilibrium of second-price sealed-bid auction yields same revenue as the symmetric Nash Equilibrium of the corresponding first-price sealed-bid auction (same bidding function).
+
 ## Some Stuff from Jiang Wenda
 
 possible midterm problems
@@ -237,11 +238,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMxOTUxMDksLTU0MTcxOTk3Myw5MT
-IzODMyNjUsLTIxMDQ0MDgwNDgsMjg4NDIwMzE0LC00MjEzMTgy
-NzAsNzc3NDEyNDA3LC0xODA3NDQ4NDI5LDEyMjM0Nzk4MDcsLT
-E4MDc0NDg0MjksMTc4NjQwODUzLDE1ODQxNzk1MjMsLTE0ODE3
-MDUwMjIsLTQ4NjM0OTAyOSwxNDczNDI0ODM1LC0xMDYzOTU3Mj
-czLDEyNjI2ODQwNDcsLTk3MDAwMDI4MSwxMjE3MjIzODU5LC0x
-ODg5NjE2MTc1XX0=
+eyJoaXN0b3J5IjpbLTE0MTAzNjUwMywtNTQxNzE5OTczLDkxMj
+M4MzI2NSwtMjEwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3
+MCw3Nzc0MTI0MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMT
+gwNzQ0ODQyOSwxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcw
+NTAyMiwtNDg2MzQ5MDI5LDE0NzM0MjQ4MzUsLTEwNjM5NTcyNz
+MsMTI2MjY4NDA0NywtOTcwMDAwMjgxLDEyMTcyMjM4NTksLTE4
+ODk2MTYxNzVdfQ==
 -->
