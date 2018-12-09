@@ -148,7 +148,10 @@ TFT for both players constitutes a NE. Leads to a cooperative outcome
 
 Proving Strategy:
 1. Fix one player's strategy
-2. Check if it is worthw
+2. Check if it is worthwhile to defect only once
+3. Check if it is worthwhile to defect forever
+
+$\frac{1}{1+r} + \frac{1}{(1+r)^2} + \cdots \rightarrow \frac{1}{r}$.
 
 ## Some Stuff from Jiang Wenda
 
@@ -162,11 +165,11 @@ Information set, principal agent problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjEyODk1OSwtMjEwNDQwODA0OCwyOD
-g0MjAzMTQsLTQyMTMxODI3MCw3Nzc0MTI0MDcsLTE4MDc0NDg0
-MjksMTIyMzQ3OTgwNywtMTgwNzQ0ODQyOSwxNzg2NDA4NTMsMT
-U4NDE3OTUyMywtMTQ4MTcwNTAyMiwtNDg2MzQ5MDI5LDE0NzM0
-MjQ4MzUsLTEwNjM5NTcyNzMsMTI2MjY4NDA0NywtOTcwMDAwMj
-gxLDEyMTcyMjM4NTksLTE4ODk2MTYxNzUsNDgzMDg5MjQ0LC0z
-NjIwMTk2ODNdfQ==
+eyJoaXN0b3J5IjpbOTEyMzgzMjY1LC0yMTA0NDA4MDQ4LDI4OD
+QyMDMxNCwtNDIxMzE4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQy
+OSwxMjIzNDc5ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNT
+g0MTc5NTIzLC0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQy
+NDgzNSwtMTA2Mzk1NzI3MywxMjYyNjg0MDQ3LC05NzAwMDAyOD
+EsMTIxNzIyMzg1OSwtMTg4OTYxNjE3NSw0ODMwODkyNDQsLTM2
+MjAxOTY4M119
 -->
