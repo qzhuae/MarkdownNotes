@@ -18,9 +18,11 @@ Opportunity cost includes:
 
 AP = TR - TEC; EP = AP - TIC
 
-`The Production Function` Q_out 
+`The Production Function` Q_out over Q_in (can be table, equation, or graph)
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEyMzg3N119
+eyJoaXN0b3J5IjpbLTE4NDQ4NzUzMDFdfQ==
 -->
