@@ -5,6 +5,10 @@
 
 # Econ2103 Final Review
 
+## Some Principles
+
+difference between curve and quantity
+
 ## Chapter 13
 
 Profit = TR - TC, Costs are always `economic costs`
@@ -26,9 +30,14 @@ AP = TR - TEC; EP = AP - TIC
 
 Think at the margin: additional input if MP > MC
 
-**MPL diminishes as L rises** whether the fixed input is land or capital (equipment, mahchines), 
+**MPL diminishes as L rises** whether the fixed input is land or capital (equipment, mahchines), interpret as additional worker being less productive.
+
+`Diminishing marginal product` MP $\downarrow$ as $Q_{in} \uparrow$, other things equal.
+
+`Fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTA0NTk1MywtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbLTExNDE1Mzk4MDEsLTE4NDQ4NzUzMDFdfQ
+==
 -->
