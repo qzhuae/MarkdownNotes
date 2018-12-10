@@ -34,10 +34,13 @@ Think at the margin: additional input if MP > MC
 
 `Diminishing marginal product` MP $\downarrow$ as $Q_{in} \uparrow$, other things equal.
 
-`Fi
+`Fixed Costs` Cost of equipment, loan payments, rent, land
+`Variable Costs` Cost of materials, wages
+`Total Costs` TC = FC + VC
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE1Mzk4MDEsLTE4NDQ4NzUzMDFdfQ
-==
+eyJoaXN0b3J5IjpbLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
 -->
