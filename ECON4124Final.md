@@ -240,16 +240,16 @@ Information set, principal agent problem
 
 ## Pre-Final
 - [x] Check the one thing isn't tested in midterm
-- [ ] Check weakly dominant NE in order to to find all NEs in a three-bidder bid
+- [x] Check weakly dominant NE in order to to find all NEs in a three-bidder bid
 - [x] Last Tutorial Quesions
-- [ ] Homework Corrections
+- [x] Homework Corrections
 - [ ] Practice Finding PBE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTQ4ODEzMywtMTQ5NDg0ODM0OSw4OT
-M5MTE5NzEsMTU2OTY4MTgzMSwtNjM5NTQwMzcwLC0xNDEwMzY1
-MDMsLTU0MTcxOTk3Myw5MTIzODMyNjUsLTIxMDQ0MDgwNDgsMj
-g4NDIwMzE0LC00MjEzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4
-NDI5LDEyMjM0Nzk4MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLD
-E1ODQxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDcz
-NDI0ODM1XX0=
+eyJoaXN0b3J5IjpbMTE2MDIyNTYxMSwtNTQ5NDg4MTMzLC0xND
+k0ODQ4MzQ5LDg5MzkxMTk3MSwxNTY5NjgxODMxLC02Mzk1NDAz
+NzAsLTE0MTAzNjUwMywtNTQxNzE5OTczLDkxMjM4MzI2NSwtMj
+EwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3MCw3Nzc0MTI0
+MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMTgwNzQ0ODQyOS
+wxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcwNTAyMiwtNDg2
+MzQ5MDI5XX0=
 -->
