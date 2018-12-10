@@ -239,17 +239,17 @@ payoff integral
 Information set, principal agent problem
 
 ## Pre-Final
-- [ ] Check the one thing isn't tested in midterm
+- [x] Check the one thing isn't tested in midterm
 - [ ] Check weakly dominant NE in order to to find all NEs in a three-bidder bid
-- [ ] Last Tutorial Quesions
+- [x] Last Tutorial Quesions
 - [ ] Homework Corrections
 - [ ] Practice Finding PBE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzOTExOTcxLDE1Njk2ODE4MzEsLTYzOT
-U0MDM3MCwtMTQxMDM2NTAzLC01NDE3MTk5NzMsOTEyMzgzMjY1
-LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4MjcwLDc3Nz
-QxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xODA3NDQ4
-NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1MDIyLC
-00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2Mzk1NzI3MywxMjYy
-Njg0MDQ3XX0=
+eyJoaXN0b3J5IjpbLTE0OTQ4NDgzNDksODkzOTExOTcxLDE1Nj
+k2ODE4MzEsLTYzOTU0MDM3MCwtMTQxMDM2NTAzLC01NDE3MTk5
+NzMsOTEyMzgzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtND
+IxMzE4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5
+ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC
+0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2
+Mzk1NzI3M119
 -->
