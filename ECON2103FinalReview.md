@@ -37,10 +37,15 @@ Think at the margin: additional input if MP > MC
 `Fixed Costs` Cost of equipment, loan payments, rent, land
 `Variable Costs` Cost of materials, wages
 `Total Costs` TC = FC + VC
+`Total Cost Curve` over $Q_{out}$
+
+`Marginal Cost` MC = $\frac{\Delta TC}{\Delta Q_{out}}$
+> increase in total cost from producing one more unit
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xOD
+Q0ODc1MzAxXX0=
 -->
