@@ -42,10 +42,12 @@ Think at the margin: additional input if MP > MC
 `Marginal Cost` MC = $\frac{\Delta TC}{\Delta Q_{out}}$
 > increase in total cost from producing one more unit
 
+AFC, AVC, ATC
 
+**strong text**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xOD
-Q0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbMTM0MjI1ODQ1NywxNDk1NjQwNTg3LC01NT
+YzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
