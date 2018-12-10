@@ -15,9 +15,9 @@
  - [ ] Lecture Note 4
  - [ ] Lecture Note 5
  - [x] Lecture Note 6
- - [ ] Lecture Note 7
- - [ ] Lecture Note 8
- - [ ] Lecture Note 9
+ - [x] Lecture Note 7
+ - [x] Lecture Note 8
+ - [x] Lecture Note 9
 
 ## Lecture 6
 - Symmetric Nash Equilibrium (Game of Chicken)
@@ -245,11 +245,11 @@ Information set, principal agent problem
 - [ ] Homework Corrections
 - [ ] Practice Finding PBE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ4NDgzNDksODkzOTExOTcxLDE1Nj
-k2ODE4MzEsLTYzOTU0MDM3MCwtMTQxMDM2NTAzLC01NDE3MTk5
-NzMsOTEyMzgzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtND
-IxMzE4MjcwLDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5
-ODA3LC0xODA3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC
-0xNDgxNzA1MDIyLC00ODYzNDkwMjksMTQ3MzQyNDgzNSwtMTA2
-Mzk1NzI3M119
+eyJoaXN0b3J5IjpbLTU0OTQ4ODEzMywtMTQ5NDg0ODM0OSw4OT
+M5MTE5NzEsMTU2OTY4MTgzMSwtNjM5NTQwMzcwLC0xNDEwMzY1
+MDMsLTU0MTcxOTk3Myw5MTIzODMyNjUsLTIxMDQ0MDgwNDgsMj
+g4NDIwMzE0LC00MjEzMTgyNzAsNzc3NDEyNDA3LC0xODA3NDQ4
+NDI5LDEyMjM0Nzk4MDcsLTE4MDc0NDg0MjksMTc4NjQwODUzLD
+E1ODQxNzk1MjMsLTE0ODE3MDUwMjIsLTQ4NjM0OTAyOSwxNDcz
+NDI0ODM1XX0=
 -->
