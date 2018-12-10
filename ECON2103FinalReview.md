@@ -19,10 +19,13 @@ Opportunity cost includes:
 AP = TR - TEC; EP = AP - TIC
 
 `The Production Function` Q_out over Q_in (can be table, equation, or graph)
+(Quantity of outputs over Quantity of inputs)
 
+`marginal product` (derivative, slope) increase in output arising from one additional unit of that input, every other inputs constant. MP of Labor = $\frac{\Delta Q}{\Delta L}$ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbLTIxMTIwMTc2MTIsLTE4NDQ4NzUzMDFdfQ
+==
 -->
