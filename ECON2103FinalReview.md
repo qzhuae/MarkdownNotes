@@ -24,9 +24,11 @@ AP = TR - TEC; EP = AP - TIC
 `marginal product` (derivative, slope of PF) MP of Labor = $\frac{\Delta Q}{\Delta L}$ 
 >  increase in output arising from one additional unit of that input, every other inputs constant. 
 
-Think at the margin
+Think at the margin: additional input if MP > MC
+
+**MPL diminishes as L rises** whether the fixed input is land or capital (equipment, mahchines), 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NzA1ODgxLC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbMTE5NTA0NTk1MywtMTg0NDg3NTMwMV19
 -->
