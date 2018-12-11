@@ -99,16 +99,16 @@ TP is concave first and then convex because MC decrease first and then rise.
 
 MP and MC are like reciprocal, when MP rise MC decrease and MP decrease and MC rise. 
 
-
+MC is U-shaped, but rises steeply as output increases. This is due to diminishing marginal product. 
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MD
-Y2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2
-NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LD
-EzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xODQ0
-ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbLTExMzQ2MDQ0MDcsLTQyNTA5NDc5MSwtMT
+UwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0
+MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC
+0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2
+MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
 -->
