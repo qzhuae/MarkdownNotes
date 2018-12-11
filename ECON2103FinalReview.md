@@ -103,16 +103,16 @@ MC is U-shaped, but rises steeply as output increases. This is due to diminishin
 
 ATC is U-shaped. Q low, ATC decrease. Q high, ATC increase.
 
-
+MP.
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzAzMDgyMCwtNDI1MDk0NzkxLC0xNT
-A4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5MDEsMTI3OTUwMTQw
-NSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLTEwMTI4Mzk3NzQsLT
-E5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYz
-MDYxNDUsLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbMTAwNDkwMzgzLC00MjUwOTQ3OTEsLTE1MD
+g4NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMSwxMjc5NTAxNDA1
+LDEwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAxMjgzOTc3NCwtMT
+k5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLTU1NjMw
+NjE0NSwtMTg0NDg3NTMwMV19
 -->
