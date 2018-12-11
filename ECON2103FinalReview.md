@@ -110,7 +110,8 @@ Max Profit might not be positive economic profit. (check by ATC vs P)
 
 `Shutdown Point` at min AVC where MC crosses AVC. Indifferent between producing and shutting down.  At this point, loss is TFC.
 
-
+Exit Decision:
+TR < TC = 
 
 
 
@@ -142,11 +143,11 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTc3MTAxMCwtMTc4MTIzOTgyNSwtMT
-g3ODAwNTg0NiwtMTU5NTQyOTA1NiwxMDU1NDkzNTU0LC0xODEy
-MzIyODEyLC00MjUwOTQ3OTEsLTE1MDg4NDU1NjYsNjA2NjU4MT
-c3LDQ2MzgyMTkwMSwxMjc5NTAxNDA1LDEwNDUxMzI2NjcsMTYz
-ODE4NjAxOCwtMTAxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMj
-U4NDU3LDE0OTU2NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMw
-MV19
+eyJoaXN0b3J5IjpbLTE1MjMzMzgyNDIsLTE3ODEyMzk4MjUsLT
+E4NzgwMDU4NDYsLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgx
+MjMyMjgxMiwtNDI1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1OD
+E3Nyw0NjM4MjE5MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2
+MzgxODYwMTgsLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0Mj
+I1ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUz
+MDFdfQ==
 -->
