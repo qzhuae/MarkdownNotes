@@ -192,6 +192,7 @@ In a PC market, demand curve slopes downward.
 For any individual firm's product is **horizontal** at market price P = MR = D. The firm can increase $Q$ without lowering P.
 
 **Monopolist faces the market demand curve, downward sloping**
+MR $\neq$ P
 
 
 
@@ -200,7 +201,7 @@ For any individual firm's product is **horizontal** at market price P = MR = D. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQwODMwMDUsMjAzNDEyMTkxLDE2MD
+eyJoaXN0b3J5IjpbLTE2ODI0OTcyOTgsMjAzNDEyMTkxLDE2MD
 M2OTE5NDgsLTk4NTg0OTkzOSwtMTE0NzMzNDk5NiwxNTMyMTY4
 MzQ1LC0xNjU3OTczNzAxLC0xNzgxMjM5ODI1LC0xODc4MDA1OD
 Q2LC0xNTk1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMjI4MTIs
