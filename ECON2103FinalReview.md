@@ -138,7 +138,10 @@ PM => P = MR = MC = ATC => minimum ATC
 LR market supply curve is horizontal at P = min ATC
 
 LR supply curve slopes upward
-1) Firms have different costs, firm with lower costs enter market before those with higher costs.
+1) Firms have different costs, firm with lower costs enter market before those with higher costs. At any P, for the marginal firm, P = min ATC and profit = 0. For lower-cost firms, profit > 0
+2) Costs Rise as Firms Enter. Limited Key Input, rising input price, increase cost. Hence, increase in P increase the market quantity supplied.
+
+
 
 
 
@@ -170,11 +173,11 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgzMzc2NTAsLTk4NTg0OTkzOSwtMT
-E0NzMzNDk5NiwxNTMyMTY4MzQ1LC0xNjU3OTczNzAxLC0xNzgx
-MjM5ODI1LC0xODc4MDA1ODQ2LC0xNTk1NDI5MDU2LDEwNTU0OT
-M1NTQsLTE4MTIzMjI4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2
-Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NT
-EzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYx
-MjE1LDEzNDIyNTg0NTddfQ==
+eyJoaXN0b3J5IjpbLTM0NzQwNTAsLTk4NTg0OTkzOSwtMTE0Nz
+MzNDk5NiwxNTMyMTY4MzQ1LC0xNjU3OTczNzAxLC0xNzgxMjM5
+ODI1LC0xODc4MDA1ODQ2LC0xNTk1NDI5MDU2LDEwNTU0OTM1NT
+QsLTE4MTIzMjI4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2
+MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMj
+Y2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1
+LDEzNDIyNTg0NTddfQ==
 -->
