@@ -77,11 +77,22 @@ Each size of plant, has a short-run ATC curve. The long-run average cost curve (
 
 LRAC tells the size of plant that minimizes the cost of producing a given output.
 
-`Economies of scale` `Constant returns to scale` `Diseconomies of scale`
+`Economies of scale`
+ATC $\downarrow$ as Q $\uparrow$
+increasing production allows greater specialization
+workers are more efficient when focusing on narrow task
+more common when Q is low
+
+ `Constant returns to scale` 
+ATC stays the same as Q $\uparrow$
+
+
+`Diseconomies of scale`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMD
-EyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0
-MDU4NywtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbLTk4MzE0MjUyMSwxMDQ1MTMyNjY3LDE2Mz
+gxODYwMTgsLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1
+ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMD
+FdfQ==
 -->
