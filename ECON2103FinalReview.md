@@ -129,7 +129,8 @@ Market Supply Assumption:
 Positive economic profit, new firms enter, SR market supply shifts right
 Negative economic profit, some firms exit, SR market supply shifts left
 
-
+`The Zero-profit condition`
+Long-run equilibrium, the pr
 
 
 
@@ -161,7 +162,7 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTQ4NzEwMiwtMTE0NzMzNDk5NiwxNT
+eyJoaXN0b3J5IjpbMjA3MTk3NDY4NCwtMTE0NzMzNDk5NiwxNT
 MyMTY4MzQ1LC0xNjU3OTczNzAxLC0xNzgxMjM5ODI1LC0xODc4
 MDA1ODQ2LC0xNTk1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMj
 I4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcs
