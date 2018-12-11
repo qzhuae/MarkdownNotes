@@ -56,9 +56,12 @@ AC: origin-point line
 
 AP-MP, AC-MC plot
 
+At low Q, MPL $\uparrow$ and AVC $\downarrow$
+At high Q, MPL $\uparrow$ and AVC $\downarrow$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODE4NjAxOCwtMTAxMjgzOTc3NCwtMT
-k5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLTU1NjMw
-NjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbLTE3ODcyMTY2MzAsMTYzODE4NjAxOCwtMT
+AxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2
+NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
 -->
