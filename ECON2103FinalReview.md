@@ -91,7 +91,9 @@ due to coordination issue in large organizations, more common when Q is high
 
 ## Chapter 14
 
+PC: $\infty$ buyers and sellers, same good, free entry and free exit
 
+MR = 
 
 ## Practice Final Summary
 
@@ -121,10 +123,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMT
-gxMjMyMjgxMiwtNDI1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1
-ODE3Nyw0NjM4MjE5MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LD
-E2MzgxODYwMTgsLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0
-MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4Nz
-UzMDFdfQ==
+eyJoaXN0b3J5IjpbMTk1NDU2MTY2MiwtMTU5NTQyOTA1NiwxMD
+U1NDkzNTU0LC0xODEyMzIyODEyLC00MjUwOTQ3OTEsLTE1MDg4
+NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMSwxMjc5NTAxNDA1LD
+EwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAxMjgzOTc3NCwtMTk5
+NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLTU1NjMwNj
+E0NSwtMTg0NDg3NTMwMV19
 -->
