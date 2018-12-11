@@ -91,15 +91,15 @@ due to coordination issue in large organizations, more common when Q is high
 
 ## Practice Final Summary
 
-
+MP vs. MC
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgyNTk2NjUsNjA2NjU4MTc3LDEyNz
-k1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5
-Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4Ny
-wtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbNDYzODIxOTAxLDYwNjY1ODE3NywxMjc5NT
+AxNDA1LDEwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAxMjgzOTc3
+NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLT
+U1NjMwNjE0NSwtMTg0NDg3NTMwMV19
 -->
