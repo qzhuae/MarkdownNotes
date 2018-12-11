@@ -121,7 +121,14 @@ As long as P >= AVC, each firm will do MR = MC. MC above AVC
 **LR Market Supply Curve**
 MC above ATC
 
-Market Supply As
+Market Supply Assumption:
+- All firm same cost
+- Costs are constant
+- Number of firms is fixed in short run, variable in long run
+
+Positive economic profit, new firms enter, SR market supply shifts right
+Negative economic profit, some firms exit, SR market supply shifts left
+
 
 
 
@@ -153,11 +160,11 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjE5MjQ3MiwxNTMyMTY4MzQ1LC0xNj
-U3OTczNzAxLC0xNzgxMjM5ODI1LC0xODc4MDA1ODQ2LC0xNTk1
-NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMjI4MTIsLTQyNTA5ND
-c5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEy
-Nzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyOD
-M5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4
-NywtNTU2MzA2MTQ1XX0=
+eyJoaXN0b3J5IjpbLTExNDczMzQ5OTYsMTUzMjE2ODM0NSwtMT
+Y1Nzk3MzcwMSwtMTc4MTIzOTgyNSwtMTg3ODAwNTg0NiwtMTU5
+NTQyOTA1NiwxMDU1NDkzNTU0LC0xODEyMzIyODEyLC00MjUwOT
+Q3OTEsLTE1MDg4NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMSwx
+Mjc5NTAxNDA1LDEwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAxMj
+gzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1
+ODcsLTU1NjMwNjE0NV19
 -->
