@@ -50,12 +50,12 @@ AFC, AVC, ATC
 
 `Efficient scale` The quantity that minimizes ATC.
 
-
-
+MC and AC in a TC Graph
+MC: slope
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc1NzQzMDMsLTE5OTU5NjEyMTUsMT
+eyJoaXN0b3J5IjpbLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMT
 M0MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4
 NzUzMDFdfQ==
 -->
