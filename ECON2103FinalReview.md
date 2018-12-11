@@ -101,14 +101,18 @@ MP and MC are like reciprocal, when MP rise MC decrease and MP decrease and MC r
 
 MC is U-shaped, but rises steeply as output increases. This is due to diminishing marginal product. 
 
+ATC is U-shaped. Q low, ATC decrease. Q high, ATC increase.
+
+
+
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ2MDQ0MDcsLTQyNTA5NDc5MSwtMT
-UwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0
-MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC
-0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2
-MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbMTAwNzAzMDgyMCwtNDI1MDk0NzkxLC0xNT
+A4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5MDEsMTI3OTUwMTQw
+NSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLTEwMTI4Mzk3NzQsLT
+E5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYz
+MDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
