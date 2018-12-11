@@ -89,6 +89,10 @@ ATC stays the same as Q $\uparrow$
 `Diseconomies of scale`
 due to coordination issue in large organizations, more common when Q is high
 
+## Chapter 14
+
+
+
 ## Practice Final Summary
 
 ### Chapter 13
@@ -106,16 +110,17 @@ ATC is U-shaped. Q low, ATC decrease. Q high, ATC increase.
 MC < ATC, ATC is falling; cost of last unit produced pulls the average down.
 MC > ATC, ATC is rising; cost of last unit produced pulls the average up.
 
-
+Low Q, ATC is much higher than AVC as AFC is large
+High Q, ATC is close to AVC as AFC is small
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIzMjI4MTIsLTQyNTA5NDc5MSwtMT
-UwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0
-MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC
-0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2
-MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwtND
+I1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5
+MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLT
+EwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1
+NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
