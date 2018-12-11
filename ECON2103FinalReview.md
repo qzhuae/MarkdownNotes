@@ -182,14 +182,19 @@ One firm, unique product, blocked entry, market power-`price maker`
 
 Main Cause: Barrier of Entry
 - Key Resource
-- Exclusive Rig
+- Exclusive Right
+- Natural Monopoly, a single firm can produce entire market $Q$ at lower cost than could several firm
+
+> Very Special Case for Electricity. ATC slopes downward due to huge FC and small MC.
+
+
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTkxNTM1OSwyMDM0MTIxOTEsMTYwMz
+eyJoaXN0b3J5IjpbMTU5Mjk4ODAwMiwyMDM0MTIxOTEsMTYwMz
 Y5MTk0OCwtOTg1ODQ5OTM5LC0xMTQ3MzM0OTk2LDE1MzIxNjgz
 NDUsLTE2NTc5NzM3MDEsLTE3ODEyMzk4MjUsLTE4NzgwMDU4ND
 YsLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwt
