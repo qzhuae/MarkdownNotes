@@ -86,13 +86,14 @@ more common when Q is low
  `Constant returns to scale` 
 ATC stays the same as Q $\uparrow$
 
-
 `Diseconomies of scale`
-c
+due to coordination issue in large organizations, more common when Q is high
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNzIzNzgyLDEwNDUxMzI2NjcsMTYzOD
-E4NjAxOCwtMTAxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4
-NDU3LDE0OTU2NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV
-19
+eyJoaXN0b3J5IjpbMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2Mz
+gxODYwMTgsLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1
+ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMD
+FdfQ==
 -->
