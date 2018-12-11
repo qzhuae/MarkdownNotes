@@ -91,14 +91,19 @@ due to coordination issue in large organizations, more common when Q is high
 
 ## Practice Final Summary
 
+### Chapter 3
+
+MP is concave because of decreasing MP
+
+TC is convex because of decreasing MP and rising MC
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NjU4MTc3LDQ2MzgyMTkwMSw2MDY2NT
-gxNzcsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgs
-LTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxND
-k1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbMTY1MTIwMjQ0MSw2MDY2NTgxNzcsNDYzOD
+IxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4
+LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMT
+Q5NTY0MDU4NywtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
 -->
