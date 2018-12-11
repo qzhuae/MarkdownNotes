@@ -89,12 +89,16 @@ ATC stays the same as Q $\uparrow$
 `Diseconomies of scale`
 due to coordination issue in large organizations, more common when Q is high
 
-## 
+## Practice Final Summary
+
+
+## Practice MC Summary
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTcxNjc2OSwxMjc5NTAxNDA1LDEwND
-UxMzI2NjcsMTYzODE4NjAxOCwtMTAxMjgzOTc3NCwtMTk5NTk2
-MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLTU1NjMwNjE0NS
-wtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbNjA2NjU4MTc3LDEyNzk1MDE0MDUsMTA0NT
+EzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYx
+MjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC
+0xODQ0ODc1MzAxXX0=
 -->
