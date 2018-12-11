@@ -97,16 +97,16 @@ TP is convex first and then concave because MP rise first and then decrease.
 
 TP is concave first and then convex because MC decrease first and then rise.
 
-MP and MC are like reciprocal, 
+MP and MC are like reciprocal, when MP rise MC decrease and MP decrease and MC rise. 
 
-MP rise first
+
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzAxMjkzNSwtMTUwODg0NTU2Niw2MD
+eyJoaXN0b3J5IjpbLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MD
 Y2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2
 NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LD
 EzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xODQ0
