@@ -103,16 +103,19 @@ MC is U-shaped, but rises steeply as output increases. This is due to diminishin
 
 ATC is U-shaped. Q low, ATC decrease. Q high, ATC increase.
 
-MP.
+MC < ATC, ATC is falling; cost of last unit produced pulls the average down.
+MC > ATC, ATC is rising; cost of last unit produced pulls the average up.
+
+
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDkwMzgzLC00MjUwOTQ3OTEsLTE1MD
-g4NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMSwxMjc5NTAxNDA1
-LDEwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAxMjgzOTc3NCwtMT
-k5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLTU1NjMw
-NjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbLTE4MTIzMjI4MTIsLTQyNTA5NDc5MSwtMT
+UwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0
+MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC
+0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2
+MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
 -->
