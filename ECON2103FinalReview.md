@@ -92,13 +92,14 @@ due to coordination issue in large organizations, more common when Q is high
 ## Practice Final Summary
 
 
+
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NjU4MTc3LDEyNzk1MDE0MDUsMTA0NT
-EzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYx
-MjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC
-0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbLTEwMDgyNTk2NjUsNjA2NjU4MTc3LDEyNz
+k1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5
+Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MDU4Ny
+wtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
 -->
