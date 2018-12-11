@@ -65,11 +65,12 @@ In long run, all inputs are variable (e.g. firms can build more factories or sel
 
 In the long run,
 > ATC at any Q is cost per unit using the most efficient mix of inputs for that Q
+> This is the factory size with the lowest ATC
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTM5MDA5MSwxNjM4MTg2MDE4LC0xMD
-EyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0
-MDU4NywtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbLTE5NzU3NDM1NjYsMTYzODE4NjAxOCwtMT
+AxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2
+NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
 -->
