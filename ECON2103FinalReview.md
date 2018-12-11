@@ -67,10 +67,11 @@ In the long run,
 > ATC at any Q is cost per unit using the most efficient mix of inputs for that Q
 > This is the factory size with the lowest ATC
 
-
+- Number of plants increases, output of a given number of labor increases.
+- For each plant, as the quantity of labor increases, diminishing returns occur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3NDM1NjYsMTYzODE4NjAxOCwtMT
+eyJoaXN0b3J5IjpbLTE2ODI3NTIyNjEsMTYzODE4NjAxOCwtMT
 AxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2
 NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
 -->
