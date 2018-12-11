@@ -93,7 +93,9 @@ due to coordination issue in large organizations, more common when Q is high
 
 PC: $\infty$ buyers and sellers, same good, free entry and free exit
 
-MR = 
+MR = P is only true for firms in PC
+
+
 
 ## Practice Final Summary
 
@@ -123,10 +125,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDU2MTY2MiwtMTU5NTQyOTA1NiwxMD
-U1NDkzNTU0LC0xODEyMzIyODEyLC00MjUwOTQ3OTEsLTE1MDg4
-NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMSwxMjc5NTAxNDA1LD
-EwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAxMjgzOTc3NCwtMTk5
-NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2NDA1ODcsLTU1NjMwNj
-E0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbLTE4NzgwMDU4NDYsLTE1OTU0MjkwNTYsMT
+A1NTQ5MzU1NCwtMTgxMjMyMjgxMiwtNDI1MDk0NzkxLC0xNTA4
+ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5MDEsMTI3OTUwMTQwNS
+wxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLTEwMTI4Mzk3NzQsLTE5
+OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYzMD
+YxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
