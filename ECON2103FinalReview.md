@@ -71,11 +71,13 @@ In the long run,
 - Number of plants increases, output of a given number of labor increases.
 - For each plant, as the quantity of labor increases, diminishing MP occurs
 
-Each size of plant, has a short-run ATC curve. The long-run average cost curve (LRAC) is made up from the lowest AT
+Each size of plant, has a short-run ATC curve. The long-run average cost curve (LRAC) is made up from the lowest ATC for each output level.
+
+`Long-run Average Cost Curve` relationship between the lowest attainable average total cost and output when both the plant and labor are varied. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQwODI4NTgsMTYzODE4NjAxOCwtMT
-AxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2
-NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbNTk4MTI2OTE2LDE2MzgxODYwMTgsLTEwMT
+I4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQw
+NTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
