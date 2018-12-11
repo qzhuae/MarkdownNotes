@@ -99,7 +99,7 @@ due to coordination issue in large organizations, more common when Q is high
 
 TP is convex first and then concave because MP rise first and then decrease.
 
-TP is concave first and then convex because MC decrease first and then rise.
+TC is concave first and then convex because MC decrease first and then rise. starts from positive value.
 
 MP and MC are like reciprocal, when MP rise MC decrease and MP decrease and MC rise. 
 
@@ -118,9 +118,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwtND
-I1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5
-MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLT
-EwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1
-NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbNDUzMzk4OTc4LDEwNTU0OTM1NTQsLTE4MT
+IzMjI4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgx
+NzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2NywxNj
+M4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIy
+NTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xODQ0ODc1Mz
+AxXX0=
 -->
