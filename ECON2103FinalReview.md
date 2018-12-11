@@ -99,7 +99,14 @@ Profit Maximization Rule: MC = MR
 
 MC curve determines PC firm's Q at any price, thus is supply curve for the firm
 
-SR
+Shutdown in SR, still pay FC. Exit in LR, zero costs.
+
+`Sunk Cost` should be irrelevant to decisions. FC is sunk cost in SR.
+
+Shutdown Decision:
+TR < VC = cost saved
+
+
 
 ## Practice Final Summary
 
@@ -129,10 +136,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTM3OTk0MSwtMTg3ODAwNTg0NiwtMT
-U5NTQyOTA1NiwxMDU1NDkzNTU0LC0xODEyMzIyODEyLC00MjUw
-OTQ3OTEsLTE1MDg4NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMS
-wxMjc5NTAxNDA1LDEwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAx
-MjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2ND
-A1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbNTgwMzExMDY1LC0xODc4MDA1ODQ2LC0xNT
+k1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMjI4MTIsLTQyNTA5
+NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLD
+EyNzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEy
+ODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MD
+U4NywtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
 -->
