@@ -66,15 +66,16 @@ In short run, some inputs are fixed (e.g. factories, land). The costs of these i
 In long run, all inputs are variable (e.g. firms can build more factories or sell existing ones). 
 
 In the long run,
-> ATC at any Q is cost per unit using the most efficient mix of inputs for that Q
-> This is the factory size with the lowest ATC
-
+- ATC at any Q is cost per unit using the most efficient mix of inputs for that Q
+- This is the factory size with the lowest ATC
 - Number of plants increases, output of a given number of labor increases.
 - For each plant, as the quantity of labor increases, diminishing MP occurs
 
-> The long-run aer
+Each size of plant, has a short-run ATC curve
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM1NTg2MDQsMTYzODE4NjAxOCwtMT
-AxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2
-NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbMjA5NjgyMTY3LDE2MzgxODYwMTgsLTEwMT
+I4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQw
+NTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
