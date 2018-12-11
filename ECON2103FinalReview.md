@@ -103,6 +103,9 @@ TC is concave first and then convex because MC decrease first and then rise. sta
 
 MP and MC are like reciprocal, when MP rise MC decrease and MP decrease and MC rise. 
 
+MP decrease: each additional worker produces less and less output
+MC increase: each unit requires more and more workers => more cost => higher MC
+
 MC is U-shaped, but rises steeply as output increases. This is due to diminishing marginal product. 
 
 ATC is U-shaped. Q low, ATC decrease. Q high, ATC increase.
@@ -118,10 +121,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMzk4OTc4LDEwNTU0OTM1NTQsLTE4MT
-IzMjI4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgx
-NzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2NywxNj
-M4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIy
-NTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xODQ0ODc1Mz
-AxXX0=
+eyJoaXN0b3J5IjpbLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMT
+gxMjMyMjgxMiwtNDI1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1
+ODE3Nyw0NjM4MjE5MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LD
+E2MzgxODYwMTgsLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0
+MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4Nz
+UzMDFdfQ==
 -->
