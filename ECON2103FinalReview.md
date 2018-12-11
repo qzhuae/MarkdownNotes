@@ -63,10 +63,13 @@ In short run, some inputs are fixed (e.g. factories, land). The costs of these i
 
 In long run, all inputs are variable (e.g. firms can build more factories or sell existing ones). 
 
-In the long 
+In the long run,
+> ATC at any Q is cost per unit using the most efficient mix of inputs for that Q
+
+(factory size with the lowest)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NDQxMDI0LDE2MzgxODYwMTgsLTEwMT
-I4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQw
-NTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbMTE1NTM0MTc1NiwxNjM4MTg2MDE4LC0xMD
+EyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0
+MDU4NywtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
 -->
