@@ -93,19 +93,22 @@ due to coordination issue in large organizations, more common when Q is high
 
 ### Chapter 13
 
-MP is concave because of decreasing MP
+TP is convex first and then concave because MP rise first and then decrease.
 
-TC is convex because of decreasing MP and rising MC. 
+TP is concave first and then convex because MC decrease first and then rise.
 
+MP and MC are like reciprocal, 
 
+MP rise first
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg4NDU1NjYsNjA2NjU4MTc3LDQ2Mz
-gyMTkwMSwxMjc5NTAxNDA1LDEwNDUxMzI2NjcsMTYzODE4NjAx
-OCwtMTAxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LD
-E0OTU2NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbLTk4NzAxMjkzNSwtMTUwODg0NTU2Niw2MD
+Y2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2
+NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LD
+EzNDIyNTg0NTcsMTQ5NTY0MDU4NywtNTU2MzA2MTQ1LC0xODQ0
+ODc1MzAxXX0=
 -->
