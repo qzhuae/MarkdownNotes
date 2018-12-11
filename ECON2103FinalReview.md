@@ -104,7 +104,11 @@ Shutdown in SR, still pay FC. Exit in LR, zero costs.
 `Sunk Cost` should be irrelevant to decisions. FC is sunk cost in SR.
 
 Shutdown Decision:
-TR < VC = cost saved
+TR < VC = cost saved, P = AR < AVC.
+
+Max Profit might not be positive economic profit. (check by ATC vs P)
+
+
 
 
 
@@ -136,10 +140,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMzExMDY1LC0xODc4MDA1ODQ2LC0xNT
-k1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMjI4MTIsLTQyNTA5
-NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLD
-EyNzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEy
-ODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0NTcsMTQ5NTY0MD
-U4NywtNTU2MzA2MTQ1LC0xODQ0ODc1MzAxXX0=
+eyJoaXN0b3J5IjpbLTE3ODEyMzk4MjUsLTE4NzgwMDU4NDYsLT
+E1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwtNDI1
+MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5MD
+EsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLTEw
+MTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1Nj
+QwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
