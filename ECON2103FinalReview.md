@@ -189,18 +189,22 @@ Main Cause: Barrier of Entry
 
 In a PC market, demand curve slopes downward.
 
-For any individual firm's product is **horizont**
+For any individual firm's product is **horizontal** at market price P = MR = D. The firm can increase $Q$ without lowering P.
+
+**Monopolist faces the market demand curve, downward sloping**
+
+
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTkwMTY2NywyMDM0MTIxOTEsMTYwMz
-Y5MTk0OCwtOTg1ODQ5OTM5LC0xMTQ3MzM0OTk2LDE1MzIxNjgz
-NDUsLTE2NTc5NzM3MDEsLTE3ODEyMzk4MjUsLTE4NzgwMDU4ND
-YsLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwt
-NDI1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4Mj
-E5MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgs
-LTEwMTI4Mzk3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzQwODMwMDUsMjAzNDEyMTkxLDE2MD
+M2OTE5NDgsLTk4NTg0OTkzOSwtMTE0NzMzNDk5NiwxNTMyMTY4
+MzQ1LC0xNjU3OTczNzAxLC0xNzgxMjM5ODI1LC0xODc4MDA1OD
+Q2LC0xNTk1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMjI4MTIs
+LTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcsNDYzOD
+IxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4
+LC0xMDEyODM5Nzc0XX0=
 -->
