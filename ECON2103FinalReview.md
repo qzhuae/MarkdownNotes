@@ -46,13 +46,16 @@ AFC, AVC, ATC
 
 **U-shaped ATC** 
 > Q rises, falling AFC pulls ATC down; Rising AVC pulls ATC up
+> When MC < ATC, ATC is falling and when MC > ATC, ATC is rising
 
 `Efficient scale` The quantity that minimizes ATC.
 
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxND
-k1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzc1NzQzMDMsLTE5OTU5NjEyMTUsMT
+M0MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYzMDYxNDUsLTE4NDQ4
+NzUzMDFdfQ==
 -->
