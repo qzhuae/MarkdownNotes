@@ -174,18 +174,26 @@ High Q, ATC is close to AVC as AFC is small
 
 ### Chapter 15
 
-  
+  `Monopoly` sole seller of a product without close substitutes
+  `market power` the ability to influence the market price of the product it sells.
+  A PC firm has no market power.
+
+One firm, unique product, blocked entry, market power-`price maker`
+
+Main Cause: Barrier of Entry
+- Key Resource
+- Exclusive Rig
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDEyMTkxLDE2MDM2OTE5NDgsLTk4NT
-g0OTkzOSwtMTE0NzMzNDk5NiwxNTMyMTY4MzQ1LC0xNjU3OTcz
-NzAxLC0xNzgxMjM5ODI1LC0xODc4MDA1ODQ2LC0xNTk1NDI5MD
-U2LDEwNTU0OTM1NTQsLTE4MTIzMjI4MTIsLTQyNTA5NDc5MSwt
-MTUwODg0NTU2Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MD
-E0MDUsMTA0NTEzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0
-LC0xOTk1OTYxMjE1XX0=
+eyJoaXN0b3J5IjpbMTg5OTkxNTM1OSwyMDM0MTIxOTEsMTYwMz
+Y5MTk0OCwtOTg1ODQ5OTM5LC0xMTQ3MzM0OTk2LDE1MzIxNjgz
+NDUsLTE2NTc5NzM3MDEsLTE3ODEyMzk4MjUsLTE4NzgwMDU4ND
+YsLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwt
+NDI1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4Mj
+E5MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxODYwMTgs
+LTEwMTI4Mzk3NzRdfQ==
 -->
