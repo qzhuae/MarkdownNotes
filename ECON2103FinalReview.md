@@ -130,7 +130,11 @@ Positive economic profit, new firms enter, SR market supply shifts right
 Negative economic profit, some firms exit, SR market supply shifts left
 
 `The Zero-profit condition`
-Long-run equilibrium, the pr
+Long-run equilibrium, the process of entry or exit is complete-remaining firms earn zero economic profit when P = ATC.
+
+PM => P = MR = MC = ATC => minimum ATC
+
+`LR Market Supply Curve` 
 
 
 
@@ -162,11 +166,11 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTk3NDY4NCwtMTE0NzMzNDk5NiwxNT
-MyMTY4MzQ1LC0xNjU3OTczNzAxLC0xNzgxMjM5ODI1LC0xODc4
-MDA1ODQ2LC0xNTk1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMj
-I4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcs
-NDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MT
-g2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0
-NTcsMTQ5NTY0MDU4N119
+eyJoaXN0b3J5IjpbMTkwOTkwMTg3LC0xMTQ3MzM0OTk2LDE1Mz
+IxNjgzNDUsLTE2NTc5NzM3MDEsLTE3ODEyMzk4MjUsLTE4Nzgw
+MDU4NDYsLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgxMjMyMj
+gxMiwtNDI1MDk0NzkxLC0xNTA4ODQ1NTY2LDYwNjY1ODE3Nyw0
+NjM4MjE5MDEsMTI3OTUwMTQwNSwxMDQ1MTMyNjY3LDE2MzgxOD
+YwMTgsLTEwMTI4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1
+NywxNDk1NjQwNTg3XX0=
 -->
