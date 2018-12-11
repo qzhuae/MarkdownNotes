@@ -137,6 +137,9 @@ PM => P = MR = MC = ATC => minimum ATC
 `LR Market Supply Curve` 
 LR market supply curve is horizontal at P = min ATC
 
+LR supply curve slopes upward
+1) Firms have different costs, firm with lower costs enter market before those with higher costs.
+
 
 
 ## Practice Final Summary
@@ -167,11 +170,11 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTg0OTkzOSwtMTE0NzMzNDk5NiwxNT
-MyMTY4MzQ1LC0xNjU3OTczNzAxLC0xNzgxMjM5ODI1LC0xODc4
-MDA1ODQ2LC0xNTk1NDI5MDU2LDEwNTU0OTM1NTQsLTE4MTIzMj
-I4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2Niw2MDY2NTgxNzcs
-NDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NTEzMjY2NywxNjM4MT
-g2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYxMjE1LDEzNDIyNTg0
-NTcsMTQ5NTY0MDU4N119
+eyJoaXN0b3J5IjpbLTE1MDgzMzc2NTAsLTk4NTg0OTkzOSwtMT
+E0NzMzNDk5NiwxNTMyMTY4MzQ1LC0xNjU3OTczNzAxLC0xNzgx
+MjM5ODI1LC0xODc4MDA1ODQ2LC0xNTk1NDI5MDU2LDEwNTU0OT
+M1NTQsLTE4MTIzMjI4MTIsLTQyNTA5NDc5MSwtMTUwODg0NTU2
+Niw2MDY2NTgxNzcsNDYzODIxOTAxLDEyNzk1MDE0MDUsMTA0NT
+EzMjY2NywxNjM4MTg2MDE4LC0xMDEyODM5Nzc0LC0xOTk1OTYx
+MjE1LDEzNDIyNTg0NTddfQ==
 -->
