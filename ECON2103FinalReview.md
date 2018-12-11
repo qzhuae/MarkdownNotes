@@ -93,9 +93,13 @@ due to coordination issue in large organizations, more common when Q is high
 
 PC: $\infty$ buyers and sellers, same good, free entry and free exit
 
-MR = P is only true for firms in PC
+MR = P is only true for firms in PC, because PC firm increase Q without changing P
 
+Profit Maximization Rule: MC = MR
 
+MC curve determines PC firm's Q at any price, thus is supply curve for the firm
+
+SR
 
 ## Practice Final Summary
 
@@ -125,10 +129,10 @@ High Q, ATC is close to AVC as AFC is small
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgwMDU4NDYsLTE1OTU0MjkwNTYsMT
-A1NTQ5MzU1NCwtMTgxMjMyMjgxMiwtNDI1MDk0NzkxLC0xNTA4
-ODQ1NTY2LDYwNjY1ODE3Nyw0NjM4MjE5MDEsMTI3OTUwMTQwNS
-wxMDQ1MTMyNjY3LDE2MzgxODYwMTgsLTEwMTI4Mzk3NzQsLTE5
-OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQwNTg3LC01NTYzMD
-YxNDUsLTE4NDQ4NzUzMDFdfQ==
+eyJoaXN0b3J5IjpbLTg3MTM3OTk0MSwtMTg3ODAwNTg0NiwtMT
+U5NTQyOTA1NiwxMDU1NDkzNTU0LC0xODEyMzIyODEyLC00MjUw
+OTQ3OTEsLTE1MDg4NDU1NjYsNjA2NjU4MTc3LDQ2MzgyMTkwMS
+wxMjc5NTAxNDA1LDEwNDUxMzI2NjcsMTYzODE4NjAxOCwtMTAx
+MjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2ND
+A1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
 -->
