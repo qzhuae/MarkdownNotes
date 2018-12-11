@@ -187,14 +187,16 @@ Main Cause: Barrier of Entry
 
 > Very Special Case for Electricity. ATC slopes downward due to huge FC and small MC.
 
+In a PC market, demand curve slopes downward.
 
+For any individual firm's product is **horizont**
 
 ## Practice MC Summary
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mjk4ODAwMiwyMDM0MTIxOTEsMTYwMz
+eyJoaXN0b3J5IjpbLTM4OTkwMTY2NywyMDM0MTIxOTEsMTYwMz
 Y5MTk0OCwtOTg1ODQ5OTM5LC0xMTQ3MzM0OTk2LDE1MzIxNjgz
 NDUsLTE2NTc5NzM3MDEsLTE3ODEyMzk4MjUsLTE4NzgwMDU4ND
 YsLTE1OTU0MjkwNTYsMTA1NTQ5MzU1NCwtMTgxMjMyMjgxMiwt
