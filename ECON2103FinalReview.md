@@ -59,10 +59,14 @@ AP-MP, AC-MC plot
 At low Q, MPL $\uparrow$ and AVC $\downarrow$
 At high Q, MPL $\downarrow$ and AVC $\uparrow$
 
-In short run, some inputs are fixed (e.g. factories, land). The costs of these inputs are FC.
+In short run, some inputs are fixed (e.g. factories, land). The costs of these inputs are FC. 
+
+In long run, all inputs are variable (e.g. firms can build more factories or sell existing ones). 
+
+In the long 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgzMjQ5ODAsMTYzODE4NjAxOCwtMT
-AxMjgzOTc3NCwtMTk5NTk2MTIxNSwxMzQyMjU4NDU3LDE0OTU2
-NDA1ODcsLTU1NjMwNjE0NSwtMTg0NDg3NTMwMV19
+eyJoaXN0b3J5IjpbNDA4NDQxMDI0LDE2MzgxODYwMTgsLTEwMT
+I4Mzk3NzQsLTE5OTU5NjEyMTUsMTM0MjI1ODQ1NywxNDk1NjQw
+NTg3LC01NTYzMDYxNDUsLTE4NDQ4NzUzMDFdfQ==
 -->
