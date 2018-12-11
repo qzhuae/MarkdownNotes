@@ -281,14 +281,15 @@ https://machinelearningstories.blogspot.com/2018/07/anomaly-detection-anomaly-de
 - Lack of metric to measure across datasets
 - Robustness, emsemble learning over multiple cost function and multiple models
 - Loss, sparsity to make things not overfitting
+- Optimization Techniques
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjE5MTg0OSwtMjA5Mzk4NjQzMiwyMD
-cxMTMxODEyLDE3MTQ3NTc4MjksLTIwODY5MTU3NCwzMTUxMTY3
-ODcsODc4NzA0NDQzLC04ODE5NDAwNzUsMTA0NjgyMDI2LDE2Mz
-YxMTY0NTUsMTA0NjMwNTA4NSwxMzQ4NDMwMzMsLTE4NDMwOTE4
-NTgsNzA5OTU5OTQ5LDI2MDcxNzgwOCw3NTI1MDg1MTQsLTE1Nz
-AyMjIxOTQsLTEzMDg5NTkxMjksLTEyNDkxNjIzOCwxNTg1ODgx
-MTEwXX0=
+eyJoaXN0b3J5IjpbLTQxOTY3MjUyNiwxODQyMTkxODQ5LC0yMD
+kzOTg2NDMyLDIwNzExMzE4MTIsMTcxNDc1NzgyOSwtMjA4Njkx
+NTc0LDMxNTExNjc4Nyw4Nzg3MDQ0NDMsLTg4MTk0MDA3NSwxMD
+Q2ODIwMjYsMTYzNjExNjQ1NSwxMDQ2MzA1MDg1LDEzNDg0MzAz
+MywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4LDc1Mj
+UwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2
+MjM4XX0=
 -->
