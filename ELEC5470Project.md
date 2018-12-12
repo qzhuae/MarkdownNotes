@@ -285,15 +285,17 @@ https://machinelearningstories.blogspot.com/2018/07/anomaly-detection-anomaly-de
 
 ## Some Future Readings
 
-[Pattern Characterization] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.268&rep=rep1&type=pdf
+[Pattern Characterization/Data Mining] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.268&rep=rep1&type=pdf
+
+[Temporal Dependence in Time Series] https://www.computer.org/csdl/proceedings/dsaa/2016/5206/00/07796911.pdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODY2NjYxLC00MTk2NzI1MjYsMTg0Mj
-E5MTg0OSwtMjA5Mzk4NjQzMiwyMDcxMTMxODEyLDE3MTQ3NTc4
-MjksLTIwODY5MTU3NCwzMTUxMTY3ODcsODc4NzA0NDQzLC04OD
-E5NDAwNzUsMTA0NjgyMDI2LDE2MzYxMTY0NTUsMTA0NjMwNTA4
-NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5LDI2MD
-cxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkx
-MjldfQ==
+eyJoaXN0b3J5IjpbMTc1ODY4NDkxMCwtNDE5NjcyNTI2LDE4ND
+IxOTE4NDksLTIwOTM5ODY0MzIsMjA3MTEzMTgxMiwxNzE0NzU3
+ODI5LC0yMDg2OTE1NzQsMzE1MTE2Nzg3LDg3ODcwNDQ0MywtOD
+gxOTQwMDc1LDEwNDY4MjAyNiwxNjM2MTE2NDU1LDEwNDYzMDUw
+ODUsMTM0ODQzMDMzLC0xODQzMDkxODU4LDcwOTk1OTk0OSwyNj
+A3MTc4MDgsNzUyNTA4NTE0LC0xNTcwMjIyMTk0LC0xMzA4OTU5
+MTI5XX0=
 -->
