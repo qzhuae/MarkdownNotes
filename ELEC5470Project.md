@@ -283,13 +283,17 @@ https://machinelearningstories.blogspot.com/2018/07/anomaly-detection-anomaly-de
 - Loss, sparsity to make things not overfitting
 - Optimization Techniques
 
+## Some Future Readings
+
+[Pattern Characterization] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.268&rep=rep1&type=pdf
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTY3MjUyNiwxODQyMTkxODQ5LC0yMD
-kzOTg2NDMyLDIwNzExMzE4MTIsMTcxNDc1NzgyOSwtMjA4Njkx
-NTc0LDMxNTExNjc4Nyw4Nzg3MDQ0NDMsLTg4MTk0MDA3NSwxMD
-Q2ODIwMjYsMTYzNjExNjQ1NSwxMDQ2MzA1MDg1LDEzNDg0MzAz
-MywtMTg0MzA5MTg1OCw3MDk5NTk5NDksMjYwNzE3ODA4LDc1Mj
-UwODUxNCwtMTU3MDIyMjE5NCwtMTMwODk1OTEyOSwtMTI0OTE2
-MjM4XX0=
+eyJoaXN0b3J5IjpbMTIwODY2NjYxLC00MTk2NzI1MjYsMTg0Mj
+E5MTg0OSwtMjA5Mzk4NjQzMiwyMDcxMTMxODEyLDE3MTQ3NTc4
+MjksLTIwODY5MTU3NCwzMTUxMTY3ODcsODc4NzA0NDQzLC04OD
+E5NDAwNzUsMTA0NjgyMDI2LDE2MzYxMTY0NTUsMTA0NjMwNTA4
+NSwxMzQ4NDMwMzMsLTE4NDMwOTE4NTgsNzA5OTU5OTQ5LDI2MD
+cxNzgwOCw3NTI1MDg1MTQsLTE1NzAyMjIxOTQsLTEzMDg5NTkx
+MjldfQ==
 -->
