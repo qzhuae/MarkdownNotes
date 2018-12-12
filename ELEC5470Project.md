@@ -289,9 +289,25 @@ https://machinelearningstories.blogspot.com/2018/07/anomaly-detection-anomaly-de
 
 [Temporal Dependence in Time Series] https://www.computer.org/csdl/proceedings/dsaa/2016/5206/00/07796911.pdf
 
-[]
+### Fuzzy
+
+https://link.springer.com/chapter/10.1007%2F978-3-319-27060-9_39
+
+### Trend
+
+https://www.thesisscientist.com/docs/DrKateBuffett/698e719a-128e-44e0-a0e9-481192bb59cd.pdf
+
+https://dml.cz/handle/10338.dmlcz/147089
+
+http://oru.diva-portal.org/smash/get/diva2:645513/FULLTEXT01.pdf
+
+https://stanford.edu/~boyd//papers/pdf/l1_trend_filter.pdf
+
+https://arxiv.org/pdf/1403.4069.pdf
+
+http://www.diva-portal.org/smash/get/diva2:881481/FULLTEXT02
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ4NzYzNDAsMTc1ODY4NDkxMCwtND
+eyJoaXN0b3J5IjpbLTIwOTg3ODAwNTEsMTc1ODY4NDkxMCwtND
 E5NjcyNTI2LDE4NDIxOTE4NDksLTIwOTM5ODY0MzIsMjA3MTEz
 MTgxMiwxNzE0NzU3ODI5LC0yMDg2OTE1NzQsMzE1MTE2Nzg3LD
 g3ODcwNDQ0MywtODgxOTQwMDc1LDEwNDY4MjAyNiwxNjM2MTE2
