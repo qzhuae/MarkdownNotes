@@ -99,18 +99,20 @@ With static graphs, the graph can be *optimized* before it runs. Fused operation
 In PyTorch, Conditional is like normal Python. But in TF, special TF control flow operator should be applied.
 `tf.cond`
 
-For loops such as $y_t = (y_{t-1} + x_t)*w$ , we use special 
+For loops such as $y_t = (y_{t-1} + x_t)*w$ , we use special TF control flow `tf.foldl`
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODg2NDA0OSwxMTY1NTQ1ODcsMTM4Mz
-Q2OTgyOCwxMDQwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0NDg2
-NywtMjAyMzA3ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0NSwtMT
-MxMDc2MjAzNywtMTI5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5
-Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLD
-EwNzcxMTc4MTgsLTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3
-NzExODZdfQ==
+eyJoaXN0b3J5IjpbMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Nj
+k4MjgsMTA0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4Njcs
+LTIwMjMwNzg2NzMsMzc0MDE3ODI1LC05MzkxODcwNDUsLTEzMT
+A3NjIwMzcsLTEyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLTQyOTY4
+NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4MCwxMD
+c3MTE3ODE4LC0xMzg2NTgxOTY1LDE4ODE4NjA0NzUsMTc1Nzcx
+MTg2XX0=
 -->
