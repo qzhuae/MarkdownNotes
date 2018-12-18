@@ -15,7 +15,10 @@ http://cs231n.stanford.edu/syllabus.html
 https://people.eecs.berkeley.edu/~jrs/189/exam/finalf15blank.pdf
 
 http://www.cs.cmu.edu/~10701/previous.html
+
+http://www.cs.cmu.edu/~aarti/Class/10601/prev.shtml
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzExNzgxOCwtMTM4NjU4MTk2NSwxOD
-gxODYwNDc1LDE3NTc3MTE4Nl19
+eyJoaXN0b3J5IjpbLTExMTQ1NTA0OTAsMTA3NzExNzgxOCwtMT
+M4NjU4MTk2NSwxODgxODYwNDc1LDE3NTc3MTE4Nl19
 -->
