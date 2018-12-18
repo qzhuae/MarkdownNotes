@@ -63,13 +63,19 @@ Gradients can also be computed and weights can be updated with an optimizer.
     x = tf.placeholder(tf.float32, shape=(N,D))
     y = tf.placeholder(tf.float32, shape=(N,D))
     w1 = tf.Variable(tf.random_normal((D,H)))
-    w2 = tf.Variable(tf.r
+    w2 = tf.Variable(tf.random_normal((H,D)))
+    
+    h = tf.maximum(tf.matmul(x,w1),0)
+    y_pred = tf.matmul(h,w2)
+    loss = tf.losses.mean_squared_error(y_pred,y)
+
+	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjYwNTIsLTEyOTc2NTcwNjEsLTEyMz
-IwMjU0MDAsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDcz
-LDMxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LDE4OD
-E4NjA0NzUsMTc1NzcxMTg2XX0=
+eyJoaXN0b3J5IjpbNDUwNjkzODk5LC0xMjk3NjU3MDYxLC0xMj
+MyMDI1NDAwLC00Mjk2ODUyNjEsODMyMDc5NzI3LDI5MzcyMTQ3
+MywzMTk3NDM2ODAsMTA3NzExNzgxOCwtMTM4NjU4MTk2NSwxOD
+gxODYwNDc1LDE3NTc3MTE4Nl19
 -->
