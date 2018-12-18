@@ -30,9 +30,16 @@ https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
 
 ## Topic 8 Deep Learning Software
 
-CPU: Fewer Cores, Each core is much faster and much more capable; great at sequential task
+CPU: Fewer Cores, Each core is much faster and much more capable; great at sequential tasks
+GPU: More Cores, but each core is much slower and "dumber"; great for parallel tasks
+
+Training can bottleneck on reading data and transferring to GPU!
+
+Solutions:
+- Read all data into RAM
+- Use SS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODcwNTQ3MCwtNDI5Njg1MjYxLDgzMj
+eyJoaXN0b3J5IjpbMTc2NzExNjE2MiwtNDI5Njg1MjYxLDgzMj
 A3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgs
 LTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
