@@ -53,9 +53,12 @@ Computational Graphs:
 
 what is `tf.reduce_mean`?
 
+Problem with `tf.placeholder`; copying weights between CPU/GPU each step is heavy.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODU3NjAzMywtMTIzMjAyNTQwMCwtND
+eyJoaXN0b3J5IjpbMTcyNzY1MDYxMywtMTIzMjAyNTQwMCwtND
 I5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgw
 LDEwNzcxMTc4MTgsLTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNz
 U3NzExODZdfQ==
