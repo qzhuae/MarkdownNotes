@@ -101,6 +101,10 @@ In PyTorch, Conditional is like normal Python. But in TF, special TF control flo
 
 For loops such as $y_t = (y_{t-1} + x_t)*w$ , we use special TF control flow `tf.foldl` (which make dynamic graphs easier in TF through `dynamic batching`)
 
+- Recurrent Networks
+- Recursive Networks
+- Modular Networks
+
 
 
 
@@ -110,11 +114,11 @@ For loops such as $y_t = (y_{t-1} + x_t)*w$ , we use special TF control flow `tf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0MDc4NDEsMjY2NzUyMjUsMTE2NT
-U0NTg3LDEzODM0Njk4MjgsMTA0MDY2MzEyNiwtMTYwODIyMzc2
-Miw5MzI4NDQ4NjcsLTIwMjMwNzg2NzMsMzc0MDE3ODI1LC05Mz
-kxODcwNDUsLTEzMTA3NjIwMzcsLTEyOTc2NTcwNjEsLTEyMzIw
-MjU0MDAsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDczLD
-MxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LDE4ODE4
-NjA0NzVdfQ==
+eyJoaXN0b3J5IjpbOTQzMTIzNTM3LC0yMTA3NDA3ODQxLDI2Nj
+c1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4LDEwNDA2NjMxMjYs
+LTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMDIzMDc4NjczLDM3ND
+AxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYyMDM3LC0xMjk3NjU3
+MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNjEsODMyMDc5NzI3LD
+I5MzcyMTQ3MywzMTk3NDM2ODAsMTA3NzExNzgxOCwtMTM4NjU4
+MTk2NV19
 -->
