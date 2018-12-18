@@ -152,17 +152,18 @@ Stack of three $3\times3$ conv stride 1 layers has same *effective receptive fie
 
 [*Know how to compute receptive field*]
 
-Fewer parameters: 27C^2 v
+Fewer parameters: $27C^2$ vs $49C^2$ for C channels per layer
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzI5ODIzLDE0MTU0MTYwMDgsLTY2OD
-Y3MzIxNSwtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3
-MiwxNTkwODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMj
-EwNzQwNzg0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgy
-OCwxMDQwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0NDg2NywtMj
-AyMzA3ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0NSwtMTMxMDc2
-MjAzN119
+eyJoaXN0b3J5IjpbMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Nj
+g2NzMyMTUsLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1
+NzIsMTU5MDg5MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1MzcsLT
+IxMDc0MDc4NDEsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4
+MjgsMTA0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4NjcsLT
+IwMjMwNzg2NzMsMzc0MDE3ODI1LC05MzkxODcwNDUsLTEzMTA3
+NjIwMzddfQ==
 -->
