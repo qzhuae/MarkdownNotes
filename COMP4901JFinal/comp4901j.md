@@ -86,7 +86,7 @@ PyTorch: Three Levels of Abstraction
 
 PyTorch Variables remember how they were created. `requires_grad=False` or `True`
 
-`DataLoader` wraps a data-set and provides minibatching, shuffling, multithreading.
+`DataLoader` wraps a data-set and provides minibatching, shuffling, multithreading. We can iterate over `loader` to form minibatches
 
 
 
@@ -94,10 +94,10 @@ PyTorch Variables remember how they were created. `requires_grad=False` or `True
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMD
-IzMDc4NjczLDM3NDAxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYy
-MDM3LC0xMjk3NjU3MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNj
-EsODMyMDc5NzI3LDI5MzcyMTQ3MywzMTk3NDM2ODAsMTA3NzEx
-NzgxOCwtMTM4NjU4MTk2NSwxODgxODYwNDc1LDE3NTc3MTE4Nl
-19
+eyJoaXN0b3J5IjpbMTA0OTA1MTg3LC0xNjA4MjIzNzYyLDkzMj
+g0NDg2NywtMjAyMzA3ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0
+NSwtMTMxMDc2MjAzNywtMTI5NzY1NzA2MSwtMTIzMjAyNTQwMC
+wtNDI5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0NzMsMzE5NzQz
+NjgwLDEwNzcxMTc4MTgsLTEzODY1ODE5NjUsMTg4MTg2MDQ3NS
+wxNzU3NzExODZdfQ==
 -->
