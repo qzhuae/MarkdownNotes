@@ -132,6 +132,8 @@ $2\times2$ Sub-sampling (Pooling) layers at stride 2
 [Conv-Max Pool-Norm-Conv-Max Pool-Norm-3 Convs- Max Pool- 3 FC]
 
 Input $227\times227\times3$
+First Conv: 96 $11\times11$ filters at stride 4
+Output: ( (227-11)/4+1 = ) $55 \times 55 \times 96$
 
 
 
@@ -141,11 +143,11 @@ Input $227\times227\times3$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDk4ODk4NiwtMTI5OTEwNjU3MiwxNT
-kwODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQw
-Nzg0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMD
-QwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0NDg2NywtMjAyMzA3
-ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0NSwtMTMxMDc2MjAzNy
-wtMTI5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgz
-MjA3OTcyN119
+eyJoaXN0b3J5IjpbMzM2MDcyNzg4LC0xMjk5MTA2NTcyLDE1OT
+A4OTA1MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0yMTA3NDA3
+ODQxLDI2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4LDEwND
+A2NjMxMjYsLTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMDIzMDc4
+NjczLDM3NDAxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYyMDM3LC
+0xMjk3NjU3MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNjEsODMy
+MDc5NzI3XX0=
 -->
