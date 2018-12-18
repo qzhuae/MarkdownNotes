@@ -37,9 +37,12 @@ Training can bottleneck on reading data and transferring to GPU!
 
 Solutions:
 - Read all data into RAM
-- Use SS
+- Use SSD instead of HDD
+- Use multiple CPU threads to pre-fetch data
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzExNjE2MiwtNDI5Njg1MjYxLDgzMj
+eyJoaXN0b3J5IjpbLTQzNzAyMzQ0OSwtNDI5Njg1MjYxLDgzMj
 A3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgs
 LTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
