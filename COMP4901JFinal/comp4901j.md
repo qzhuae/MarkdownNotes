@@ -52,8 +52,10 @@ Computational Graphs:
 [TensorFlow Example] Train a two-layer ReLU network on random data with L2 Loss
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIwMjU0MDAsLTQyOTY4NTI2MSw4Mz
-IwNzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4MCwxMDc3MTE3ODE4
-LC0xMzg2NTgxOTY1LDE4ODE4NjA0NzUsMTc1NzcxMTg2XX0=
+eyJoaXN0b3J5IjpbLTgyNjgxNzI5MCwtMTIzMjAyNTQwMCwtND
+I5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgw
+LDEwNzcxMTc4MTgsLTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNz
+U3NzExODZdfQ==
 -->
