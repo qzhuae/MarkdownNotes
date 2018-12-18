@@ -32,6 +32,8 @@ http://web.mit.edu/6.034/wwwbob/recitation8-fall11.pdf
 
 http://courses.csail.mit.edu/6.034s/resources.html
 
+https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist
+
 ## Topic 8 Deep Learning Software
 
 CPU: Fewer Cores, Each core is much faster and much more capable; great at sequential tasks
@@ -90,9 +92,9 @@ PyTorch Variables remember how they were created. `requires_grad=False` or `True
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzQwNzIxMywtMjAyMzA3ODY3MywzNz
-QwMTc4MjUsLTkzOTE4NzA0NSwtMTMxMDc2MjAzNywtMTI5NzY1
-NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3OTcyNy
-wyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLTEzODY1
-ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
+eyJoaXN0b3J5IjpbOTMyODQ0ODY3LC0yMDIzMDc4NjczLDM3ND
+AxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYyMDM3LC0xMjk3NjU3
+MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNjEsODMyMDc5NzI3LD
+I5MzcyMTQ3MywzMTk3NDM2ODAsMTA3NzExNzgxOCwtMTM4NjU4
+MTk2NSwxODgxODYwNDc1LDE3NTc3MTE4Nl19
 -->
