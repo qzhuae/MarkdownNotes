@@ -244,12 +244,26 @@ Information set, principal agent problem
 - [x] Last Tutorial Quesions
 - [x] Homework Corrections
 - [ ] Practice Finding PBE
+
+[Tutorial Note 5 and 9]
+
+## Some Stuff from Jiang Wenda
+
+possible midterm problems
+
+Sequential, Bayesian 
+
+payoff integral
+
+Information set, principal agent problem 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDIyNTYxMSwtNTQ5NDg4MTMzLC0xND
-k0ODQ4MzQ5LDg5MzkxMTk3MSwxNTY5NjgxODMxLC02Mzk1NDAz
-NzAsLTE0MTAzNjUwMywtNTQxNzE5OTczLDkxMjM4MzI2NSwtMj
-EwNDQwODA0OCwyODg0MjAzMTQsLTQyMTMxODI3MCw3Nzc0MTI0
-MDcsLTE4MDc0NDg0MjksMTIyMzQ3OTgwNywtMTgwNzQ0ODQyOS
-wxNzg2NDA4NTMsMTU4NDE3OTUyMywtMTQ4MTcwNTAyMiwtNDg2
-MzQ5MDI5XX0=
+eyJoaXN0b3J5IjpbMTE5NzQ4OSwxMTYwMjI1NjExLC01NDk0OD
+gxMzMsLTE0OTQ4NDgzNDksODkzOTExOTcxLDE1Njk2ODE4MzEs
+LTYzOTU0MDM3MCwtMTQxMDM2NTAzLC01NDE3MTk5NzMsOTEyMz
+gzMjY1LC0yMTA0NDA4MDQ4LDI4ODQyMDMxNCwtNDIxMzE4Mjcw
+LDc3NzQxMjQwNywtMTgwNzQ0ODQyOSwxMjIzNDc5ODA3LC0xOD
+A3NDQ4NDI5LDE3ODY0MDg1MywxNTg0MTc5NTIzLC0xNDgxNzA1
+MDIyXX0=
 -->
