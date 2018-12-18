@@ -40,9 +40,10 @@ Solutions:
 - Use SSD instead of HDD
 - Use multiple CPU threads to pre-fetch data
 
-
+Deep Learning Frameworks:
+- Easily build big 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzAyMzQ0OSwtNDI5Njg1MjYxLDgzMj
+eyJoaXN0b3J5IjpbMTgzMTM1Mjk0NCwtNDI5Njg1MjYxLDgzMj
 A3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgs
 LTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
