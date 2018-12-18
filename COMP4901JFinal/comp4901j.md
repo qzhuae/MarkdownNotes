@@ -94,14 +94,17 @@ PyTorch: Each forward pass defines a new graph
 
 With static graphs, the graph can be *optimized* before it runs. Fused operations to equivalent graph
 
-Static: Once graph is built, can *serialize* it and run it without the code that built the graph. Dynamic: Graph building and execution are intertwined, so always n
+**Static**: Once graph is built, can *serialize* it and run it without the code that built the graph. **Dynamic**: Graph building and execution are intertwined, so always need to keep code around.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQxOTI1MDAsLTE2MDgyMjM3NjIsOT
-MyODQ0ODY3LC0yMDIzMDc4NjczLDM3NDAxNzgyNSwtOTM5MTg3
-MDQ1LC0xMzEwNzYyMDM3LC0xMjk3NjU3MDYxLC0xMjMyMDI1ND
-AwLC00Mjk2ODUyNjEsODMyMDc5NzI3LDI5MzcyMTQ3MywzMTk3
-NDM2ODAsMTA3NzExNzgxOCwtMTM4NjU4MTk2NSwxODgxODYwND
-c1LDE3NTc3MTE4Nl19
+eyJoaXN0b3J5IjpbMTA0MDY2MzEyNiwtMTYwODIyMzc2Miw5Mz
+I4NDQ4NjcsLTIwMjMwNzg2NzMsMzc0MDE3ODI1LC05MzkxODcw
+NDUsLTEzMTA3NjIwMzcsLTEyOTc2NTcwNjEsLTEyMzIwMjU0MD
+AsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDczLDMxOTc0
+MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LDE4ODE4NjA0Nz
+UsMTc1NzcxMTg2XX0=
 -->
