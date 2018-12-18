@@ -34,6 +34,8 @@ http://courses.csail.mit.edu/6.034s/resources.html
 
 https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist
 
+https://course.cse.ust.hk/comp4901j/Password_Only/about/F17fin_key.pdf
+
 ## Topic 8 Deep Learning Software
 
 CPU: Fewer Cores, Each core is much faster and much more capable; great at sequential tasks
@@ -156,11 +158,11 @@ Stack of three $3\times3$ conv stride 1 layers has same *effective receptive fie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5ND
-k2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkwNTM2LC0yMDk2NTQ3
-NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MSwyNjY3NTIyNSwxMT
-Y1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQwNjYzMTI2LC0xNjA4MjIz
-NzYyLDkzMjg0NDg2NywtMjAyMzA3ODY3MywzNzQwMTc4MjUsLT
-kzOTE4NzA0NSwtMTMxMDc2MjAzNywtMTI5NzY1NzA2MSwtMTIz
-MjAyNTQwMF19
+eyJoaXN0b3J5IjpbMTQxNTQxNjAwOCwtNjY4NjczMjE1LC00ND
+MyMDc4NjcsNzk0OTYwMTQ3LC0xMjk5MTA2NTcyLDE1OTA4OTA1
+MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0yMTA3NDA3ODQxLD
+I2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4LDEwNDA2NjMx
+MjYsLTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMDIzMDc4NjczLD
+M3NDAxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYyMDM3LC0xMjk3
+NjU3MDYxXX0=
 -->
