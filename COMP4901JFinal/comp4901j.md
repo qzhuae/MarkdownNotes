@@ -24,8 +24,10 @@ http://www.cs.cmu.edu/~10701/previous.html
 
 http://www.cs.cmu.edu/~aarti/Class/10601/prev.shtml
 
+https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NzQzNjgwLDEwNzcxMTc4MTgsLTEzOD
-Y1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
+eyJoaXN0b3J5IjpbMjkzNzIxNDczLDMxOTc0MzY4MCwxMDc3MT
+E3ODE4LC0xMzg2NTgxOTY1LDE4ODE4NjA0NzUsMTc1NzcxMTg2
+XX0=
 -->
