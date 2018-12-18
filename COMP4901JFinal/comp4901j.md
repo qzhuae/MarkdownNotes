@@ -78,13 +78,14 @@ PyTorch: Three Levels of Abstraction
 - Variable: Node in a computational  graph; stores data and gradient (Tensor, Variable, Placeholder)
 - Module: A neural network layer; may store state or learnable weights (tf.layers, TFSlim, TFLearn)
 
- 
+P
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTE4NzA0NSwtMTMxMDc2MjAzNywtMT
-I5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3
-OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLT
-EzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
+eyJoaXN0b3J5IjpbLTI4MTYzOTMxNywtOTM5MTg3MDQ1LC0xMz
+EwNzYyMDM3LC0xMjk3NjU3MDYxLC0xMjMyMDI1NDAwLC00Mjk2
+ODUyNjEsODMyMDc5NzI3LDI5MzcyMTQ3MywzMTk3NDM2ODAsMT
+A3NzExNzgxOCwtMTM4NjU4MTk2NSwxODgxODYwNDc1LDE3NTc3
+MTE4Nl19
 -->
