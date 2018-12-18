@@ -3,6 +3,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
+https://www.mergersandinquisitions.com/quant-hedge-funds/
+
 # COMP4901j Final Review
 
 ## Some References
@@ -28,9 +30,9 @@ https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
 
 ## Topic 8 Deep Learning Software
 
-
+CPU: Fewer Cores, Each core is much faster and much more capable; great at sequential task
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNz
-IxNDczLDMxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1
-LDE4ODE4NjA0NzUsMTc1NzcxMTg2XX0=
+eyJoaXN0b3J5IjpbLTcwODcwNTQ3MCwtNDI5Njg1MjYxLDgzMj
+A3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgs
+LTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
