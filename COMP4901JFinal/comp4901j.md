@@ -74,11 +74,16 @@ Gradients can also be computed and weights can be updated with an optimizer.
 `Keras`: High-level Wrapper
 
 PyTorch: Three Levels of Abstraction
-- Tensor: Imperative ndarray; but runs on GP
+- Tensor: Imperative ndarray; but runs on GPU (Numpy Array)
+- Variable: Node in a computational  graph; stores data and gradient (Tensor, Variable, Placeholder)
+- Module: A neural network layer; may store state or learnable weights (tf.layers, TFSlim, TFLearn)
+
+ 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzA2ODE3MSwtMTMxMDc2MjAzNywtMT
+eyJoaXN0b3J5IjpbLTkzOTE4NzA0NSwtMTMxMDc2MjAzNywtMT
 I5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3
 OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLT
 EzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
