@@ -88,13 +88,15 @@ PyTorch Variables remember how they were created. `requires_grad=False` or `True
 
 `DataLoader` wraps a data-set and provides minibatching, shuffling, multithreading. We can iterate over `loader` to form minibatches
 
-
+**Static vs Dynamic Graphs**
+TF: Build graph once, then run many times
+PyTorch: Each forward pass defines a new graph
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTA1MTg3LC0xNjA4MjIzNzYyLDkzMj
+eyJoaXN0b3J5IjpbNzM3ODA5NTIzLC0xNjA4MjIzNzYyLDkzMj
 g0NDg2NywtMjAyMzA3ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0
 NSwtMTMxMDc2MjAzNywtMTI5NzY1NzA2MSwtMTIzMjAyNTQwMC
 wtNDI5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0NzMsMzE5NzQz
