@@ -167,10 +167,12 @@ Deeper networks with computational efficiency
 - No FC Layers
 - Only 5m params (12x less than AlexNet)
 
-`Inception module` design a good local network topology
+`Inception module` design a good local network topology (network within a network) an then stack these modules on top of each other
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDI1Mzg1NiwtOTI0OTU1MzYzLC0xMz
+eyJoaXN0b3J5IjpbMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMz
 E0NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMy
 MTUsLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1NzIsMT
 U5MDg5MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1MzcsLTIxMDc0
