@@ -155,12 +155,15 @@ Stack of three $3\times3$ conv stride 1 layers has same *effective receptive fie
 Fewer parameters: $27C^2$ vs $49C^2$ for C channels per layer
 
 Details: 
-
+- No Local Response Normalization (LRN)
+- Use ensembles for best results
+- FC7 features generalize well to other tasks
+- Similar training procedure as Krizhevsky 2012
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDk1NTcyNiwxMDc0MDM3NDQwLDE0MT
+eyJoaXN0b3J5IjpbLTEzMTQ0NTU1MCwxMDc0MDM3NDQwLDE0MT
 U0MTYwMDgsLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5NDk2MDE0
 NywtMTI5OTEwNjU3MiwxNTkwODkwNTM2LC0yMDk2NTQ3NzE4LD
 k0MzEyMzUzNywtMjEwNzQwNzg0MSwyNjY3NTIyNSwxMTY1NTQ1
