@@ -119,6 +119,11 @@ Caffe Python Interface:
 - (-) Not good for recurrent networks
 - (-) Cumbersome for big networks (GoogLeNet, ResNet)
 
+## Topic 9 CNN Architectures
+
+*There could be a CNN Architecture question on exam*
+
+
 
 
 
@@ -129,11 +134,11 @@ Caffe Python Interface:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzMzMzU3OCw5NDMxMjM1MzcsLTIxMD
-c0MDc4NDEsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4Mjgs
-MTA0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4NjcsLTIwMj
-MwNzg2NzMsMzc0MDE3ODI1LC05MzkxODcwNDUsLTEzMTA3NjIw
-MzcsLTEyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLTQyOTY4NTI2MS
-w4MzIwNzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4MCwxMDc3MTE3
-ODE4XX0=
+eyJoaXN0b3J5IjpbLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0yMT
+A3NDA3ODQxLDI2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4
+LDEwNDA2NjMxMjYsLTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMD
+IzMDc4NjczLDM3NDAxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYy
+MDM3LC0xMjk3NjU3MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNj
+EsODMyMDc5NzI3LDI5MzcyMTQ3MywzMTk3NDM2ODAsMTA3NzEx
+NzgxOF19
 -->
