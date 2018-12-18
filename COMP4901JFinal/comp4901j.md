@@ -68,14 +68,17 @@ Gradients can also be computed and weights can be updated with an optimizer.
     h = tf.maximum(tf.matmul(x,w1),0)
     y_pred = tf.matmul(h,w2)
     loss = tf.losses.mean_squared_error(y_pred,y)
+    #diff = y_pred - y
+    #loss = tf.reduce_mean(tf.reduce_sum(diff*diff, axis=1))
+
 
 	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNjkzODk5LC0xMjk3NjU3MDYxLC0xMj
-MyMDI1NDAwLC00Mjk2ODUyNjEsODMyMDc5NzI3LDI5MzcyMTQ3
-MywzMTk3NDM2ODAsMTA3NzExNzgxOCwtMTM4NjU4MTk2NSwxOD
-gxODYwNDc1LDE3NTc3MTE4Nl19
+eyJoaXN0b3J5IjpbLTEyNTM1Nzc2MywtMTI5NzY1NzA2MSwtMT
+IzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0
+NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLTEzODY1ODE5NjUsMT
+g4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
