@@ -59,13 +59,17 @@ Problem with `tf.placeholder` (fed on each call); copying weights between CPU/GP
 
 Gradients can also be computed and weights can be updated with an optimizer.
 
-
+    N, D, H = 
+    x = tf.placeholder(tf.float32, shape=(N,D))
+    y = tf.placeholder(tf.float32, shape=(N,D))
+    w1 = tf.Variable(tf.random_normal((D,H)))
+    w2 = tf.Variable(tf.r
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLT
-QyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4
-MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LDE4ODE4NjA0NzUsMT
-c1NzcxMTg2XX0=
+eyJoaXN0b3J5IjpbNjg3NjYwNTIsLTEyOTc2NTcwNjEsLTEyMz
+IwMjU0MDAsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDcz
+LDMxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LDE4OD
+E4NjA0NzUsMTc1NzcxMTg2XX0=
 -->
