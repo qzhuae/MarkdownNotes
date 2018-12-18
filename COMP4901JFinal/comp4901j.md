@@ -125,8 +125,13 @@ Caffe Python Interface:
 
 **LeNet-5**
 $5\times5$ Conv filters at stride 1
-Subsampling (Pooling) layers
+$2\times2$ Sub-sampling (Pooling) layers at stride 2
+[Conv-Pool-Conv-Pool-FC-FC]
 
+**AlexNet**
+[Conv-Max Pool-Norm-Conv-Max Pool-Norm-3 Convs- Max Pool- 3 FC]
+
+Input $227\times227\times3$
 
 
 
@@ -136,7 +141,7 @@ Subsampling (Pooling) layers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTUzMDg2OCwtMTI5OTEwNjU3MiwxNT
+eyJoaXN0b3J5IjpbMTE3MDk4ODk4NiwtMTI5OTEwNjU3MiwxNT
 kwODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQw
 Nzg0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMD
 QwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0NDg2NywtMjAyMzA3
