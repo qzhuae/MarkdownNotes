@@ -13,7 +13,9 @@ http://cs231n.stanford.edu/syllabus.html
 
 ## Possible Exams
 https://people.eecs.berkeley.edu/~jrs/189/exam/finalf15blank.pdf
+
+http://www.cs.cmu.edu/~10701/previous.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU2MzU0NTksLTEzODY1ODE5NjUsMT
-g4MTg2MDQ3NSwxNzU3NzExODZdfQ==
+eyJoaXN0b3J5IjpbMTA3NzExNzgxOCwtMTM4NjU4MTk2NSwxOD
+gxODYwNDc1LDE3NTc3MTE4Nl19
 -->
