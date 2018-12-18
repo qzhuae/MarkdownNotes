@@ -5,7 +5,9 @@
 
 # COMP4901j Final Review
 
+## Some References
 
+Some practice problem here http://dl.ee.cuhk.edu.hk/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzcxMTg2XX0=
+eyJoaXN0b3J5IjpbMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
