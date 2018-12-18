@@ -134,8 +134,11 @@ $2\times2$ Sub-sampling (Pooling) layers at stride 2
 Input $227\times227\times3$
 First (Conv): 96 $11\times11$ filters at stride 4
 Output: ( (227-11)/4+1 = ) $55 \times 55 \times 96$
+Number of Param 11*11*3*96
+
 Second (Max Pool) $3\times3$ filters at stride 2
-Output: 27*27
+Output: 27*27*96
+Number of Param: 0
 
 
 
@@ -143,11 +146,11 @@ Output: 27*27
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzQyMjMzNCwtMTI5OTEwNjU3MiwxNT
-kwODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQw
-Nzg0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMD
-QwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0NDg2NywtMjAyMzA3
-ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0NSwtMTMxMDc2MjAzNy
-wtMTI5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgz
-MjA3OTcyN119
+eyJoaXN0b3J5IjpbNzk0OTYwMTQ3LC0xMjk5MTA2NTcyLDE1OT
+A4OTA1MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0yMTA3NDA3
+ODQxLDI2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4LDEwND
+A2NjMxMjYsLTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMDIzMDc4
+NjczLDM3NDAxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYyMDM3LC
+0xMjk3NjU3MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNjEsODMy
+MDc5NzI3XX0=
 -->
