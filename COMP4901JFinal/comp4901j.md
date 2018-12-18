@@ -146,17 +146,18 @@ Number of Param: 0
 Small filters, Deeper Networks
 Only $3\times3$ Conv Stride 1, Pad 1 and $2\times2$ Max Pool stride 2
 
+Stack of three $3\times3$ conv stride 1 layers has same *effective receptive field* as one $7\times7$ conv layer
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOT
-kxMDY1NzIsMTU5MDg5MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1
-MzcsLTIxMDc0MDc4NDEsMjY2NzUyMjUsMTE2NTU0NTg3LDEzOD
-M0Njk4MjgsMTA0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4
-NjcsLTIwMjMwNzg2NzMsMzc0MDE3ODI1LC05MzkxODcwNDUsLT
-EzMTA3NjIwMzcsLTEyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLTQy
-OTY4NTI2MV19
+eyJoaXN0b3J5IjpbMTk0MDAyMDU3MywtNDQzMjA3ODY3LDc5ND
+k2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkwNTM2LC0yMDk2NTQ3
+NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MSwyNjY3NTIyNSwxMT
+Y1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQwNjYzMTI2LC0xNjA4MjIz
+NzYyLDkzMjg0NDg2NywtMjAyMzA3ODY3MywzNzQwMTc4MjUsLT
+kzOTE4NzA0NSwtMTMxMDc2MjAzNywtMTI5NzY1NzA2MSwtMTIz
+MjAyNTQwMF19
 -->
