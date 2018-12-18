@@ -51,10 +51,11 @@ Computational Graphs:
 
 [TensorFlow Example] Train a two-layer ReLU network on random data with L2 Loss
 
+what is `tf.reduce_mean`?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjgxNzI5MCwtMTIzMjAyNTQwMCwtND
+eyJoaXN0b3J5IjpbMTkxODU3NjAzMywtMTIzMjAyNTQwMCwtND
 I5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgw
 LDEwNzcxMTc4MTgsLTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNz
 U3NzExODZdfQ==
