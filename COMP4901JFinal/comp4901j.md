@@ -148,12 +148,15 @@ Only $3\times3$ Conv Stride 1, Pad 1 and $2\times2$ Max Pool stride 2
 
 Stack of three $3\times3$ conv stride 1 layers has same *effective receptive field* as one $7\times7$ conv layer
 
+[*Know how to compute receptive field*]
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDAyMDU3MywtNDQzMjA3ODY3LDc5ND
+eyJoaXN0b3J5IjpbLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5ND
 k2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkwNTM2LC0yMDk2NTQ3
 NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MSwyNjY3NTIyNSwxMT
 Y1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQwNjYzMTI2LC0xNjA4MjIz
