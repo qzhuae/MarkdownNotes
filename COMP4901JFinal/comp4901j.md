@@ -105,7 +105,22 @@ For loops such as $y_t = (y_{t-1} + x_t)*w$ , we use special TF control flow `tf
 - Recursive Networks
 - Modular Networks
 
-Caffe
+Caffe Python Interface:
+- Interfacing with Numpy
+- Extract features: Run net forward
+- Compute gradients: Run net backward (DeepDream)
+- Deifine Layers in Python with Numpy
+- (+) Good for feedforward networks 
+- (+) Good for finetuning existing networks
+- (+) Train models without writing any code!
+- (+) Python interface is pretty useful!
+- (+) Can deploy without Python
+- (-) Need to write C++ / CUDA for new GPU layers
+- (-) Not good for recurrent networks
+- (-) Cumbersome for big networks (GoogLeNet, ResNet)
+
+
+
 
 
 
@@ -114,11 +129,11 @@ Caffe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwNzA4MTYsOTQzMTIzNTM3LC0yMT
-A3NDA3ODQxLDI2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4
-LDEwNDA2NjMxMjYsLTE2MDgyMjM3NjIsOTMyODQ0ODY3LC0yMD
-IzMDc4NjczLDM3NDAxNzgyNSwtOTM5MTg3MDQ1LC0xMzEwNzYy
-MDM3LC0xMjk3NjU3MDYxLC0xMjMyMDI1NDAwLC00Mjk2ODUyNj
-EsODMyMDc5NzI3LDI5MzcyMTQ3MywzMTk3NDM2ODAsMTA3NzEx
-NzgxOF19
+eyJoaXN0b3J5IjpbMTY1NzMzMzU3OCw5NDMxMjM1MzcsLTIxMD
+c0MDc4NDEsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4Mjgs
+MTA0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4NjcsLTIwMj
+MwNzg2NzMsMzc0MDE3ODI1LC05MzkxODcwNDUsLTEzMTA3NjIw
+MzcsLTEyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLTQyOTY4NTI2MS
+w4MzIwNzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4MCwxMDc3MTE3
+ODE4XX0=
 -->
