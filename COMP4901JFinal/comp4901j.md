@@ -55,12 +55,16 @@ what is `tf.reduce_mean`?
 
 Problem with `tf.placeholder` (fed on each call); copying weights between CPU/GPU each step is heavy. Use `tf.Variable` instead (persists in the graph between calls).
 
-`assign()` operation
+`assign()` operation. Also need a dummy graph node that depends on updates. 
+
+Gradients can also be computed and weights can be updated with an optimizer.
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM1MTkxMTgsLTEyMzIwMjU0MDAsLT
+eyJoaXN0b3J5IjpbLTEyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLT
 QyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4
 MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LDE4ODE4NjA0NzUsMT
 c1NzcxMTg2XX0=
