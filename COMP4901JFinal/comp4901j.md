@@ -73,14 +73,13 @@ Gradients can also be computed and weights can be updated with an optimizer.
 
 `Keras`: High-level Wrapper
 
-
-	
-
+PyTorch: Three Levels of Abstraction
+- Tensor: Imperative ndarray; but runs on GP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA3NjIwMzcsLTEyOTc2NTcwNjEsLT
-EyMzIwMjU0MDAsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIx
-NDczLDMxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LD
-E4ODE4NjA0NzUsMTc1NzcxMTg2XX0=
+eyJoaXN0b3J5IjpbMTg1MzA2ODE3MSwtMTMxMDc2MjAzNywtMT
+I5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3
+OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLT
+EzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
