@@ -26,9 +26,11 @@ http://www.cs.cmu.edu/~aarti/Class/10601/prev.shtml
 
 https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
 
+## Topic 8 Deep Learning Software
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMDc5NzI3LDI5MzcyMTQ3MywzMTk3ND
-M2ODAsMTA3NzExNzgxOCwtMTM4NjU4MTk2NSwxODgxODYwNDc1
-LDE3NTc3MTE4Nl19
+eyJoaXN0b3J5IjpbLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNz
+IxNDczLDMxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1
+LDE4ODE4NjA0NzUsMTc1NzcxMTg2XX0=
 -->
