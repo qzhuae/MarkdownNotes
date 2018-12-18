@@ -123,8 +123,9 @@ Caffe Python Interface:
 
 *There could be a CNN Architecture question on exam*
 
-LeNet-5 
-
+**LeNet-5**
+$5\times5$ Conv filters at stride 1
+Subsampling (Pooling) layers
 
 
 
@@ -135,11 +136,11 @@ LeNet-5
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkxMDY1NzIsMTU5MDg5MDUzNiwtMj
-A5NjU0NzcxOCw5NDMxMjM1MzcsLTIxMDc0MDc4NDEsMjY2NzUy
-MjUsMTE2NTU0NTg3LDEzODM0Njk4MjgsMTA0MDY2MzEyNiwtMT
-YwODIyMzc2Miw5MzI4NDQ4NjcsLTIwMjMwNzg2NzMsMzc0MDE3
-ODI1LC05MzkxODcwNDUsLTEzMTA3NjIwMzcsLTEyOTc2NTcwNj
-EsLTEyMzIwMjU0MDAsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkz
-NzIxNDczXX0=
+eyJoaXN0b3J5IjpbMTc0MTUzMDg2OCwtMTI5OTEwNjU3MiwxNT
+kwODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQw
+Nzg0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMD
+QwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0NDg2NywtMjAyMzA3
+ODY3MywzNzQwMTc4MjUsLTkzOTE4NzA0NSwtMTMxMDc2MjAzNy
+wtMTI5NzY1NzA2MSwtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgz
+MjA3OTcyN119
 -->
