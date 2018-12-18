@@ -96,16 +96,18 @@ With static graphs, the graph can be *optimized* before it runs. Fused operation
 
 **Static**: Once graph is built, can *serialize* it and run it without the code that built the graph. **Dynamic**: Graph building and execution are intertwined, so always need to keep code around.
 
+In PyTorch, Conditional is like normal Python. But in TF, special TF control flow operator should be applied.
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzQ2OTgyOCwxMDQwNjYzMTI2LC0xNj
-A4MjIzNzYyLDkzMjg0NDg2NywtMjAyMzA3ODY3MywzNzQwMTc4
-MjUsLTkzOTE4NzA0NSwtMTMxMDc2MjAzNywtMTI5NzY1NzA2MS
-wtMTIzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3OTcyNywyOTM3
-MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLTEzODY1ODE5Nj
-UsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
+eyJoaXN0b3J5IjpbMTE2NTU0NTg3LDEzODM0Njk4MjgsMTA0MD
+Y2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4NjcsLTIwMjMwNzg2
+NzMsMzc0MDE3ODI1LC05MzkxODcwNDUsLTEzMTA3NjIwMzcsLT
+EyOTc2NTcwNjEsLTEyMzIwMjU0MDAsLTQyOTY4NTI2MSw4MzIw
+Nzk3MjcsMjkzNzIxNDczLDMxOTc0MzY4MCwxMDc3MTE3ODE4LC
+0xMzg2NTgxOTY1LDE4ODE4NjA0NzUsMTc1NzcxMTg2XX0=
 -->
