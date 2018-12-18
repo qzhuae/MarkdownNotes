@@ -49,9 +49,9 @@ Computational Graphs:
 - Cannot run on GPU
 - Have to compute own gradients
 
-
+[TensorFlow Example] Train a two-layer ReLU network on random 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwOTU0MDkxLC00Mjk2ODUyNjEsODMyMD
-c5NzI3LDI5MzcyMTQ3MywzMTk3NDM2ODAsMTA3NzExNzgxOCwt
-MTM4NjU4MTk2NSwxODgxODYwNDc1LDE3NTc3MTE4Nl19
+eyJoaXN0b3J5IjpbMTU1MjkxMjU5MSwtNDI5Njg1MjYxLDgzMj
+A3OTcyNywyOTM3MjE0NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgs
+LTEzODY1ODE5NjUsMTg4MTg2MDQ3NSwxNzU3NzExODZdfQ==
 -->
