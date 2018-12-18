@@ -71,14 +71,16 @@ Gradients can also be computed and weights can be updated with an optimizer.
     #diff = y_pred - y
     #loss = tf.reduce_mean(tf.reduce_sum(diff*diff, axis=1))
 
+`Keras`: High-level Wrapper
+
 
 	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM1Nzc2MywtMTI5NzY1NzA2MSwtMT
-IzMjAyNTQwMCwtNDI5Njg1MjYxLDgzMjA3OTcyNywyOTM3MjE0
-NzMsMzE5NzQzNjgwLDEwNzcxMTc4MTgsLTEzODY1ODE5NjUsMT
-g4MTg2MDQ3NSwxNzU3NzExODZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTA3NjIwMzcsLTEyOTc2NTcwNjEsLT
+EyMzIwMjU0MDAsLTQyOTY4NTI2MSw4MzIwNzk3MjcsMjkzNzIx
+NDczLDMxOTc0MzY4MCwxMDc3MTE3ODE4LC0xMzg2NTgxOTY1LD
+E4ODE4NjA0NzUsMTc1NzcxMTg2XX0=
 -->
