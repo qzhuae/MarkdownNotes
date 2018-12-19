@@ -287,12 +287,14 @@ Upsamling: `Nearest Neighbor`, `"Bed of Nails"`, `Max Unpooling` (Remember which
 `Transpose Convolution` 
 Input gives weight for the filter, weighted sum where output overlaps, Filter moves 2(stride) pixels in the output for every one pixel in the input, **Stride gives ratio between movement in output and input**
  
+conv1d_transpose
+Output contains copies of the filter weighted by the input, summing at overlaps in the output, **Need to crop on pixel from output to make output exactly 2$\times$ input**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNz
-I3MDA2NTQsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5
-LC02MjQ3MDE3NTEsMjQwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMD
-Y3MjE1NjY0LC0xMDUwMTgzOTEzLDEyNTY4OTc1NTUsMjAyMjMy
-NjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAzNzQ0MC
-wxNDE1NDE2MDA4LC02Njg2NzMyMTUsLTQ0MzIwNzg2Nyw3OTQ5
-NjAxNDddfQ==
+eyJoaXN0b3J5IjpbMjE0NDMyNDU5Nyw5OTg5MTE4NzksMTkzNT
+k1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2MTA0
+Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEsLTE3Nj
+E0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMTI1Njg5
+NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MC
+wxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtNDQz
+MjA3ODY3XX0=
 -->
