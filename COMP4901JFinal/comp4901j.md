@@ -343,6 +343,8 @@ Find the part of an image that a neuron responds to
 
 $$I^* = \arg\max_I f(I)+R(I)$$
 f Neuron value, R Natural image Regularizer
+$\arg\max_I S_c(I) - \lambda ||I||_2^2$
+score for class c (before softmax)
 1. Initialize image to zeros
 Repeat:
 2. Forward image to compute current scores
@@ -352,7 +354,7 @@ Repeat:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg4NzMyMzMsNzQ5NzY3MTc2LC05MT
+eyJoaXN0b3J5IjpbLTE3NjUxODM5NTgsNzQ5NzY3MTc2LC05MT
 A3MTMwMjYsODQ1OTI4NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5
 NSw5OTg5MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMz
 E2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1
