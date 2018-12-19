@@ -422,16 +422,20 @@ Addresses density estimation, a core problem in unsupervised learning
 - Explicit density estimation: explicitly define and solve for p(x) (model)
 - Implicit density estimation: learn model that can sample from p(x) (model) without explicitly defining it 
 
+Why Generative Models?
+- Realistic samples for artwork, super-resolution, colorization
+- Generative models for time-series data can be used for simulation and planning
+- Training generative models can also enable inference of latent representations that can be useful as general features
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY5Mjg2OTYsMzM4MzcwNzM0LDIwNz
-k2OTQ5NDksMTk1MDg4MjIwOSwtMTA0NTI0OTAzOSwxMDE2ODI4
-NjYzLDE4MTI4MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3NjM5MS
-wtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNiw4NDU5
-Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OS
-wxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQw
-NTYxMDQ2XX0=
+eyJoaXN0b3J5IjpbLTMwNDg0NDk5MCwtMTE1NjkyODY5NiwzMz
+gzNzA3MzQsMjA3OTY5NDk0OSwxOTUwODgyMjA5LC0xMDQ1MjQ5
+MDM5LDEwMTY4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4NDQwOS
+wxMzgyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEw
+NzEzMDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OT
+UsOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMx
+NjU1NjgyOV19
 -->
