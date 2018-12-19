@@ -363,13 +363,15 @@ We can make use of better regularization: Penalize L2 norm of image; also during
 3. Modify the image to maximize the class
 4. Repeat until network is fooled
 
+[Read Ian Goodfellow for Fooling Images]
 
+`DeepDream` Amplifyin 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDYxNDYwOSwtMTM1MDA4NDQwOSwxMz
-gyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEwNzEz
-MDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OTUsOT
-k4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1
-NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMj
-QwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUw
-MTgzOTEzXX0=
+eyJoaXN0b3J5IjpbLTEwMTYwMDU5MTQsLTEzNTAwODQ0MDksMT
+M4Mjc3NjM5MSwtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcx
+MzAyNiw4NDU5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LD
+k5ODkxMTg3OSwxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1
+NTY4MjksMzQwNTYxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLD
+I0MDY0OTkxMSwtMTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1
+MDE4MzkxM119
 -->
