@@ -411,13 +411,19 @@ Many methods for understanding CNN representations
 **Gradients** Saliency maps. class visualization, fooling images, feature inversion
 **Fun** DeepDream, Style Transfer
 
+## Topic 13 Generative Models
+
+[Image Lecture 13 P15]
+
+`Generative Models` Given training data, generate new samples from same distribution
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTY5NDk0OSwxOTUwODgyMjA5LC0xMD
-Q1MjQ5MDM5LDEwMTY4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4
-NDQwOSwxMzgyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3Ni
-wtOTEwNzEzMDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUy
-OTQ4OTUsOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NT
-QsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3
-MDE3NTFdfQ==
+eyJoaXN0b3J5IjpbMTI4OTQzMzA1NCwyMDc5Njk0OTQ5LDE5NT
+A4ODIyMDksLTEwNDUyNDkwMzksMTAxNjgyODY2MywxODEyODE4
+ODAzLC0xMzUwMDg0NDA5LDEzODI3NzYzOTEsLTE3NjUxODM5NT
+gsNzQ5NzY3MTc2LC05MTA3MTMwMjYsODQ1OTI4NTMwLDc1NDEy
+OTY3MywtMTIxNTI5NDg5NSw5OTg5MTE4NzksMTkzNTk1MjkxNC
+wtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4
+NzE2MDldfQ==
 -->
