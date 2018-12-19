@@ -242,18 +242,24 @@ $y_t = W_{hy}h_t$
 
 At test-time sample characters one at a time, feed back to model.
 
-Forward through entire sequence
+Backprop through time
+Forward through entire sequence to compute loss, then backward through entire sequence to compute gradient
+
+Truncated Backprop through time
+Run forward and backward through chunks of the sequence instead of whole sequence
+
+Carry hidden states forward in time forever,
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjY3MjU1MCwtMTA1MDE4MzkxMywxMj
-U2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1
-NTUwLDEwNzQwMzc0NDAsMTQxNTQxNjAwOCwtNjY4NjczMjE1LC
-00NDMyMDc4NjcsNzk0OTYwMTQ3LC0xMjk5MTA2NTcyLDE1OTA4
-OTA1MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0yMTA3NDA3OD
-QxLDI2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4LDEwNDA2
-NjMxMjZdfQ==
+eyJoaXN0b3J5IjpbNzg0NjAwMDM2LC0xMDUwMTgzOTEzLDEyNT
+Y4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1
+NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMyMTUsLT
+Q0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1NzIsMTU5MDg5
+MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1MzcsLTIxMDc0MDc4ND
+EsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4MjgsMTA0MDY2
+MzEyNl19
 -->
