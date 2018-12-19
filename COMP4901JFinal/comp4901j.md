@@ -169,6 +169,75 @@ Deeper networks with computational efficiency
 
 `Inception module` design a good local network topology (network within a network) an then stack these modules on top of each other
 
+![NaiveInception](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/NaiveInception.png)
+
+The computational complexity is its problem.
+
+>  Conv Ops = Output size $\times$ Filter size
+
+Pooling layer also preserves feature depth, which means total depth after concatenation can only grow at every layer.
+
+Solution: `Bottleneck` layers that use $1\times1$ convolutions to reduce feature depth.
+
+Suppose $56\times56\times64$ input, $1\times1$ CONV with 32 filters, each filter has size $1\times1\times64$ and performs a 64-dimensional dot product, Output is $56\times56\times32$
+
+Preserves spatial dimensions, reduces depth, projects depth to lower dimension (combination of feature maps)
+
+![Inception](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/Inception.png)
+
+[*Calculate Number of Conv Ops*]
+
+Less Conv Ops and Reduce Depth
+
+
+
+**ResNet**
+
+Very deep network using residual connections
+
+![DepthProblem](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/DepthProblem.png)
+
+Hypothesis: the problem is an optimization problem, deeper models are harder to
+optimize. The deeper model should be able to perform at least as well as the shallower model.
+
+A solution by construction is copying the learned layers from the shallower model and setting additional layers to identity mapping.
+
+![ResBlock](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/ResBlock.png)
+
+For deeper networks, use `bottleneck` layer to improve efficiency (similar to GoogLeNet)
+
+
+
+Other architectures to keep in mind are:
+
+- NiN
+- Wide ResNet
+- ResNeXT
+- Stochastic Depth
+- DenseNet
+- FractalNet
+- SqueezeNet
+
+
+
+## Topic 10 Recurrent Neural Network
+
+![RNNSequence](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/RNNSequence.png)
+
+Image Captioning -> Sentiment Classification -> Machine Translation -> Video Classification on frame level
+
+
+
+Sequential Processing of Non-Sequence Data
+
+
+
+
+
+
+
+
+
 
 
 <!--stackedit_data:
@@ -180,3 +249,6 @@ MDc4NDEsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4MjgsMT
 A0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4NjcsLTIwMjMw
 Nzg2NzNdfQ==
 -->
+
+
+
