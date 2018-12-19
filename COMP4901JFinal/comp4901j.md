@@ -300,12 +300,19 @@ Treat localization as a regression problem
 L2 Loss for Box Coordinates
 
 *Human Pose Estimation* 
+
+*Object Detection as Classification*
+Sliding Window: Apply a CNN to many different crops of the image, CNN classifies each crop as object or background.
+
+Problem: Need to apply CNN to huge number of locations and scales, very computationally expensive.
+
+`Region Proposal`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzY5NDY5MCwtMTIxNTI5NDg5NSw5OT
-g5MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2
-ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyND
-A2NDk5MTEsLTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAx
-ODM5MTMsMTI1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNj
-MsLTEzMTQ0NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2
-ODY3MzIxNV19
+eyJoaXN0b3J5IjpbLTEwMDM4NTI3NDYsLTEyMTUyOTQ4OTUsOT
+k4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1
+NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMj
+QwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUw
+MTgzOTEzLDEyNTY4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1Mz
+YzLC0xMzE0NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02
+Njg2NzMyMTVdfQ==
 -->
