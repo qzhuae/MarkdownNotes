@@ -299,9 +299,9 @@ Treat localization as a regression problem
 `Multitask Loss` Softmax Loss for Class Label
 L2 Loss for Box Coordinates
 
-*Human Pose E*
+*Human Pose Estimation* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTQ2MzgxNCwtMTIxNTI5NDg5NSw5OT
+eyJoaXN0b3J5IjpbLTQ5MzY5NDY5MCwtMTIxNTI5NDg5NSw5OT
 g5MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2
 ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyND
 A2NDk5MTEsLTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAx
