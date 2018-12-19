@@ -402,8 +402,15 @@ Solution: Train another neural network to perform style transfer for us!
 [Image Lecture 11 P78]
 
 Replacing batch normalization with Instance Normalization improves results
+
+One Network, Many Styles:
+[Image Lecture 11 P83]
+
+Many methods for understanding CNN representations
+**Activations** Nearest neighbors, Dimensionality reduction, Maximal Patches, Occlusion
+**Gradients**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzQ0NzYzNiwtMTA0NTI0OTAzOSwxMD
+eyJoaXN0b3J5IjpbMTk1MDg4MjIwOSwtMTA0NTI0OTAzOSwxMD
 E2ODI4NjYzLDE4MTI4MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3
 NjM5MSwtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNi
 w4NDU5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkx
