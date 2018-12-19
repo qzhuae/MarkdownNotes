@@ -237,6 +237,9 @@ new state, some function with param W, old state, input vector at some time step
 $h_t = tanh(W_{hh}h_{t=1}+W_{xh}x_t)$
 $y_t = W_{hy}h_t$
 
+[Many to One] Encode input sequence in a single vector
+[One to Many] Produce output sequence from single input vector
+
 
 
 
@@ -244,11 +247,11 @@ $y_t = W_{hy}h_t$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5OTY3MTQwLDEyNTY4OTc1NTUsMjAyMj
-MyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAzNzQ0
-MCwxNDE1NDE2MDA4LC02Njg2NzMyMTUsLTQ0MzIwNzg2Nyw3OT
-Q5NjAxNDcsLTEyOTkxMDY1NzIsMTU5MDg5MDUzNiwtMjA5NjU0
-NzcxOCw5NDMxMjM1MzcsLTIxMDc0MDc4NDEsMjY2NzUyMjUsMT
-E2NTU0NTg3LDEzODM0Njk4MjgsMTA0MDY2MzEyNiwtMTYwODIy
-Mzc2Ml19
+eyJoaXN0b3J5IjpbLTEwNTAxODM5MTMsMTI1Njg5NzU1NSwyMD
+IyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MCwxMDc0MDM3
+NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtNDQzMjA3ODY3LD
+c5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkwNTM2LC0yMDk2
+NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MSwyNjY3NTIyNS
+wxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQwNjYzMTI2LC0xNjA4
+MjIzNzYyXX0=
 -->
