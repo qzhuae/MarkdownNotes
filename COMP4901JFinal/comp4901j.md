@@ -408,13 +408,16 @@ One Network, Many Styles:
 
 Many methods for understanding CNN representations
 **Activations** Nearest neighbors, Dimensionality reduction, Maximal Patches, Occlusion
-**Gradients** Saliency 
+**Gradients** Saliency maps. class visualization, fooling images, feature inversion
+**Fun** DeepDream, Style Transfer
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1OTM3NzA3LDE5NTA4ODIyMDksLTEwND
-UyNDkwMzksMTAxNjgyODY2MywxODEyODE4ODAzLC0xMzUwMDg0
-NDA5LDEzODI3NzYzOTEsLTE3NjUxODM5NTgsNzQ5NzY3MTc2LC
-05MTA3MTMwMjYsODQ1OTI4NTMwLDc1NDEyOTY3MywtMTIxNTI5
-NDg5NSw5OTg5MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NC
-wxMzE2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcw
-MTc1MV19
+eyJoaXN0b3J5IjpbMjA3OTY5NDk0OSwxOTUwODgyMjA5LC0xMD
+Q1MjQ5MDM5LDEwMTY4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4
+NDQwOSwxMzgyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3Ni
+wtOTEwNzEzMDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUy
+OTQ4OTUsOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NT
+QsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3
+MDE3NTFdfQ==
 -->
