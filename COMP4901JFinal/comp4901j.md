@@ -262,15 +262,17 @@ Backprop from $h_t$ to $h_{t-1}$ multiplies by $W$ (actually $W^T_{hh}$)
 Computing gradient of $h_0$ involves many factors of $W$ and repeated tanh
 
 Exploding gradients: Gradient Clipping: Scale gradient if its norm is too big.
-Van
+Vanishing gradients: Change RNN Architecture
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzUxMzY1OSwtNjI0NzAxNzUxLDI0MD
-Y0OTkxMSwtMTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4
-MzkxMywxMjU2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2My
-wtMTMxNDQ1NTUwLDEwNzQwMzc0NDAsMTQxNTQxNjAwOCwtNjY4
-NjczMjE1LC00NDMyMDc4NjcsNzk0OTYwMTQ3LC0xMjk5MTA2NT
-cyLDE1OTA4OTA1MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0y
-MTA3NDA3ODQxXX0=
+eyJoaXN0b3J5IjpbOTc0ODIxODMzLC02MjQ3MDE3NTEsMjQwNj
+Q5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUwMTgz
+OTEzLDEyNTY4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC
+0xMzE0NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2
+NzMyMTUsLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1Nz
+IsMTU5MDg5MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1MzcsLTIx
+MDc0MDc4NDFdfQ==
 -->
