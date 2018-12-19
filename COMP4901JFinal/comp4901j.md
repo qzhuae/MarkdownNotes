@@ -438,12 +438,14 @@ Why Generative Models?
 PixelCNN training is faster than PixelRNN, because can parallelize convolutions since context region values known from training images
 
 Generation must still proceed sequentially => still slow
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDc1ODM3MSwtMTc2NDkwNTM0NSwtMz
-I2ODI3OTM1LC0zMjY4Mjc5MzUsLTMwNDg0NDk5MCwtMTE1Njky
-ODY5NiwzMzgzNzA3MzQsMjA3OTY5NDk0OSwxOTUwODgyMjA5LC
-0xMDQ1MjQ5MDM5LDEwMTY4Mjg2NjMsMTgxMjgxODgwMywtMTM1
-MDA4NDQwOSwxMzgyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2Nz
-E3NiwtOTEwNzEzMDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEy
-MTUyOTQ4OTVdfQ==
+eyJoaXN0b3J5IjpbMTgxMDI1MDgxNSwxMzcwNzU4MzcxLC0xNz
+Y0OTA1MzQ1LC0zMjY4Mjc5MzUsLTMyNjgyNzkzNSwtMzA0ODQ0
+OTkwLC0xMTU2OTI4Njk2LDMzODM3MDczNCwyMDc5Njk0OTQ5LD
+E5NTA4ODIyMDksLTEwNDUyNDkwMzksMTAxNjgyODY2MywxODEy
+ODE4ODAzLC0xMzUwMDg0NDA5LDEzODI3NzYzOTEsLTE3NjUxOD
+M5NTgsNzQ5NzY3MTc2LC05MTA3MTMwMjYsODQ1OTI4NTMwLDc1
+NDEyOTY3M119
 -->
