@@ -336,15 +336,19 @@ Compute gradient of neuron value with respect to image pixels.
 Images come out nicer if you only backprop positive gradients through each ReLU (guided backprop)
 
 
+`Gradient Ascent`
+Generate a synthetic image that maximally activates a neuron
+`Guided Backprop`
+Find the part of an image that a neuron responds to
 
-
+$$I^* = \arg\max_I f(I)+R(I)$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDcxMzAyNiw4NDU5Mjg1MzAsNzU0MT
-I5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOTM1OTUyOTE0
-LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxND
-g3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMTc2MTQwNzY3
-MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2ODk3NTU1LD
-IwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1NTUwLDEwNzQw
-Mzc0NDBdfQ==
+eyJoaXN0b3J5IjpbLTE2NDM1NjYyNjIsLTkxMDcxMzAyNiw4ND
+U5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3
+OSwxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMz
+QwNTYxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkx
+MSwtMTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMy
+wxMjU2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMx
+NDQ1NTUwXX0=
 -->
