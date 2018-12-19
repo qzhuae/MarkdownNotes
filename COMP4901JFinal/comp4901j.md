@@ -282,15 +282,15 @@ Problem: convolutions at original image resolution are expensive
 Solution: Design network as a bunch of convolutional layers, with `downsampling` and `upsampling` 
 
 Downsampling: Pooling, Strided Convolution
-Upsamling: Nearest Neighbor, "Bed of Nails", Max Unpooling(Remember which element was max), Max Pooling(Use positions from pooling layer)
+Upsamling: `Nearest Neighbor`, `"Bed of Nails"`, `Max Unpooling` (Remember which element was max), `Max Pooling` (Use positions from pooling layer)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI3MDA2NTQsMTMxNjU1NjgyOSwzND
-A1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5OTEx
-LC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUwMTgzOTEzLD
-EyNTY4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0
-NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMyMT
-UsLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1NzIsMTU5
-MDg5MDUzNl19
+eyJoaXN0b3J5IjpbMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMz
+E2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1
+MSwyNDA2NDk5MTEsLTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLT
+EwNTAxODM5MTMsMTI1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5
+NTUzNjMsLTEzMTQ0NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMD
+gsLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5
+OTEwNjU3Ml19
 -->
