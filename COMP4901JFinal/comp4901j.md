@@ -317,13 +317,17 @@ Relatively fast to run; Selective Search gives 1000 region proposals in a few se
 
 ## Topic 13 Generative Models
 
-Last :aer
+Last Layer: L2 Nearest Neighbors in feature space
+4096-dimensional vector for an image
+
+Dimensionality Reduction: PCA or T
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NTU0NjkyLDg0NTkyODUzMCw3NTQxMj
-k2NzMsLTEyMTUyOTQ4OTUsOTk4OTExODc5LDE5MzU5NTI5MTQs
-LTEwNzI3MDA2NTQsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0OD
-cxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5OTExLC0xNzYxNDA3Njcx
-LC0yMDY3MjE1NjY0LC0xMDUwMTgzOTEzLDEyNTY4OTc1NTUsMj
-AyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAz
-NzQ0MF19
+eyJoaXN0b3J5IjpbMTg3NjAwODI0Myw4NDU5Mjg1MzAsNzU0MT
+I5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOTM1OTUyOTE0
+LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxND
+g3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMTc2MTQwNzY3
+MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2ODk3NTU1LD
+IwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1NTUwLDEwNzQw
+Mzc0NDBdfQ==
 -->
