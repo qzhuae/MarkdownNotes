@@ -306,9 +306,12 @@ Sliding Window: Apply a CNN to many different crops of the image, CNN classifies
 
 Problem: Need to apply CNN to huge number of locations and scales, very computationally expensive.
 
-`Region Proposal`
+`Region Proposal` Find blobby image regions that are likely to contain objects
+Relatively fast to run; Selective Search gives 1000 region proposals in a few seconds on CPU
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM4NTI3NDYsLTEyMTUyOTQ4OTUsOT
+eyJoaXN0b3J5IjpbLTEwMTcyMjU3NDcsLTEyMTUyOTQ4OTUsOT
 k4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1
 NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMj
 QwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUw
