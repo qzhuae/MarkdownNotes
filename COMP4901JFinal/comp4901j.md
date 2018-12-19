@@ -386,12 +386,16 @@ Generate pixels one at a time in scanline order; form neighborhood of already ge
 `Natural Texture Synthesis`
 [Image Lecture 11 P57]
 [Image Lecture 11 P61]
+
+Reconstructing texture from higher layers recovers larger features from the input texture
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2ODY1Njg2LC0xMDQ1MjQ5MDM5LDEwMT
-Y4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4NDQwOSwxMzgyNzc2
-MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEwNzEzMDI2LD
-g0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OTUsOTk4OTEx
-ODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1NjgyOS
-wzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5
-OTExXX0=
+eyJoaXN0b3J5IjpbLTEyNTU2OTIwNDksLTEwNDUyNDkwMzksMT
+AxNjgyODY2MywxODEyODE4ODAzLC0xMzUwMDg0NDA5LDEzODI3
+NzYzOTEsLTE3NjUxODM5NTgsNzQ5NzY3MTc2LC05MTA3MTMwMj
+YsODQ1OTI4NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5NSw5OTg5
+MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2OD
+I5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2
+NDk5MTFdfQ==
 -->
