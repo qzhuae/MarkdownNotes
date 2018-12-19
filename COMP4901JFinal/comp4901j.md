@@ -313,10 +313,6 @@ Relatively fast to run; Selective Search gives 1000 region proposals in a few se
 
 ## Topic 12 Visualizing and Understanding
 
-
-
-## Topic 13 Generative Models
-
 Last Layer: L2 Nearest Neighbors in feature space
 4096-dimensional vector for an image
 
@@ -324,14 +320,22 @@ Dimensionality Reduction: PCA or t-SNE
 
 `Maximally Activating Patches` Pick a layer and a channel; Run many images through the network, record values of chosen channel, Visualize image patches that correspond to maximal activations
 
-`Occlusion Experiements` Mask part of the image before feeding to CNN, draw heatmap of probability at each mast
+`Occlusion Experiements` Mask part of the image before feeding to CNN, draw heatmap of probability at each mask location.
+
+`Saliency Maps` Tell which pixels matter for classification. 
+
+Compute gradient of (unnormalized) class score with respect to image pixels, take absolute value and max over RGB channels
+
+`Segmentation without supervision` Use GrabCut on saliency map
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIwNjM2NTIsODQ1OTI4NTMwLDc1ND
-EyOTY3MywtMTIxNTI5NDg5NSw5OTg5MTE4NzksMTkzNTk1Mjkx
-NCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2MTA0Niw0MT
-Q4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEsLTE3NjE0MDc2
-NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMTI1Njg5NzU1NS
-wyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MCwxMDc0
-MDM3NDQwXX0=
+eyJoaXN0b3J5IjpbOTYwMDE4ODYzLDg0NTkyODUzMCw3NTQxMj
+k2NzMsLTEyMTUyOTQ4OTUsOTk4OTExODc5LDE5MzU5NTI5MTQs
+LTEwNzI3MDA2NTQsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0OD
+cxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5OTExLC0xNzYxNDA3Njcx
+LC0yMDY3MjE1NjY0LC0xMDUwMTgzOTEzLDEyNTY4OTc1NTUsMj
+AyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAz
+NzQ0MF19
 -->
