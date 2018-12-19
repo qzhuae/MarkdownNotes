@@ -418,15 +418,19 @@ Many methods for understanding CNN representations
 `Generative Models` Given training data, generate new samples from same distribution
 Want to learn $p_{model}(x)$ similar to $p_{data}(x)$
 
+Addresses density estimation, a core problem in unsupervised learning
+- Explicit density estimation: explicitly define and solve for p(x) (model)
+- Implicit density estimation: learn model that can sample from p(x) without explicitly defining it 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MzcwNzM0LDIwNzk2OTQ5NDksMTk1MD
-g4MjIwOSwtMTA0NTI0OTAzOSwxMDE2ODI4NjYzLDE4MTI4MTg4
-MDMsLTEzNTAwODQ0MDksMTM4Mjc3NjM5MSwtMTc2NTE4Mzk1OC
-w3NDk3NjcxNzYsLTkxMDcxMzAyNiw4NDU5Mjg1MzAsNzU0MTI5
-NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOTM1OTUyOTE0LC
-0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxNDg3
-MTYwOV19
+eyJoaXN0b3J5IjpbNDAwMTg5MTIyLDMzODM3MDczNCwyMDc5Nj
+k0OTQ5LDE5NTA4ODIyMDksLTEwNDUyNDkwMzksMTAxNjgyODY2
+MywxODEyODE4ODAzLC0xMzUwMDg0NDA5LDEzODI3NzYzOTEsLT
+E3NjUxODM5NTgsNzQ5NzY3MTc2LC05MTA3MTMwMjYsODQ1OTI4
+NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5NSw5OTg5MTE4NzksMT
+kzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2
+MTA0Nl19
 -->
