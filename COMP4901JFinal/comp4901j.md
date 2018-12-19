@@ -389,13 +389,16 @@ Generate pixels one at a time in scanline order; form neighborhood of already ge
 
 Reconstructing texture from higher layers recovers larger features from the input texture
 
+`Neural Style Transfer`
+[Image Lecture 11 P67]
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU2OTIwNDksLTEwNDUyNDkwMzksMT
-AxNjgyODY2MywxODEyODE4ODAzLC0xMzUwMDg0NDA5LDEzODI3
-NzYzOTEsLTE3NjUxODM5NTgsNzQ5NzY3MTc2LC05MTA3MTMwMj
-YsODQ1OTI4NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5NSw5OTg5
-MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2OD
-I5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2
-NDk5MTFdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTQzMjQ4MCwtMTA0NTI0OTAzOSwxMD
+E2ODI4NjYzLDE4MTI4MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3
+NjM5MSwtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNi
+w4NDU5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkx
+MTg3OSwxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4Mj
+ksMzQwNTYxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MDY0
+OTkxMV19
 -->
