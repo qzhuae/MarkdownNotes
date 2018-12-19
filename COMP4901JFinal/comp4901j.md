@@ -356,13 +356,13 @@ We can make use of better regularization: Penalize L2 norm of image; also during
 2. Clip pixels with small values to 0
 3. Clip pixels with small gradients to 0
 
-
+`Fooling Images/ Adversarial Examples
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjc3NjM5MSwtMTc2NTE4Mzk1OCw3ND
-k3NjcxNzYsLTkxMDcxMzAyNiw4NDU5Mjg1MzAsNzU0MTI5Njcz
-LC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOTM1OTUyOTE0LC0xMD
-cyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxNDg3MTYw
-OSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMTc2MTQwNzY3MSwtMj
-A2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2ODk3NTU1LDIwMjIz
-MjY2NjFdfQ==
+eyJoaXN0b3J5IjpbLTEzNTAwODQ0MDksMTM4Mjc3NjM5MSwtMT
+c2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNiw4NDU5Mjg1
+MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOT
+M1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYx
+MDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMT
+c2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2
+ODk3NTU1XX0=
 -->
