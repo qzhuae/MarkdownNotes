@@ -439,13 +439,20 @@ PixelCNN training is faster than PixelRNN, because can parallelize convolutions 
 
 Generation must still proceed sequentially => still slow
 
+Pros:
+- Can explicitly compute likelihood p(x)
+- Explicit likelihood of training data gives good evaluation metric
+- Good samples
+Con:
+- Slow sequential generation
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDI1MDgxNSwxMzcwNzU4MzcxLC0xNz
-Y0OTA1MzQ1LC0zMjY4Mjc5MzUsLTMyNjgyNzkzNSwtMzA0ODQ0
-OTkwLC0xMTU2OTI4Njk2LDMzODM3MDczNCwyMDc5Njk0OTQ5LD
-E5NTA4ODIyMDksLTEwNDUyNDkwMzksMTAxNjgyODY2MywxODEy
-ODE4ODAzLC0xMzUwMDg0NDA5LDEzODI3NzYzOTEsLTE3NjUxOD
-M5NTgsNzQ5NzY3MTc2LC05MTA3MTMwMjYsODQ1OTI4NTMwLDc1
-NDEyOTY3M119
+eyJoaXN0b3J5IjpbMzI4ODA5NTM4LDEzNzA3NTgzNzEsLTE3Nj
+Q5MDUzNDUsLTMyNjgyNzkzNSwtMzI2ODI3OTM1LC0zMDQ4NDQ5
+OTAsLTExNTY5Mjg2OTYsMzM4MzcwNzM0LDIwNzk2OTQ5NDksMT
+k1MDg4MjIwOSwtMTA0NTI0OTAzOSwxMDE2ODI4NjYzLDE4MTI4
+MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3NjM5MSwtMTc2NTE4Mz
+k1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNiw4NDU5Mjg1MzAsNzU0
+MTI5NjczXX0=
 -->
