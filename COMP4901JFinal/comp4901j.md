@@ -365,13 +365,19 @@ We can make use of better regularization: Penalize L2 norm of image; also during
 
 [Read Ian Goodfellow for Fooling Images]
 
-`DeepDream` Amplifyin 
+`DeepDream` Amplify existing features
+Rather than synthesizing an image to maximize a specific neuron, instead try to amplify the neuron activation at some layer in the network
+
+Choose an image and a layer in a CNN; repeat:
+1. Forward: compute activations at chosen layer
+2. Set gradient of chosen layer equal to its activation
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYwMDU5MTQsLTEzNTAwODQ0MDksMT
-M4Mjc3NjM5MSwtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcx
-MzAyNiw4NDU5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LD
-k5ODkxMTg3OSwxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1
-NTY4MjksMzQwNTYxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLD
-I0MDY0OTkxMSwtMTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1
-MDE4MzkxM119
+eyJoaXN0b3J5IjpbLTY2MjQ2NTMxOSwtMTM1MDA4NDQwOSwxMz
+gyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEwNzEz
+MDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OTUsOT
+k4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1
+NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMj
+QwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUw
+MTgzOTEzXX0=
 -->
