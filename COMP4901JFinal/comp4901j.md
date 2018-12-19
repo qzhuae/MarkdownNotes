@@ -328,10 +328,15 @@ Compute gradient of (unnormalized) class score with respect to image pixels, tak
 
 `Segmentation without supervision` Use GrabCut on saliency map
 
+`Intermediate Features via (guided) backprop`
+Compute gradient of neuron value with respect to image pixels.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMDE4ODYzLDg0NTkyODUzMCw3NTQxMj
+eyJoaXN0b3J5IjpbODg1Njc5ODAxLDg0NTkyODUzMCw3NTQxMj
 k2NzMsLTEyMTUyOTQ4OTUsOTk4OTExODc5LDE5MzU5NTI5MTQs
 LTEwNzI3MDA2NTQsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0OD
 cxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5OTExLC0xNzYxNDA3Njcx
