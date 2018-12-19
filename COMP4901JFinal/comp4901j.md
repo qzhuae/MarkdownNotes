@@ -289,12 +289,14 @@ Input gives weight for the filter, weighted sum where output overlaps, Filter mo
  
 conv1d_transpose
 Output contains copies of the filter weighted by the input, summing at overlaps in the output, **Need to crop on pixel from output to make output exactly 2$\times$ input**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDMyNDU5Nyw5OTg5MTE4NzksMTkzNT
-k1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2MTA0
-Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEsLTE3Nj
-E0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMTI1Njg5
-NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MC
-wxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtNDQz
-MjA3ODY3XX0=
+eyJoaXN0b3J5IjpbLTEyMTUyOTQ4OTUsOTk4OTExODc5LDE5Mz
+U5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1NjgyOSwzNDA1NjEw
+NDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5OTExLC0xNz
+YxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUwMTgzOTEzLDEyNTY4
+OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NT
+AsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMyMTUsLTQ0
+MzIwNzg2N119
 -->
