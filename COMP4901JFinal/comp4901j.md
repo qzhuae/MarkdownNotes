@@ -248,18 +248,18 @@ Forward through entire sequence to compute loss, then backward through entire se
 Truncated Backprop through time
 Run forward and backward through chunks of the sequence instead of whole sequence
 
-Carry hidden states forward in time forever,
+Carry hidden states forward in time forever, but only back-prop for some smaller number of steps
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NjAwMDM2LC0xMDUwMTgzOTEzLDEyNT
-Y4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1
-NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMyMTUsLT
-Q0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1NzIsMTU5MDg5
-MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1MzcsLTIxMDc0MDc4ND
-EsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4MjgsMTA0MDY2
-MzEyNl19
+eyJoaXN0b3J5IjpbNzE4NDcxMDgsLTEwNTAxODM5MTMsMTI1Nj
+g5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1
+MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtND
+QzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkw
+NTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MS
+wyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQwNjYz
+MTI2XX0=
 -->
