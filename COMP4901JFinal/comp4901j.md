@@ -274,10 +274,15 @@ Semantic Segmentation, Classification+Localization, Object Detection, Instance S
 
 *Semantic Segmentation* Label each pixel in the image with a category label. Do not differentiate instances, only care about pixels
 
+Idea1: sliding window on extracted patches
+Problem: Very inefficient! Not reusing shared features between overlapping patches
+
+Idea2: Full Convolution, Design a network as a bunch of convolutional layers to make predictions for pixels all at once!
+Problem 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDkxMDA2NCwxMzE2NTU2ODI5LDM0MD
+eyJoaXN0b3J5IjpbMjA0ODI2Nzk4MiwxMzE2NTU2ODI5LDM0MD
 U2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEs
 LTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMT
 I1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0
