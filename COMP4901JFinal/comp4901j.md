@@ -278,15 +278,19 @@ Idea1: sliding window on extracted patches
 Problem: Very inefficient! Not reusing shared features between overlapping patches
 
 Idea2: Full Convolution, Design a network as a bunch of convolutional layers to make predictions for pixels all at once!
-Problem 
+Problem: convolutions at original image resolution are expensive
+Solution: Design network as a bunch of convolutional layers, with `downsampling` and `upsampling` 
+
+Downsampling: Pooling, Strided Convolution
+Upsamling: Nearest Neighbor, "Bed of Nails", Max Uno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODI2Nzk4MiwxMzE2NTU2ODI5LDM0MD
-U2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEs
-LTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMT
-I1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0
-NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNS
-wtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkw
-ODkwNTM2XX0=
+eyJoaXN0b3J5IjpbMzI0OTY3MjI0LDEzMTY1NTY4MjksMzQwNT
+YxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwt
+MTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMywxMj
+U2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1
+NTUwLDEwNzQwMzc0NDAsMTQxNTQxNjAwOCwtNjY4NjczMjE1LC
+00NDMyMDc4NjcsNzk0OTYwMTQ3LC0xMjk5MTA2NTcyLDE1OTA4
+OTA1MzZdfQ==
 -->
