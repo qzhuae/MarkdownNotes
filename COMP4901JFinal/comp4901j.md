@@ -284,13 +284,13 @@ Solution: Design network as a bunch of convolutional layers, with `downsampling`
 Downsampling: Pooling, Strided Convolution
 Upsamling: `Nearest Neighbor`, `"Bed of Nails"`, `Max Unpooling` (Remember which element was max), `Max Pooling` (Use positions from pooling layer)
 
-
+`Transpose Convolution` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMz
-E2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1
-MSwyNDA2NDk5MTEsLTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLT
-EwNTAxODM5MTMsMTI1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5
-NTUzNjMsLTEzMTQ0NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMD
-gsLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5
-OTEwNjU3Ml19
+eyJoaXN0b3J5IjpbMTUwOTQ4Njc1MywxOTM1OTUyOTE0LC0xMD
+cyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxNDg3MTYw
+OSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMTc2MTQwNzY3MSwtMj
+A2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2ODk3NTU1LDIwMjIz
+MjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1NTUwLDEwNzQwMzc0ND
+AsMTQxNTQxNjAwOCwtNjY4NjczMjE1LC00NDMyMDc4NjcsNzk0
+OTYwMTQ3XX0=
 -->
