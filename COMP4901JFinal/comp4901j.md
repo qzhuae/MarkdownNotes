@@ -261,15 +261,16 @@ Vanilla RNN Gradient Flow
 Backprop from $h_t$ to $h_{t-1}$ multiplies by $W$ (actually $W^T_{hh}$)
 Computing gradient of $h_0$ involves many factors of $W$ and repeated tanh
 
-Exploding g
+Exploding gradients: Gradient Clipping: Scale gradient if its norm is too big.
+Van
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDcwMTc1MSwyNDA2NDk5MTEsLTE3Nj
-E0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMTI1Njg5
-NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MC
-wxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtNDQz
-MjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkwNT
-M2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MSwy
-NjY3NTIyNV19
+eyJoaXN0b3J5IjpbMTEwNzUxMzY1OSwtNjI0NzAxNzUxLDI0MD
+Y0OTkxMSwtMTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4
+MzkxMywxMjU2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2My
+wtMTMxNDQ1NTUwLDEwNzQwMzc0NDAsMTQxNTQxNjAwOCwtNjY4
+NjczMjE1LC00NDMyMDc4NjcsNzk0OTYwMTQ3LC0xMjk5MTA2NT
+cyLDE1OTA4OTA1MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0y
+MTA3NDA3ODQxXX0=
 -->
