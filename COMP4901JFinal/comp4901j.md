@@ -375,11 +375,14 @@ Equivalent to: $I^* = \arg\max_I\sum_if_i(I)^2$
 3. Backward: Compute gradient on image
 4. Update image
 
-Tricks: Jitter image; L1 Normalize Gradients; Clip pixel values, Also use
+Tricks: Jitter image; L1 Normalize Gradients; Clip pixel values, Also uses multiscale processing for a fractal effect
+
+`Feature Inversion`
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjI5MzU1MywxODEyODE4ODAzLC0xMz
+eyJoaXN0b3J5IjpbMTAxNjgyODY2MywxODEyODE4ODAzLC0xMz
 UwMDg0NDA5LDEzODI3NzYzOTEsLTE3NjUxODM5NTgsNzQ5NzY3
 MTc2LC05MTA3MTMwMjYsODQ1OTI4NTMwLDc1NDEyOTY3MywtMT
 IxNTI5NDg5NSw5OTg5MTE4NzksMTkzNTk1MjkxNCwtMTA3Mjcw
