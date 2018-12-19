@@ -343,14 +343,20 @@ Find the part of an image that a neuron responds to
 
 $$I^* = \arg\max_I f(I)+R(I)$$
 f Neuron value, R Natural image Regularizer
+1. Initialize image to zeros
+Repeat:
+2. Forward image to compute current scores
+3. Backprop to get gradient of neuron value with respect to image pixels
+4. Make a small update to the image
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NzY3MTc2LC05MTA3MTMwMjYsODQ1OT
-I4NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5NSw5OTg5MTE4Nzks
-MTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MD
-U2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEs
-LTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMT
-I1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0
-NTU1MF19
+eyJoaXN0b3J5IjpbLTE2OTg4NzMyMzMsNzQ5NzY3MTc2LC05MT
+A3MTMwMjYsODQ1OTI4NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5
+NSw5OTg5MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMz
+E2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1
+MSwyNDA2NDk5MTEsLTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLT
+EwNTAxODM5MTMsMTI1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5
+NTUzNjNdfQ==
 -->
