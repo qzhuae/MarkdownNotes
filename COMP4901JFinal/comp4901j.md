@@ -356,13 +356,20 @@ We can make use of better regularization: Penalize L2 norm of image; also during
 2. Clip pixels with small values to 0
 3. Clip pixels with small gradients to 0
 
-`Fooling Images/ Adversarial Examples
+`Fooling Images/ Adversarial Examples`
+
+1. Start from an arbitrary image
+2. Pick an arbitrary class
+3. Modify the image to maximize the class
+4. Repeat until network is fooled
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAwODQ0MDksMTM4Mjc3NjM5MSwtMT
-c2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNiw4NDU5Mjg1
-MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOT
-M1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYx
-MDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMT
-c2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2
-ODk3NTU1XX0=
+eyJoaXN0b3J5IjpbLTI1MDYxNDYwOSwtMTM1MDA4NDQwOSwxMz
+gyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEwNzEz
+MDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OTUsOT
+k4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1
+NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMj
+QwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUw
+MTgzOTEzXX0=
 -->
