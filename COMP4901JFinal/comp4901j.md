@@ -240,18 +240,20 @@ $y_t = W_{hy}h_t$
 [Many to One] Encode input sequence in a single vector
 [One to Many] Produce output sequence from single input vector
 
-At test
+At test-time sample characters one at a time, feed back to model.
+
+Forward through entire sequence
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ2NTYwNTQsLTEwNTAxODM5MTMsMT
-I1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0
-NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNS
-wtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkw
-ODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQwNz
-g0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQw
-NjYzMTI2XX0=
+eyJoaXN0b3J5IjpbMTA1NjY3MjU1MCwtMTA1MDE4MzkxMywxMj
+U2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1
+NTUwLDEwNzQwMzc0NDAsMTQxNTQxNjAwOCwtNjY4NjczMjE1LC
+00NDMyMDc4NjcsNzk0OTYwMTQ3LC0xMjk5MTA2NTcyLDE1OTA4
+OTA1MzYsLTIwOTY1NDc3MTgsOTQzMTIzNTM3LC0yMTA3NDA3OD
+QxLDI2Njc1MjI1LDExNjU1NDU4NywxMzgzNDY5ODI4LDEwNDA2
+NjMxMjZdfQ==
 -->
