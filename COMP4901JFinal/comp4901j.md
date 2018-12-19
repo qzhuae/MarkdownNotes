@@ -233,6 +233,9 @@ We can process a sequence of vectors $\bar{x}$ by applying a recurrence formula 
 $$h_t = f_W(h_{t-1},x_t)$$
 new state, some function with param W, old state, input vector at some time step
 
+**Vanilla Recurrent Neural Network**
+$h_t = tanh(W_{hh}h_{t=1}+W_{xh}x_t)$
+$y_t = W_{hy}h_t$
 
 
 
@@ -241,11 +244,11 @@ new state, some function with param W, old state, input vector at some time step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzM4NDA2NCwxMjU2ODk3NTU1LDIwMj
-IzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1NTUwLDEwNzQwMzc0
-NDAsMTQxNTQxNjAwOCwtNjY4NjczMjE1LC00NDMyMDc4NjcsNz
-k0OTYwMTQ3LC0xMjk5MTA2NTcyLDE1OTA4OTA1MzYsLTIwOTY1
-NDc3MTgsOTQzMTIzNTM3LC0yMTA3NDA3ODQxLDI2Njc1MjI1LD
-ExNjU1NDU4NywxMzgzNDY5ODI4LDEwNDA2NjMxMjYsLTE2MDgy
-MjM3NjJdfQ==
+eyJoaXN0b3J5IjpbMzM5OTY3MTQwLDEyNTY4OTc1NTUsMjAyMj
+MyNjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAzNzQ0
+MCwxNDE1NDE2MDA4LC02Njg2NzMyMTUsLTQ0MzIwNzg2Nyw3OT
+Q5NjAxNDcsLTEyOTkxMDY1NzIsMTU5MDg5MDUzNiwtMjA5NjU0
+NzcxOCw5NDMxMjM1MzcsLTIxMDc0MDc4NDEsMjY2NzUyMjUsMT
+E2NTU0NTg3LDEzODM0Njk4MjgsMTA0MDY2MzEyNiwtMTYwODIy
+Mzc2Ml19
 -->
