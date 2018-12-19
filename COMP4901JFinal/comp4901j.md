@@ -250,16 +250,17 @@ Run forward and backward through chunks of the sequence instead of whole sequenc
 
 Carry hidden states forward in time forever, but only back-prop for some smaller number of steps
 
-
+Image Captioning with Attention:
+RNN focuses its attention at a different spatial location when generating each word.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NDcxMDgsLTEwNTAxODM5MTMsMTI1Nj
-g5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1
-MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtND
-QzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkwODkw
-NTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQwNzg0MS
-wyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQwNjYz
-MTI2XX0=
+eyJoaXN0b3J5IjpbLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMT
+I1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0
+NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNS
+wtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkw
+ODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEyMzUzNywtMjEwNzQwNz
+g0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMTM4MzQ2OTgyOCwxMDQw
+NjYzMTI2XX0=
 -->
