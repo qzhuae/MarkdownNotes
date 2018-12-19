@@ -427,15 +427,15 @@ Why Generative Models?
 - Generative models for time-series data can be used for simulation and planning
 - Training generative models can also enable inference of latent representations that can be useful as general features
 
-
+[Image Lecture 13 P19]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDg0NDk5MCwtMTE1NjkyODY5NiwzMz
-gzNzA3MzQsMjA3OTY5NDk0OSwxOTUwODgyMjA5LC0xMDQ1MjQ5
-MDM5LDEwMTY4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4NDQwOS
-wxMzgyNzc2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEw
-NzEzMDI2LDg0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OT
-UsOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMx
-NjU1NjgyOV19
+eyJoaXN0b3J5IjpbLTMyNjgyNzkzNSwtMzA0ODQ0OTkwLC0xMT
+U2OTI4Njk2LDMzODM3MDczNCwyMDc5Njk0OTQ5LDE5NTA4ODIy
+MDksLTEwNDUyNDkwMzksMTAxNjgyODY2MywxODEyODE4ODAzLC
+0xMzUwMDg0NDA5LDEzODI3NzYzOTEsLTE3NjUxODM5NTgsNzQ5
+NzY3MTc2LC05MTA3MTMwMjYsODQ1OTI4NTMwLDc1NDEyOTY3My
+wtMTIxNTI5NDg5NSw5OTg5MTE4NzksMTkzNTk1MjkxNCwtMTA3
+MjcwMDY1NF19
 -->
