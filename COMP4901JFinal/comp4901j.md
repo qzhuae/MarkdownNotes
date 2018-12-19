@@ -381,13 +381,18 @@ Tricks: Jitter image; L1 Normalize Gradients; Clip pixel values, Also uses multi
 [Image Lecture 11 P49]
 
 `Texture Synthesis` Nearest Neighbor
-Generate pixels one at a time in scanline order; form neighborhood of already generated pixels and copy nearest neighbor from inpu
+Generate pixels one at a time in scanline order; form neighborhood of already generated pixels and copy nearest neighbor from input
+
+`Natural Texture Synthesis`
+[Image Lecture 11 P57]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0MjkxMTA3LC0xMDQ1MjQ5MDM5LDEwMT
-Y4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4NDQwOSwxMzgyNzc2
-MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEwNzEzMDI2LD
-g0NTkyODUzMCw3NTQxMjk2NzMsLTEyMTUyOTQ4OTUsOTk4OTEx
-ODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2NTQsMTMxNjU1NjgyOS
-wzNDA1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5
-OTExXX0=
+eyJoaXN0b3J5IjpbMTk5ODA3ODI5MiwtMTA0NTI0OTAzOSwxMD
+E2ODI4NjYzLDE4MTI4MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3
+NjM5MSwtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNi
+w4NDU5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkx
+MTg3OSwxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4Mj
+ksMzQwNTYxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MDY0
+OTkxMV19
 -->
