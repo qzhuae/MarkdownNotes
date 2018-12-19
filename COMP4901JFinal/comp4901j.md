@@ -420,17 +420,18 @@ Want to learn $p_{model}(x)$ similar to $p_{data}(x)$
 
 Addresses density estimation, a core problem in unsupervised learning
 - Explicit density estimation: explicitly define and solve for p(x) (model)
-- Implicit density estimation: learn model that can sample from p(x) without explicitly defining it 
+- Implicit density estimation: learn model that can sample from p(x) (model) without explicitly defining it 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMTg5MTIyLDMzODM3MDczNCwyMDc5Nj
-k0OTQ5LDE5NTA4ODIyMDksLTEwNDUyNDkwMzksMTAxNjgyODY2
-MywxODEyODE4ODAzLC0xMzUwMDg0NDA5LDEzODI3NzYzOTEsLT
-E3NjUxODM5NTgsNzQ5NzY3MTc2LC05MTA3MTMwMjYsODQ1OTI4
-NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5NSw5OTg5MTE4NzksMT
-kzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2
-MTA0Nl19
+eyJoaXN0b3J5IjpbLTExNTY5Mjg2OTYsMzM4MzcwNzM0LDIwNz
+k2OTQ5NDksMTk1MDg4MjIwOSwtMTA0NTI0OTAzOSwxMDE2ODI4
+NjYzLDE4MTI4MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3NjM5MS
+wtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNiw4NDU5
+Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OS
+wxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQw
+NTYxMDQ2XX0=
 -->
