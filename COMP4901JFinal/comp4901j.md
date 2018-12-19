@@ -264,11 +264,13 @@ Computing gradient of $h_0$ involves many factors of $W$ and repeated tanh
 Exploding gradients: Gradient Clipping: Scale gradient if its norm is too big.
 Vanishing gradients: Change RNN Architecture
 
+[Image Lecture 10 P99]
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0ODIxODMzLC02MjQ3MDE3NTEsMjQwNj
+eyJoaXN0b3J5IjpbNDE0ODcxNjA5LC02MjQ3MDE3NTEsMjQwNj
 Q5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUwMTgz
 OTEzLDEyNTY4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC
 0xMzE0NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2
