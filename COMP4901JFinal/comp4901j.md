@@ -391,10 +391,19 @@ Reconstructing texture from higher layers recovers larger features from the inpu
 
 `Neural Style Transfer`
 [Image Lecture 11 P67]
+Resizing style image before running style transfer algorithm can transfer different types of features
 
+Multiple Style Image: Mix style from multiple images by taking a weighted average of Gram matrices
 
+Problem: Style transfer requires many forward / backward passes through VGG; very slow!
+
+Solution: Train another neural network to perform style transfer for us!
+
+[Image Lecture 11 P78]
+
+Replacing batch normalization with Instance Normalization improves results
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTQzMjQ4MCwtMTA0NTI0OTAzOSwxMD
+eyJoaXN0b3J5IjpbLTQxNzQ0NzYzNiwtMTA0NTI0OTAzOSwxMD
 E2ODI4NjYzLDE4MTI4MTg4MDMsLTEzNTAwODQ0MDksMTM4Mjc3
 NjM5MSwtMTc2NTE4Mzk1OCw3NDk3NjcxNzYsLTkxMDcxMzAyNi
 w4NDU5Mjg1MzAsNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5ODkx
