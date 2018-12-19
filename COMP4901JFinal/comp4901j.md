@@ -320,14 +320,18 @@ Relatively fast to run; Selective Search gives 1000 region proposals in a few se
 Last Layer: L2 Nearest Neighbors in feature space
 4096-dimensional vector for an image
 
-Dimensionality Reduction: PCA or T
+Dimensionality Reduction: PCA or t-SNE
+
+`Maximally Activating Patches` Pick a layer and a channel; Run many images through the network, record values of chosen channel, Visualize image patches that correspond to maximal activations
+
+`Occlusion Experiements` Mask part of the image before feeding to CNN, draw heatmap of probability at each mast
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjAwODI0Myw4NDU5Mjg1MzAsNzU0MT
-I5NjczLC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOTM1OTUyOTE0
-LC0xMDcyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxND
-g3MTYwOSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMTc2MTQwNzY3
-MSwtMjA2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2ODk3NTU1LD
-IwMjIzMjY2NjEsLTkyNDk1NTM2MywtMTMxNDQ1NTUwLDEwNzQw
-Mzc0NDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTIwNjM2NTIsODQ1OTI4NTMwLDc1ND
+EyOTY3MywtMTIxNTI5NDg5NSw5OTg5MTE4NzksMTkzNTk1Mjkx
+NCwtMTA3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2MTA0Niw0MT
+Q4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEsLTE3NjE0MDc2
+NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMTI1Njg5NzU1NS
+wyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MCwxMDc0
+MDM3NDQwXX0=
 -->
