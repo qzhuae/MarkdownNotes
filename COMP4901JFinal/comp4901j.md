@@ -270,14 +270,18 @@ Vanishing gradients: Change RNN Architecture
 
 ## Topic 11 Detection and Segmentation
 
-em
+Semantic Segmentation, Classification+Localization, Object Detection, Instance Segmentation
+
+*Semantic Segmentation* Label each pixel in the image with a category label. Do not differentiate instances, only care about pixels
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg2NjIwOTEsMTMxNjU1NjgyOSwzND
-A1NjEwNDYsNDE0ODcxNjA5LC02MjQ3MDE3NTEsMjQwNjQ5OTEx
-LC0xNzYxNDA3NjcxLC0yMDY3MjE1NjY0LC0xMDUwMTgzOTEzLD
-EyNTY4OTc1NTUsMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMzE0
-NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMyMT
-UsLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1NzIsMTU5
-MDg5MDUzNl19
+eyJoaXN0b3J5IjpbMjAzNDkxMDA2NCwxMzE2NTU2ODI5LDM0MD
+U2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEs
+LTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLTEwNTAxODM5MTMsMT
+I1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0
+NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNS
+wtNDQzMjA3ODY3LDc5NDk2MDE0NywtMTI5OTEwNjU3MiwxNTkw
+ODkwNTM2XX0=
 -->
