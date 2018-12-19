@@ -351,14 +351,18 @@ Repeat:
 3. Backprop to get gradient of neuron value with respect to image pixels
 4. Make a small update to the image
 
+We can make use of better regularization: Penalize L2 norm of image; also during optimization periodically
+1. Gaussian blur image
+2. Clip pixels with small values to 0
+3. Clip pixels with small gradients to 0
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUxODM5NTgsNzQ5NzY3MTc2LC05MT
-A3MTMwMjYsODQ1OTI4NTMwLDc1NDEyOTY3MywtMTIxNTI5NDg5
-NSw5OTg5MTE4NzksMTkzNTk1MjkxNCwtMTA3MjcwMDY1NCwxMz
-E2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2MDksLTYyNDcwMTc1
-MSwyNDA2NDk5MTEsLTE3NjE0MDc2NzEsLTIwNjcyMTU2NjQsLT
-EwNTAxODM5MTMsMTI1Njg5NzU1NSwyMDIyMzI2NjYxLC05MjQ5
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTM4Mjc3NjM5MSwtMTc2NTE4Mzk1OCw3ND
+k3NjcxNzYsLTkxMDcxMzAyNiw4NDU5Mjg1MzAsNzU0MTI5Njcz
+LC0xMjE1Mjk0ODk1LDk5ODkxMTg3OSwxOTM1OTUyOTE0LC0xMD
+cyNzAwNjU0LDEzMTY1NTY4MjksMzQwNTYxMDQ2LDQxNDg3MTYw
+OSwtNjI0NzAxNzUxLDI0MDY0OTkxMSwtMTc2MTQwNzY3MSwtMj
+A2NzIxNTY2NCwtMTA1MDE4MzkxMywxMjU2ODk3NTU1LDIwMjIz
+MjY2NjFdfQ==
 -->
