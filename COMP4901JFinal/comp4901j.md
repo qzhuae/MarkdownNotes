@@ -285,13 +285,14 @@ Downsampling: Pooling, Strided Convolution
 Upsamling: `Nearest Neighbor`, `"Bed of Nails"`, `Max Unpooling` (Remember which element was max), `Max Pooling` (Use positions from pooling layer)
 
 `Transpose Convolution` 
-Input gives weight for the filter, w
+Input gives weight for the filter, weighted sum where output overlaps, Filter moves 2(stride) pixels in the output for every one pixel in the input, **Stride gives ratio between movement in output and input**
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU4OTEyNjYsMTkzNTk1MjkxNCwtMT
-A3MjcwMDY1NCwxMzE2NTU2ODI5LDM0MDU2MTA0Niw0MTQ4NzE2
-MDksLTYyNDcwMTc1MSwyNDA2NDk5MTEsLTE3NjE0MDc2NzEsLT
-IwNjcyMTU2NjQsLTEwNTAxODM5MTMsMTI1Njg5NzU1NSwyMDIy
-MzI2NjYxLC05MjQ5NTUzNjMsLTEzMTQ0NTU1MCwxMDc0MDM3ND
-QwLDE0MTU0MTYwMDgsLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5
-NDk2MDE0N119
+eyJoaXN0b3J5IjpbOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNz
+I3MDA2NTQsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5
+LC02MjQ3MDE3NTEsMjQwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMD
+Y3MjE1NjY0LC0xMDUwMTgzOTEzLDEyNTY4OTc1NTUsMjAyMjMy
+NjY2MSwtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAzNzQ0MC
+wxNDE1NDE2MDA4LC02Njg2NzMyMTUsLTQ0MzIwNzg2Nyw3OTQ5
+NjAxNDddfQ==
 -->
