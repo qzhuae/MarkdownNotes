@@ -226,8 +226,6 @@ Other architectures to keep in mind are:
 
 Image Captioning -> Sentiment Classification -> Machine Translation -> Video Classification on frame level
 
-
-
 Sequential Processing of Non-Sequence Data
 
 
@@ -239,16 +237,12 @@ Sequential Processing of Non-Sequence Data
 
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjMyNjY2MSwtOTI0OTU1MzYzLC0xMz
-E0NDU1NTAsMTA3NDAzNzQ0MCwxNDE1NDE2MDA4LC02Njg2NzMy
-MTUsLTQ0MzIwNzg2Nyw3OTQ5NjAxNDcsLTEyOTkxMDY1NzIsMT
-U5MDg5MDUzNiwtMjA5NjU0NzcxOCw5NDMxMjM1MzcsLTIxMDc0
-MDc4NDEsMjY2NzUyMjUsMTE2NTU0NTg3LDEzODM0Njk4MjgsMT
-A0MDY2MzEyNiwtMTYwODIyMzc2Miw5MzI4NDQ4NjcsLTIwMjMw
-Nzg2NzNdfQ==
+eyJoaXN0b3J5IjpbMTI1Njg5NzU1NSwyMDIyMzI2NjYxLC05Mj
+Q5NTUzNjMsLTEzMTQ0NTU1MCwxMDc0MDM3NDQwLDE0MTU0MTYw
+MDgsLTY2ODY3MzIxNSwtNDQzMjA3ODY3LDc5NDk2MDE0NywtMT
+I5OTEwNjU3MiwxNTkwODkwNTM2LC0yMDk2NTQ3NzE4LDk0MzEy
+MzUzNywtMjEwNzQwNzg0MSwyNjY3NTIyNSwxMTY1NTQ1ODcsMT
+M4MzQ2OTgyOCwxMDQwNjYzMTI2LC0xNjA4MjIzNzYyLDkzMjg0
+NDg2N119
 -->
-
-
-
