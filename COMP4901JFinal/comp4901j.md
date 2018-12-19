@@ -310,12 +310,16 @@ Problem: Need to apply CNN to huge number of locations and scales, very computat
 Relatively fast to run; Selective Search gives 1000 region proposals in a few seconds on CPU
 
 [Lecture 11 P63] RCNN
+
+## Topic 12 Visualizing and Understanding
+
+## Topic 13 Generative Model
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MTI5NjczLC0xMjE1Mjk0ODk1LDk5OD
-kxMTg3OSwxOTM1OTUyOTE0LC0xMDcyNzAwNjU0LDEzMTY1NTY4
-MjksMzQwNTYxMDQ2LDQxNDg3MTYwOSwtNjI0NzAxNzUxLDI0MD
-Y0OTkxMSwtMTc2MTQwNzY3MSwtMjA2NzIxNTY2NCwtMTA1MDE4
-MzkxMywxMjU2ODk3NTU1LDIwMjIzMjY2NjEsLTkyNDk1NTM2My
-wtMTMxNDQ1NTUwLDEwNzQwMzc0NDAsMTQxNTQxNjAwOCwtNjY4
-NjczMjE1XX0=
+eyJoaXN0b3J5IjpbLTI0MzMyMzMxMyw3NTQxMjk2NzMsLTEyMT
+UyOTQ4OTUsOTk4OTExODc5LDE5MzU5NTI5MTQsLTEwNzI3MDA2
+NTQsMTMxNjU1NjgyOSwzNDA1NjEwNDYsNDE0ODcxNjA5LC02Mj
+Q3MDE3NTEsMjQwNjQ5OTExLC0xNzYxNDA3NjcxLC0yMDY3MjE1
+NjY0LC0xMDUwMTgzOTEzLDEyNTY4OTc1NTUsMjAyMjMyNjY2MS
+wtOTI0OTU1MzYzLC0xMzE0NDU1NTAsMTA3NDAzNzQ0MCwxNDE1
+NDE2MDA4XX0=
 -->
