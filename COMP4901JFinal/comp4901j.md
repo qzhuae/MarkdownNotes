@@ -1,6 +1,4 @@
 
-
-
 > Written with [StackEdit](https://stackedit.io/).
 
 https://www.mergersandinquisitions.com/quant-hedge-funds/
@@ -35,6 +33,8 @@ http://courses.csail.mit.edu/6.034s/resources.html
 https://ai6034.mit.edu/wiki/index.php?title=Reference_material_and_playlist
 
 https://course.cse.ust.hk/comp4901j/Password_Only/about/F17fin_key.pdf
+
+http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf
 
 ## Topic 8 Deep Learning Software
 
@@ -264,8 +264,7 @@ Computing gradient of $h_0$ involves many factors of $W$ and repeated tanh
 Exploding gradients: Gradient Clipping: Scale gradient if its norm is too big.
 Vanishing gradients: Change RNN Architecture
 
-[Image Lecture 10 P99]
-[Image Lecture 10 P102]
+[Image Lecture 10 P99][Image Lecture 10 P102]
 [Image Lecture 10 P103] `GRU`
 
 ## Topic 11 Detection and Segmentation
@@ -286,7 +285,7 @@ Upsamling: `Nearest Neighbor`, `"Bed of Nails"`, `Max Unpooling` (Remember which
 
 `Transpose Convolution` 
 Input gives weight for the filter, weighted sum where output overlaps, Filter moves 2(stride) pixels in the output for every one pixel in the input, **Stride gives ratio between movement in output and input**
- 
+
 `conv1d_transpose`
 Output contains copies of the filter weighted by the input, summing at overlaps in the output, **Need to crop on pixel from output to make output exactly 2$\times$ input**
 
@@ -345,6 +344,7 @@ $$I^* = \arg\max_I f(I)+R(I)$$
 f Neuron value, R Natural image Regularizer
 $\arg\max_I S_c(I) - \lambda ||I||_2^2$
 score for class c (before softmax)
+
 1. Initialize image to zeros
 Repeat:
 2. Forward image to compute current scores
@@ -384,8 +384,7 @@ Tricks: Jitter image; L1 Normalize Gradients; Clip pixel values, Also uses multi
 Generate pixels one at a time in scanline order; form neighborhood of already generated pixels and copy nearest neighbor from input
 
 `Natural Texture Synthesis`
-[Image Lecture 11 P57]
-[Image Lecture 11 P61]
+[Image Lecture 11 P57][Image Lecture 11 P61]
 
 Reconstructing texture from higher layers recovers larger features from the input texture
 
@@ -448,7 +447,153 @@ Con:
 
 `Variational Autoencoders (VAE)`
 
+ 
+
+VAEs define intractable density function with latent z:
+
+$p_\theta (x) = \int p_\theta(z)p_\theta(x|z)dz$
+
+Cannot optimize directly, derive and optimize lower bound on likelihood instead.
+
+![Lecture13P40](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/Lecture13P40.png)
+
+How to learn this feature representation?
+
+Train such that features can be used to reconstruct original data - encoding itself. Minimize L2 Loss function
+
+
+
+Encoder can be used to initialized a supervised model. Can fine-tune encoder jointly with classifier. 
+
+
+
+Autoencoders can reconstruct data, and can learn features to initialize a supervised model. Features capture factors of variation in training data. 
+
+Can we generate new images from an autoencoder?
+
+Probabilistic spin on autoencoders - will let us sample from the model to generate data!
+
+
+
+[Refer to Handwritten Notes]
+
+[P50-P67]
+
+![VAEIntract](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/VAEIntract.png)
+
+![VAEProb](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/VAEProb.png)
+
+[Lecture 13 P71]
+
+![VAEProCon](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/VAEProCon.png) 
+
+[$\uparrow$Lecture 13 P97] 
+
+
+
+**Generative Adversarial Networks**
+
+GANs: don’t work with any explicit density function! Instead, take game-theoretic approach: learn to generate from training distribution through 2-player game
+
+Want to sample from complex, high-dim training distribution. 
+
+Sample from a simple distribution, e.g. random noise. Learn transformation to training distribution. 
+
+![Minmax](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/Minmax.png)
+
+![Lecture13P110](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/Lecture13P110.png)
+
+![Lecture13P112](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/Lecture13P112.png)
+
+![TrainingGAN](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/TrainingGAN.png)
+
+
+
+![GANProCon](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/GANProCon.png)
+
+
+
+**Recap**
+
+- PixelRNN and PixelCNN: Explicit density model, optimizes exact likelihood, good samples. But inefficient sequential generation.
+
+- VAE: Optimize variational lower bound on likelihood. Useful latent representation, inference queries. But current sample quality not the best.
+- Generative Adversarial Networks (GANs): Game-theoretic approach, best samples! But can be tricky and unstable to train, no inference queries.
+
+
+
+
+
+
+
 ## Topic 14 Reinforcement Learning
+
+
+
+Problems involving an agent interacting with an environment, which provides numeric reward signals. Goal: Learn how to take actions in order to maximize reward
+
+
+
+`Markov Decision Process`
+
+`Markov Property` Current state completely characterizes the state of the world.
+
+![MDP](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/MDP.png)
+
+![MDP2](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/MDP2.png)
+
+[Lecture 14 P23] To [Lecture 14 P49]
+
+
+
+**Experience Relay**
+
+Learning from batches of consecutive samples is problematic:
+
+- Samples are correlated => inefficient learning
+- Current Q-network parameters determines next training samples (e.g. if maximizing
+  action is to move left, training samples will be dominated by samples from left-hand
+  side) => can lead to bad feedback loops
+
+Address these problems using experience replay
+
+- Continually update a replay memory table of transitions (st, at, rt, st+1) as game (experience) episodes are played
+
+- Train Q-network on random minibatches of transitions from the replay memory,
+  instead of consecutive samples 
+
+Each transition can also contribute to multiple weight updates => Greater data efficiency
+
+
+
+![DeepQLearnExperienceRelay](/Users/stephen/Desktop/Workspace/MarkdownNotes/COMP4901JFinal/img/DeepQLearnExperienceRelay.png)
+
+
+
+**Policy Gradients**
+
+What is a problem with Q-learning? The Q-function can be very complicated!
+
+Hard to learn exact value of every (state, action) pair
+
+But the policy can be much simpler
+
+Can we learn a policy directly, finding the best policy from a collection of policies?
+
+[Lecture 14 P65] To [Lecture14 P]
+
+## Some Readings
+
+https://www.nature.com/articles/s41586-018-0102-6
+
+
+
+Soft attention vs. Hard attention https://stackoverflow.com/questions/35549588/soft-attention-vs-hard-attention
+
+
+
+
+
 
 
 <!--stackedit_data:
@@ -460,3 +605,6 @@ MTY4Mjg2NjMsMTgxMjgxODgwMywtMTM1MDA4NDQwOSwxMzgyNz
 c2MzkxLC0xNzY1MTgzOTU4LDc0OTc2NzE3NiwtOTEwNzEzMDI2
 LDg0NTkyODUzMF19
 -->
+
+
+
