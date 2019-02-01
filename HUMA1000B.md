@@ -11,7 +11,11 @@ Philosophic argument to elaborate your point and your belief
 
 Example about definition: what is the definition of philosophy
 
+What is required? Strongest reason? What is most important for human beings?
+
+Newspaper or television interview? Survival? Help me survive
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc4MjE1MzRdfQ==
+eyJoaXN0b3J5IjpbMTM2MjI5MzgzNF19
 -->
