@@ -57,10 +57,9 @@ A scenario in which your true love, during your final year you have financial ab
 
 Why so serious?
 
-Essay prompt 2
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLT
-EyMTA3MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMjEwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMj
+A1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNTc4LDExMDc4
+MzkzNDJdfQ==
 -->
