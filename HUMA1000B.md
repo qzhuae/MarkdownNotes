@@ -26,7 +26,6 @@ Gather empirical evidence from environment. Convince with Reason and Evidence in
 No religion in traditional Chinese philosophy. Will include some topics in the Four Books.
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzYzNzY5MCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbNTI2NDA2MDI4LDExMDc4MzkzNDJdfQ==
 -->
