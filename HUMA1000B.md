@@ -21,8 +21,10 @@ Definition of required course: required for all HKUST how to convince your oppon
 
 Ask all HKUST graduate to show you their transcript.
 
-Gather empirical evidence from 
+Gather empirical evidence from environment. Convince with Reason and Evidence instead of Beliefs or Rumors.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjQ1OTIwOF19
+eyJoaXN0b3J5IjpbMTEwNzgzOTM0Ml19
 -->
