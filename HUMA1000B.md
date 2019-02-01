@@ -29,8 +29,10 @@ Before you submit your assignment, pay attention to the description.
 
 Philosophy is better with the dialogue and interaction. No question from readings.
 
+Help you prepare argument in the essays.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzYzNzc5MywtMTIxMDcxODQyOSwxND
-U3MjAxNTc4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbNDE2NDI5NDEzLC0xMjEwNzE4NDI5LDE0NT
+cyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
