@@ -15,7 +15,14 @@ What is required? Strongest reason? What is most important for human beings?
 
 Newspaper or television interview? Survival? Help me survive
 
+Misunderstanding about HUMA1000B? Not required?
+
+Definition of required course: required for all HKUST how to convince your opponent? 
+
+Ask all HKUST graduate to show you their transcript.
+
+Gather empirical evidence from 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjI5MzgzNF19
+eyJoaXN0b3J5IjpbLTU0NjQ1OTIwOF19
 -->
