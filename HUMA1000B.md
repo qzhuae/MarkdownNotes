@@ -37,8 +37,10 @@ What do you mean by responsible citizen? respect different perspectives, employ 
 
 Philosophy - abstract ideas
 
-Assigned readings article and book chapters, Chinese traditional text. I use bilingual text hear. Two topics in 
+Assigned readings article and book chapters, Chinese traditional text. I use bilingual text hear. Two topics in philosophical tradition. 
+
+**What is this one concept?**  Morality is one of the two topics, and philosophical life. Moral Judgement and Life. Insight of Chinese philosophy does not give answer but help you find a way in dif
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYwMjUxNDgsLTEyMTA3MTg0MjksMT
-Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbOTY3ODMzMTQwLC0xMjEwNzE4NDI5LDE0NT
+cyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
