@@ -23,8 +23,10 @@ Ask all HKUST graduate to show you their transcript.
 
 Gather empirical evidence from environment. Convince with Reason and Evidence instead of Beliefs or Rumors.
 
+No religion in traditional Chinese philosophy. Will include some topics in the Four Books.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbMTEwMzYzNzY5MCwxMTA3ODM5MzQyXX0=
 -->
