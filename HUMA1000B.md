@@ -39,8 +39,16 @@ Philosophy - abstract ideas
 
 Assigned readings article and book chapters, Chinese traditional text. I use bilingual text hear. Two topics in philosophical tradition. 
 
-**What is this one concept?**  Morality is one of the two topics, and philosophical life. Moral Judgement and Life. Insight of Chinese philosophy does not give answer but help you find a way in dif
+**What is this one concept?**  Morality is one of the two topics, and philosophical life. Moral Judgement and Life. Insight of Chinese philosophy does not give answer but help you find a way in difficult situation in your life. 
+
+Yin and Yang: Balance of positive and negative force. 
+
+One concept - Dao
+
+This concept can not be explained. How to elaborate the concept. 
+
+**What is Ethics?**  Righteousness 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3ODMzMTQwLC0xMjEwNzE4NDI5LDE0NT
+eyJoaXN0b3J5IjpbMzk4MzA5NzIwLC0xMjEwNzE4NDI5LDE0NT
 cyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
