@@ -31,8 +31,8 @@ Philosophy is better with the dialogue and interaction. No question from reading
 
 Help you prepare argument in the essays.
 
-
+HKUST's mission and vission
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NDI5NDEzLC0xMjEwNzE4NDI5LDE0NT
-cyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbLTIxMTk3MTc4MDAsLTEyMTA3MTg0MjksMT
+Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
 -->
