@@ -27,8 +27,10 @@ No religion in traditional Chinese philosophy. Will include some topics in the F
 
 Before you submit your assignment, pay attention to the description.
 
-Philosophy is better with the dialogue and interaction.
+Philosophy is better with the dialogue and interaction. No question from readings.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA3MTg0MjksMTQ1NzIwMTU3OCwxMT
-A3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMTA5NzYzNzc5MywtMTIxMDcxODQyOSwxND
+U3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
