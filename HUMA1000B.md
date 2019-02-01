@@ -53,8 +53,8 @@ One vs Five is simple. Changing situation if the one person is you, will you sel
 
 Help me try to find my own answer about moral belief.
 
-A scenario in which your true love, during your final year you have financial ability to s
+A scenario in which your true love, during your final year you have financial ability to support your family, but your partner to start a real life. Batman is very lucky, superpower - very rich and your parents die in your early age. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjIyNTkxNCwtMTIxMDcxODQyOSwxND
+eyJoaXN0b3J5IjpbLTM0NDUzMDQ4MCwtMTIxMDcxODQyOSwxND
 U3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
