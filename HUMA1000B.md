@@ -55,8 +55,10 @@ Help me try to find my own answer about moral belief.
 
 A scenario in which your true love, during your final year you have financial ability to support your family, but your partner to start a real life. Batman is very lucky, superpower - very rich and your parents die in your early age. 
 
-Why so serious? 
+Why so serious?
+
+Essay 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMT
-Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbNTczNjQ0NDc0LC0yMDUyMTQ3NjYxLC0xMj
+EwNzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
