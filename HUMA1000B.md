@@ -37,8 +37,8 @@ What do you mean by responsible citizen? respect different perspectives, employ 
 
 Philosophy - abstract ideas
 
-Assigned readings article and book chapters, Chinese traditiona
+Assigned readings article and book chapters, Chinese traditional text. I use bilingual text hear. Two topics in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMTc1NDM0LC0xMjEwNzE4NDI5LDE0NT
-cyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbLTE1MTYwMjUxNDgsLTEyMTA3MTg0MjksMT
+Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
 -->
