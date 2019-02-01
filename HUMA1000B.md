@@ -25,8 +25,10 @@ Gather empirical evidence from environment. Convince with Reason and Evidence in
 
 No religion in traditional Chinese philosophy. Will include some topics in the Four Books.
 
-Before you submit your assignment, pay attention to the description
+Before you submit your assignment, pay attention to the description.
+
+Philosophy is better with the dialogue and interaction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjI3MTgsMTQ1NzIwMTU3OCwxMTA3OD
-M5MzQyXX0=
+eyJoaXN0b3J5IjpbLTEyMTA3MTg0MjksMTQ1NzIwMTU3OCwxMT
+A3ODM5MzQyXX0=
 -->
