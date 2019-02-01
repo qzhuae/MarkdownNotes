@@ -47,8 +47,10 @@ One concept - Dao
 
 This concept can not be explained. How to elaborate the concept. 
 
-**What is Ethics?**  Righteousness 
+**What is Ethics?**  Righteousness, Torrey Cart Problem. 
+
+One vs Five is simple. Changing situation if the one person is you, will you self sacrifice. Why I am a responsible citizen, pay tax, charity, why do I need to be sacrificed, what is the reason to save 5 instead of 1. IMpo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzA5NzIwLC0xMjEwNzE4NDI5LDE0NT
-cyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbLTEzMjczNTcwNjMsLTEyMTA3MTg0MjksMT
+Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
 -->
