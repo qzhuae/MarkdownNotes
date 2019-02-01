@@ -34,7 +34,11 @@ Help you prepare argument in the essays.
 HKUST's mission and vision - Impression (Job Markets) Lucky the best career center. Told you that you have to have a clear plan starting from the first day. I just want to enjoy my real life. Do course, do internship, prepare responsible citizen to the society?
 
 What do you mean by responsible citizen? respect different perspectives, employ an international outlook, survive in a unpredictable future. 
+
+Philosophy - abstract ideas
+
+Assigned readings article and book chapters, Chinese traditiona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ3MDgzNTksLTEyMTA3MTg0MjksMT
-Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbNzMxMTc1NDM0LC0xMjEwNzE4NDI5LDE0NT
+cyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
