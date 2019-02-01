@@ -51,10 +51,10 @@ This concept can not be explained. How to elaborate the concept.
 
 One vs Five is simple. Changing situation if the one person is you, will you self sacrifice. Why I am a responsible citizen, pay tax, charity, why do I need to be sacrificed, what is the reason to save 5 instead of 1. Importnat Q about morality, why do we need to care bout others? What is wrong with some one who only cares about him self. Moral belief. 
 
-Help me try to find my own answer about moral belief. 
+Help me try to find my own answer about moral belief.
 
-
+A scenario in which your true love, during your final year you have financial ability to s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzE2ODg1MSwtMTIxMDcxODQyOSwxND
+eyJoaXN0b3J5IjpbMTg1NjIyNTkxNCwtMTIxMDcxODQyOSwxND
 U3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
