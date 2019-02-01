@@ -31,8 +31,8 @@ Philosophy is better with the dialogue and interaction. No question from reading
 
 Help you prepare argument in the essays.
 
-HKUST's mission and vission
+HKUST's mission and vision - Impression (Job Markets) Lucky the best career center. Told you that you have to have a clear plan starting from the first day. I just want to enjoy my real life. Do course, do internship, or
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk3MTc4MDAsLTEyMTA3MTg0MjksMT
-Q1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMjEwNjAwOTA4NiwtMTIxMDcxODQyOSwxND
+U3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
