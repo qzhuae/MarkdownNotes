@@ -95,9 +95,9 @@ Some polititian. according to law. keeping such kind of pictures are not forbidd
 
 - [ ] check out video 30-40 minutes to know what would be on the quiz.
 
-
+Who make the same choice in three scenario. I will not sned because does not wnat to hurt the trust. Who in the whole process will share the photo to the public?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM2NDQ3OTQsLTEwNjg4NjMxNDUsMj
+eyJoaXN0b3J5IjpbLTE4NTA1ODAyMTIsLTEwNjg4NjMxNDUsMj
 EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
 MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
