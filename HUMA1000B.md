@@ -168,10 +168,12 @@ This is very attractive to the public opinion. Intentionally or unintentionally,
 
 In hong kong, no space and need to keep space for animals. Unlike traditional ideas in catholic religion when human have souls.
 
+Do not quantify the unit of measure? 
 
+For utilitarianism, every body is considered in moral discussion. But does not mean there will be equal treatment in the end. A policy agreeing to homosexual marriage, they can still 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY4MDk4NDIsMTI2Mzc3MzAyMSwtNz
-A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
-MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
-U3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMTMxNDkzMTkxOCwxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
