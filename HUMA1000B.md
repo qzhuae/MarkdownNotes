@@ -92,8 +92,12 @@ What is the reason behind the change of behavior? Not worth the risk of violatin
 Law capture an important feature. Strongly influence by our interest might not be aware. We try to choose the choices that aligns with our self interest. 
 
 Some polititian. according to law. keeping such kind of pictures are not forbidded by law. So the police made a false statement. Sending to friends does not violate the law. Post them to internet would be in breach of the law. 
+
+- [ ] check out video 30-40 minutes to know what would be on the quiz.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEwOTc3NjQsLTEwNjg4NjMxNDUsMj
+eyJoaXN0b3J5IjpbLTEzNzM2NDQ3OTQsLTEwNjg4NjMxNDUsMj
 EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
 MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
