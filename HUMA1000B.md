@@ -122,10 +122,12 @@ We now have Utilitarianism. If somebody criticize them using foul language, in w
 
 The students are too aggressive and shouldn't be like this. 
 
-How to say a 
+How to say a language is too aggressive? heartbeat, blood pressure, Student should respect teachers no matter how the teacher treats you? Sexual harassment? Mutual respect is what you expected and this is justifiable. Moral requiremetn that student should respect teacher? 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNTkwOTM4LDEyNjM3NzMwMjEsLTcwOD
-M5MTQ4MCwtMTA2ODg2MzE0NSwyMTAzOTI0ODYxLC0yMDY4NTI3
-MzkyLC0yMDUyMTQ3NjYxLC0xMjEwNzE4NDI5LDE0NTcyMDE1Nz
-gsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbMTkzNjM0MTkyNCwxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
