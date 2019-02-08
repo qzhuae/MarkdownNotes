@@ -67,9 +67,13 @@ For Dr. Lam, they are all independent judgement.
 
 Among the duty of students. Have a good understanding, just to see somebody cute. 
 
+Use an hour to talk about morality and law, and their influence on human behavior. 
 
+As a member of society, you cannot do whatever you want. especially not those prohibited by law. How does a legal system influence the behavior influence human behavior. 
+
+Edison Chen example to demonstrate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Nzc4OTcxNCwtMTA2ODg2MzE0NSwyMT
-AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
-NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbNjIyOTI2MjcxLC0xMDY4ODYzMTQ1LDIxMD
+M5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3
+MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
 -->
