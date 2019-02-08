@@ -108,10 +108,12 @@ B: 强权来rule你行为
 C: 所有道德标准就是法律标准
 D: 现实社会
 
+## Feb 8 有用的
 
+Something happened in CUHK, some student storm the language 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzc3MzAyMSwtNzA4MzkxNDgwLC0xMD
-Y4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIx
-NDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5Mz
-QyXX0=
+eyJoaXN0b3J5IjpbLTgyOTIzNTU4NywxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
