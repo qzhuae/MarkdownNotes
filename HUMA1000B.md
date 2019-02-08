@@ -164,10 +164,14 @@ Based on principle of utility: pleasure against suffering, regardless of social 
 
 This is very attractive to the public opinion. Intentionally or unintentionally, try to treat pleasure against suffering as the unit of measurement. This become very strong argument to support animal rights? Why take care of animals? 
 
-`Idea of Equal Consideration` Why
+`Idea of Equal Consideration` 
+
+In hong kong, no space and need to keep space for animals. Unlike traditional ideas in catholic religion when human have souls.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzg2MTgyMSwxMjYzNzczMDIxLC03MD
-gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
-NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
-c4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTY4MDk4NDIsMTI2Mzc3MzAyMSwtNz
+A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
+MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
+U3OCwxMTA3ODM5MzQyXX0=
 -->
