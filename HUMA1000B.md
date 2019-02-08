@@ -171,8 +171,13 @@ In hong kong, no space and need to keep space for animals. Unlike traditional id
 Do not quantify the unit of measure? 
 
 For utilitarianism, every body is considered in moral discussion. But does not mean there will be equal treatment in the end. A policy agreeing to homosexual marriage, they can still say that HM is a bad taste. HM does not affect their life tho even if they do not like it. If HM does not affect the chance of picking of partner. Such policy only benefit the minority and does not harm the majority a lot. 
+
+**Apply the idea to the essay?**
+
+Lifeboat 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY4MTYyNTIsMTI2Mzc3MzAyMSwtNz
+eyJoaXN0b3J5IjpbLTE5MTU2MTYyNzIsMTI2Mzc3MzAyMSwtNz
 A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
 MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
 U3OCwxMTA3ODM5MzQyXX0=
