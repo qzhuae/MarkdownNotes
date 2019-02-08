@@ -110,9 +110,13 @@ D: 现实社会
 
 ## Feb 8 有用的
 
-Something happened in CUHK, some student storm the language 
+Something happened in BUHK, some student storm the language center to complain mandarin chinese language requirement.
+
+Public opinion: student shouldn't use foul language during their movement. Too aggressive and didn't respect teacher.
+
+Mandarin course not interesting, useless: in the sense that in moral discussion: no agreed ground for discussion? A say A B said B not agr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTIzNTU4NywxMjYzNzczMDIxLC03MD
+eyJoaXN0b3J5IjpbMjA0ODU1MTU5NSwxMjYzNzczMDIxLC03MD
 gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
 NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
 c4LDExMDc4MzkzNDJdfQ==
