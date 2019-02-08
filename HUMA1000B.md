@@ -101,9 +101,9 @@ Anyone choose to distribute, because you think you will not get caught.
 On one hand there are laws. or somebody is htere to transcend the law. classically, if you are such talent, you would believe that no one in police force.  
 
 
-
+Venn diagram makes a clear definition, you can see claear correlation. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc3MjcyNTQsLTEwNjg4NjMxNDUsMj
-EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
-MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTcwODM5MTQ4MCwtMTA2ODg2MzE0NSwyMT
+AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
+NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
