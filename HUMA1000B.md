@@ -77,9 +77,9 @@ Hobby: Take picture and show-off
 
 Photo Scandal, IPRS question
 
-Why deltet 
+Why delete the photo? Not handsome, bad photography skills. Do you regularly clean up the desktop of your laptop? Compare to ignoring, why delete the photo? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDcxMDg0NywtMTA2ODg2MzE0NSwyMT
-AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
-NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbLTIxNDEyMjkyMDUsLTEwNjg4NjMxNDUsMj
+EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
+MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
