@@ -145,9 +145,10 @@ Characteristic: Very aggressive, because rule breakers they are. They only trust
 
 Whether a policy is good or not? E.g. Curriculum reform. what is plan, what is going on, what is conclusion, and what we have to do.
 
-Utilitarianism: the consequence is good, then you do it.
+Utilitarianism: the consequence is good, then you do it. A subset of consequentialism. 
+If one day, student found that CCC is bad. then by all means you have to do curriculum reform. We do not need to care about what is the actiona 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIyMjM4NDQsMTI2Mzc3MzAyMSwtNz
+eyJoaXN0b3J5IjpbLTE2MzQ4MDQ1MjYsMTI2Mzc3MzAyMSwtNz
 A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
 MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
 U3OCwxMTA3ODM5MzQyXX0=
