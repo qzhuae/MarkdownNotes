@@ -110,6 +110,8 @@ D: 现实社会
 
 ## Feb 8 有用的
 
+[Lecture Slide about BU event.]
+
 Something happened in BUHK, some student storm the language center to complain mandarin chinese language requirement.
 
 Public opinion: student shouldn't use foul language during their movement. Too aggressive and didn't respect teacher.
@@ -146,10 +148,14 @@ Characteristic: Very aggressive, because rule breakers they are. They only trust
 Whether a policy is good or not? E.g. Curriculum reform. what is plan, what is going on, what is conclusion, and what we have to do.
 
 Utilitarianism: the consequence is good, then you do it. A subset of consequentialism. 
-If one day, student found that CCC is bad. then by all means you have to do curriculum reform. We do not need to care about what is the actiona 
+If one day, student found that CCC is bad. then by all means you have to do curriculum reform. We do not need to care about what is the action and means you take.
+
+### What is the shared unit of utility?
+
+Bentham tries to capture the idea from hedonist? Agreeable among human being regardless of the social background. Just like Edison Scandal. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ4MDQ1MjYsMTI2Mzc3MzAyMSwtNz
-A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
-MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
-U3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbLTQ0NTg2NjcxMiwxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
