@@ -57,9 +57,13 @@ A scenario in which your true love, during your final year you have financial ab
 
 Why so serious?
 
- 
+## Feb 8 
+
+What is a independent judgement? 
+
+Is it independent judgement that I want to see what happen? just attracted by someone else in the classroom? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMj
-A2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3
-MjAxNTc4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbNTcxMzY3NjcyLC0xMDY4ODYzMTQ1LDIxMD
+M5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3
+MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
 -->
