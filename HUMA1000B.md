@@ -85,10 +85,11 @@ Anyone in this room love taxation? If you won something in lucky draw, will you 
 
 Benefit friend, draw a clear line, benefit who they know. If you have to share your salary, then the first one should be your family and friends. Everyone can have a reason to stand by your choice.
 
-Will you change your decision, if you realise that keeping the photos is against the law?
+Will you change your decision, if you realize that keeping the photos is against the law?
 
+What is the reason behind the change of behavior? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzg4ODE0NCwtMTA2ODg2MzE0NSwyMT
-AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
-NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbMTIxNTQzNzY3LC0xMDY4ODYzMTQ1LDIxMD
+M5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3
+MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
 -->
