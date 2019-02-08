@@ -99,8 +99,11 @@ Who make the same choice in three scenario. I will not send because does not wna
 Anyone choose to distribute, because you think you will not get caught. 
 
 On one hand there are laws. or somebody is htere to transcend the law. classically, if you are such talent, you would believe that no one in police force.  
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDEwMzc4NTYsLTEwNjg4NjMxNDUsMj
+eyJoaXN0b3J5IjpbLTE3Nzc3MjcyNTQsLTEwNjg4NjMxNDUsMj
 EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
 MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
