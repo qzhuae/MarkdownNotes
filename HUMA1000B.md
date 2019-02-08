@@ -130,10 +130,15 @@ Didn't make it care studnet should respect? Then is it wrong to not respect teac
 
 For moral discussion, we don't have experiment. 
 
-Meaningful discussion: concl
+Meaningful discussion: conclusion is verifiable, always come up with solid conclusion. 
+Common ground of moral discussion.
+
+`Principle of Utility`: by Jeremy Bentham: .**Always choose whether action or social policy would have the best consequence for everyone concerned.**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc3NjMwMjQsMTI2Mzc3MzAyMSwtNz
-A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
-MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
-U3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMTg5MjU2MjUxNywxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
