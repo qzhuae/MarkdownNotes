@@ -90,8 +90,10 @@ Will you change your decision, if you realize that keeping the photos is against
 What is the reason behind the change of behavior? Not worth the risk of violating the law? The factor affecting your self interest change, it changes your life. Because the effect the law. Following the law align with self-interest. Punish the one acting inproperly. No effert to educate everyone.
 
 Law capture an important feature. Strongly influence by our interest might not be aware. We try to choose the choices that aligns with our self interest. 
+
+Some polititian. according to law. keeping such kind of pictures are not forbidded by law. So the police made a false statement. Sending to friends does not violate the law. Post them to internet would be in breach of the law. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTY5MTI2MywtMTA2ODg2MzE0NSwyMT
-AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
-NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbLTEzNzEwOTc3NjQsLTEwNjg4NjMxNDUsMj
+EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
+MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
