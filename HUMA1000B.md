@@ -141,9 +141,13 @@ Bring the power of making moral judgement to everybody, not king, cultural belie
 
 Agreeable evidence that is shared among human beings. 
 
-Characteristic: 
+Characteristic: Very aggressive, because rule breakers they are. They only trust reasoning. 
+
+Whether a policy is good or not? E.g. Curriculum reform. what is plan, what is going on, what is conclusion, and what we have to do.
+
+Utilitarianism: the consequence is good, then you do it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg2MjE5MDEsMTI2Mzc3MzAyMSwtNz
+eyJoaXN0b3J5IjpbLTExODIyMjM4NDQsMTI2Mzc3MzAyMSwtNz
 A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
 MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
 U3OCwxMTA3ODM5MzQyXX0=
