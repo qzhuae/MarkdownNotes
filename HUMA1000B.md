@@ -180,11 +180,18 @@ Factors affect the consequences: who has better chance to survive? Who contribut
 
 Is it ok to say that young promising scientist contribute more the world? May make student suffer in the lecture. measurement of pleasure and suffers. 
 
-Social reti
+Social retirement scheme:
+Who should be considered in the case? Citizens of your country? Citizens of both countries? Future generations?
+
+Factors affect the consequences: Lives being saved, potential hazard, etc.
+
+Is pleasure the only thing that matters?
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDExNjM5MywxMjYzNzczMDIxLC03MD
+eyJoaXN0b3J5IjpbMTI4MjIzOTYxNiwxMjYzNzczMDIxLC03MD
 gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
 NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
 c4LDExMDc4MzkzNDJdfQ==
