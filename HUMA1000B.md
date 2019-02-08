@@ -79,9 +79,9 @@ Photo Scandal, IPRS question
 
 Why delete the photo? Not handsome, bad photography skills. Do you regularly clean up the desktop of your laptop? Compare to ignoring, why delete the photo? 
 
-If share, then you will lose the trust of my other friends. Besides very good talented students, normally we don't have times to complete all assignments. 
+If share, then you will lose the trust of my other friends. Besides very good talented students, normally we don't have times to complete all assignments. When somebody send you a source/home work, you don't? Again, your self-interest, might harm you in the long run. A long term self-interest. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY0Mjc0OTksLTEwNjg4NjMxNDUsMj
+eyJoaXN0b3J5IjpbLTE1OTA0NjA1NzQsLTEwNjg4NjMxNDUsMj
 EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
 MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
