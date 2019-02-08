@@ -135,10 +135,16 @@ Common ground of moral discussion.
 
 `Principle of Utility`: by Jeremy Bentham: .**Always choose whether action or social policy would have the best consequence for everyone concerned.**
 
+Moral Discussion and conduct are a lot of times dominated by religious belief and opinions of royal families or who with authority to make law. 
 
+Bring the power of making moral judgement to everybody, not king, cultural belief, god. 
+
+Agreeable evidence that is shared among human beings. 
+
+Characteristic: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjU2MjUxNywxMjYzNzczMDIxLC03MD
-gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
-NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
-c4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTEyMDg2MjE5MDEsMTI2Mzc3MzAyMSwtNz
+A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
+MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
+U3OCwxMTA3ODM5MzQyXX0=
 -->
