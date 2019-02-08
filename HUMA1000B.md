@@ -78,8 +78,10 @@ Hobby: Take picture and show-off
 Photo Scandal, IPRS question
 
 Why delete the photo? Not handsome, bad photography skills. Do you regularly clean up the desktop of your laptop? Compare to ignoring, why delete the photo? 
+
+If share, then you will lose the trust of my other friends. Besides very good talented students, normally we don't have times to complete all assignments. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDEyMjkyMDUsLTEwNjg4NjMxNDUsMj
+eyJoaXN0b3J5IjpbLTE3MTY0Mjc0OTksLTEwNjg4NjMxNDUsMj
 EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
 MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
