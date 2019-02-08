@@ -98,9 +98,9 @@ Some polititian. according to law. keeping such kind of pictures are not forbidd
 Who make the same choice in three scenario. I will not send because does not wnat to hurt the trust. Who in the whole process will share the photo to the public? Who take the risk to try to benefit the society. The answer of utilitarianism, public interest comes first. 
 Anyone choose to distribute, because you think you will not get caught. 
 
-On one hand there are laws. or 
+On one hand there are laws. or somebody is htere to transcend the law. classically, if you are such talent, you would believe that no one in police force.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NTcyNjE5LC0xMDY4ODYzMTQ1LDIxMD
-M5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3
-MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbLTE1NDEwMzc4NTYsLTEwNjg4NjMxNDUsMj
+EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
+MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
 -->
