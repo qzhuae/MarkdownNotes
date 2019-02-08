@@ -122,12 +122,14 @@ We now have Utilitarianism. If somebody criticize them using foul language, in w
 
 The students are too aggressive and shouldn't be like this. 
 
-How to say a language is too aggressive? heartbeat, blood pressure, Student should respect teachers no matter how the teacher treats you? Sexual harassment? Mutual respect is what you expected and this is justifiable. Moral requiremetn that student should respect teacher? 
+How to say a language is too aggressive? heartbeat, blood pressure, Student should respect teachers no matter how the teacher treats you? Sexual harassment? Mutual respect is what you expected and this is justifiable. Moral requirement that student should respect teacher? 
+
+Code of conduct of HKUST. will you be punished by UST if you disrespect your teacher. Maybe the university does not care? 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjM0MTkyNCwxMjYzNzczMDIxLC03MD
-gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
-NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
-c4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQyOTMzMzMsMTI2Mzc3MzAyMSwtNz
+A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
+MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
+U3OCwxMTA3ODM5MzQyXX0=
 -->
