@@ -191,13 +191,19 @@ Objection: why consequence would be ultimate true in moral discussion, such as h
 
 Robert Nozick, John Stuart Mill also critized the theory.
 
+Nozick: Experience Machine
+
+Want to do certain things? not just pleasure driven human
+Cannot justify human value with one single idea.
+Idea of Experience Machine becomes the foundation of the movie Matrix.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTEyMDUwLDEyNjM3NzMwMjEsLTcwOD
-M5MTQ4MCwtMTA2ODg2MzE0NSwyMTAzOTI0ODYxLC0yMDY4NTI3
-MzkyLC0yMDUyMTQ3NjYxLC0xMjEwNzE4NDI5LDE0NTcyMDE1Nz
-gsMTEwNzgzOTM0Ml19
+eyJoaXN0b3J5IjpbMTcwMTk3ODY4OCwxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
