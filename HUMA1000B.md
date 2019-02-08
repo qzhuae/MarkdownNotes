@@ -87,11 +87,11 @@ Benefit friend, draw a clear line, benefit who they know. If you have to share y
 
 Will you change your decision, if you realize that keeping the photos is against the law?
 
-What is the reason behind the change of behavior? Not worth the risk of violating the law? The factor affecting your self interest change, it changes your life. Because the effect the law. Following the law align with self-interest. Punish the one acting inproperly. No effert to educate everyone.
+What is the reason behind the change of behavior? Not worth the risk of violating the law? The factor affecting your self interest change, it changes your life. Because the effect the law. Following the law align with self-interest. Punish the one acting inproperly. No effect to educate everyone.
 
 Law capture an important feature. Strongly influence by our interest might not be aware. We try to choose the choices that aligns with our self interest. 
 
-Some polititian. according to law. keeping such kind of pictures are not forbidded by law. So the police made a false statement. Sending to friends does not violate the law. Post them to internet would be in breach of the law. 
+Some politician. according to law. keeping such kind of pictures are not forbidden by law. So the police made a false statement. Sending to friends does not violate the law. Post them to internet would be in breach of the law. 
 
 - [ ] check out video 30-40 minutes to know what would be on the quiz.
 
@@ -110,7 +110,7 @@ D: 现实社会
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjE2OTk5MSwtNzA4MzkxNDgwLC0xMD
+eyJoaXN0b3J5IjpbMTI2Mzc3MzAyMSwtNzA4MzkxNDgwLC0xMD
 Y4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIx
 NDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5Mz
 QyXX0=
