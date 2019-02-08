@@ -62,8 +62,14 @@ Why so serious?
 What is a independent judgement? 
 
 Is it independent judgement that I want to see what happen? just attracted by someone else in the classroom? 
+
+For Dr. Lam, they are all independent judgement.
+
+Among the duty of students. Have a good understanding, just to see somebody cute. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMzY3NjcyLC0xMDY4ODYzMTQ1LDIxMD
-M5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3
-MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbLTQ4Nzc4OTcxNCwtMTA2ODg2MzE0NSwyMT
+AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
+NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
