@@ -174,10 +174,13 @@ For utilitarianism, every body is considered in moral discussion. But does not m
 
 **Apply the idea to the essay?**
 
-Lifeboat 
+Lifeboat dilemma: Who should be considered in the case? The three people involved, or the whole world?
+
+Factors affect the consequences: who has better chance to survive? Who contributes more to the world.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU2MTYyNzIsMTI2Mzc3MzAyMSwtNz
+eyJoaXN0b3J5IjpbLTE5NzgzMzkxMjAsMTI2Mzc3MzAyMSwtNz
 A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
 MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
 U3OCwxMTA3ODM5MzQyXX0=
