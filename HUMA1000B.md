@@ -152,9 +152,15 @@ If one day, student found that CCC is bad. then by all means you have to do curr
 
 ### What is the shared unit of utility?
 
-Bentham tries to capture the idea from hedonist? Agreeable among human being regardless of the social background. Just like Edison Scandal. 
+Bentham tries to capture the idea from hedonist? Agreeable among human being regardless of the social background. Just like Edison Scandal. Only personal enjoyment
+
+Utilitarianism: public good rather than personal enjoyment. It is possible that some of the public member would sacrifice.
+
+Historically speaking, Utilitarianism has root in historical use.. 
+
+attractive feature: the idea of evil consideration: rich people are always minority.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTg2NjcxMiwxMjYzNzczMDIxLC03MD
+eyJoaXN0b3J5IjpbMTQ2OTI1MzU0MSwxMjYzNzczMDIxLC03MD
 gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
 NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
 c4LDExMDc4MzkzNDJdfQ==
