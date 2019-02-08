@@ -126,9 +126,13 @@ How to say a language is too aggressive? heartbeat, blood pressure, Student shou
 
 Code of conduct of HKUST. will you be punished by UST if you disrespect your teacher. Maybe the university does not care? 
 
+Didn't make it care studnet should respect? Then is it wrong to not respect teacher? 
 
+For moral discussion, we don't have experiment. 
+
+Meaningful discussion: concl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQyOTMzMzMsMTI2Mzc3MzAyMSwtNz
+eyJoaXN0b3J5IjpbLTE1MTc3NjMwMjQsMTI2Mzc3MzAyMSwtNz
 A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
 MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
 U3OCwxMTA3ODM5MzQyXX0=
