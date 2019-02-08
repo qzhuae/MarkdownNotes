@@ -98,14 +98,19 @@ Some polititian. according to law. keeping such kind of pictures are not forbidd
 Who make the same choice in three scenario. I will not send because does not wnat to hurt the trust. Who in the whole process will share the photo to the public? Who take the risk to try to benefit the society. The answer of utilitarianism, public interest comes first. 
 Anyone choose to distribute, because you think you will not get caught. 
 
-On one hand there are laws. or somebody is htere to transcend the law. classically, if you are such talent, you would believe that no one in police force.  
+On one hand there are laws. or somebody is there to transcend the law. classically, if you are such talent, you would believe that no one in police force.  
 
 
 Venn diagram makes a clear definition, you can see claear correlation. 
 
 A: 
+B: 强权来rule你行为
+C: 所有道德标准就是法律标准
+D: 现实社会
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTE4MTk3NSwtNzA4MzkxNDgwLC0xMD
+eyJoaXN0b3J5IjpbMTM2MjE2OTk5MSwtNzA4MzkxNDgwLC0xMD
 Y4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIx
 NDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5Mz
 QyXX0=
