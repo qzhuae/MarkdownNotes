@@ -197,13 +197,17 @@ Want to do certain things? not just pleasure driven human
 Cannot justify human value with one single idea.
 Idea of Experience Machine becomes the foundation of the movie Matrix.
 
+May use this in essay 3. Humanity might ends up being capture in the machine.
+
+Reality or Pleasure. 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTk3ODY4OCwxMjYzNzczMDIxLC03MD
-gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
-NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
-c4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDM3NDgzMjYsMTI2Mzc3MzAyMSwtNz
+A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
+MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
+U3OCwxMTA3ODM5MzQyXX0=
 -->
