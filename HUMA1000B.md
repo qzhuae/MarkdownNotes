@@ -87,9 +87,9 @@ Benefit friend, draw a clear line, benefit who they know. If you have to share y
 
 Will you change your decision, if you realize that keeping the photos is against the law?
 
-What is the reason behind the change of behavior? 
+What is the reason behind the change of behavior? Not worth the risk of violating the law? The factor affecting your self interest change, it changes your life. Because the effect the law. Following the law align with self-interest. Punish the one acting inproperl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTQzNzY3LC0xMDY4ODYzMTQ1LDIxMD
-M5MjQ4NjEsLTIwNjg1MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3
-MTg0MjksMTQ1NzIwMTU3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMTAyMDAxMjg0MSwtMTA2ODg2MzE0NSwyMT
+AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
+NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
