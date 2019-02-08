@@ -156,11 +156,17 @@ Bentham tries to capture the idea from hedonist? Agreeable among human being reg
 
 Utilitarianism: public good rather than personal enjoyment. It is possible that some of the public member would sacrifice.
 
-Historically speaking, Utilitarianism has root in historical use.. 
+Historically speaking, Utilitarianism has root in historical use.
 
 attractive feature: the idea of evil consideration: rich people are always minority.
+
+Based on principle of utility: pleasure against suffering, regardless of social status, gender, color, not one should be ignored in moral discussion. 
+
+This is very attractive to the public opinion. Intentionally or unintentionally, try to treat pleasure against suffering as the unit of measurement. This become very strong argument to support animal rights? Why take care of animals? 
+
+`Idea of Equal Consideration` Why
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTI1MzU0MSwxMjYzNzczMDIxLC03MD
+eyJoaXN0b3J5IjpbMTAxMzg2MTgyMSwxMjYzNzczMDIxLC03MD
 gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
 NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
 c4LDExMDc4MzkzNDJdfQ==
