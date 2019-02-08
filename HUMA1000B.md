@@ -185,14 +185,19 @@ Who should be considered in the case? Citizens of your country? Citizens of both
 
 Factors affect the consequences: Lives being saved, potential hazard, etc.
 
-Is pleasure the only thing that matters?
+**Is pleasure the only thing that matters?**
+
+Objection: why consequence would be ultimate true in moral discussion, such as human rights and global justice. 
+
+Robert Nozick, John Stuart Mill also critized the theory.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjIzOTYxNiwxMjYzNzczMDIxLC03MD
-gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
-NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
-c4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTcyMTEyMDUwLDEyNjM3NzMwMjEsLTcwOD
+M5MTQ4MCwtMTA2ODg2MzE0NSwyMTAzOTI0ODYxLC0yMDY4NTI3
+MzkyLC0yMDUyMTQ3NjYxLC0xMjEwNzE4NDI5LDE0NTcyMDE1Nz
+gsMTEwNzgzOTM0Ml19
 -->
