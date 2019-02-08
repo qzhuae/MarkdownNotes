@@ -114,10 +114,14 @@ Something happened in BUHK, some student storm the language center to complain m
 
 Public opinion: student shouldn't use foul language during their movement. Too aggressive and didn't respect teacher.
 
-Mandarin course not interesting, useless: in the sense that in moral discussion: no agreed ground for discussion? A say A B said B not agr
+Mandarin course not interesting, useless: in the sense that in moral discussion: no agreed ground for discussion? A say A B said B not agreement on anything 
+
+Will not stop if without conclusion. Why dont spend time to make money.
+
+We now have Utilitarianism. If somebody criticize them using foul language, in what sense, foul L should never be used. How to define which word are foul language? What is foul language? May not be foul language? Ma 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODU1MTU5NSwxMjYzNzczMDIxLC03MD
-gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
-NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
-c4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbNzgxNzE3MDcxLDEyNjM3NzMwMjEsLTcwOD
+M5MTQ4MCwtMTA2ODg2MzE0NSwyMTAzOTI0ODYxLC0yMDY4NTI3
+MzkyLC0yMDUyMTQ3NjYxLC0xMjEwNzE4NDI5LDE0NTcyMDE1Nz
+gsMTEwNzgzOTM0Ml19
 -->
