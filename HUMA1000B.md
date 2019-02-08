@@ -178,10 +178,14 @@ Lifeboat dilemma: Who should be considered in the case? The three people involve
 
 Factors affect the consequences: who has better chance to survive? Who contributes more to the world.
 
+Is it ok to say that young promising scientist contribute more the world? May make student suffer in the lecture. measurement of pleasure and suffers. 
+
+Social reti
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzgzMzkxMjAsMTI2Mzc3MzAyMSwtNz
-A4MzkxNDgwLC0xMDY4ODYzMTQ1LDIxMDM5MjQ4NjEsLTIwNjg1
-MjczOTIsLTIwNTIxNDc2NjEsLTEyMTA3MTg0MjksMTQ1NzIwMT
-U3OCwxMTA3ODM5MzQyXX0=
+eyJoaXN0b3J5IjpbMTE2NDExNjM5MywxMjYzNzczMDIxLC03MD
+gzOTE0ODAsLTEwNjg4NjMxNDUsMjEwMzkyNDg2MSwtMjA2ODUy
+NzM5MiwtMjA1MjE0NzY2MSwtMTIxMDcxODQyOSwxNDU3MjAxNT
+c4LDExMDc4MzkzNDJdfQ==
 -->
