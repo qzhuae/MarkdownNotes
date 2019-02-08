@@ -72,8 +72,12 @@ Use an hour to talk about morality and law, and their influence on human behavio
 As a member of society, you cannot do whatever you want. especially not those prohibited by law. How does a legal system influence the behavior influence human behavior. 
 
 Edison Chen example to demonstrate the influence of morality and law on human behavior. 
+
+Hobby: Take picture and show-off
+
+Photo Scandal, IPRS 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIxMjk3NTgsLTEwNjg4NjMxNDUsMj
-EwMzkyNDg2MSwtMjA2ODUyNzM5MiwtMjA1MjE0NzY2MSwtMTIx
-MDcxODQyOSwxNDU3MjAxNTc4LDExMDc4MzkzNDJdfQ==
+eyJoaXN0b3J5IjpbLTYxODU2NjE5MywtMTA2ODg2MzE0NSwyMT
+AzOTI0ODYxLC0yMDY4NTI3MzkyLC0yMDUyMTQ3NjYxLC0xMjEw
+NzE4NDI5LDE0NTcyMDE1NzgsMTEwNzgzOTM0Ml19
 -->
